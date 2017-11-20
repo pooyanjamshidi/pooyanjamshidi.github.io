@@ -10,3 +10,4 @@ group: research
 * Highly-configurable software
 * Performance analysis of software systems
 * Self-adaptive software systems
+* Performance-aware DevOps

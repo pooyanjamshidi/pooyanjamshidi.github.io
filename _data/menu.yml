@@ -4,11 +4,11 @@
 - title: "Publications"
   href: "/publications/"
 
-- title: "Teaching"
-  href: "/teaching/"
+# - title: "Teaching"
+#   href: "/teaching/"
 
-- title: "Service"
-  href: "/service/"
+# - title: "Service"
+#   href: "/service/"
 
 # - title: "Students"
 #   href: "/students/"
