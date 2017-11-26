@@ -267,5 +267,5 @@ div#twitter {
     margin: auto;
 }
 
-a[href^="http://arxiv.org"] .bibbase_icon { display: none; }
-a[href^="http://arxiv.org"] .bibbase_icon_text { display: inline-block; }
+a[href^="http://arxiv.org"].bibbase_icon{ display: none;}
+a[href^="http://arxiv.org"].bibbase_icon_text{ display: inline-block;}
