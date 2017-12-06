@@ -7,7 +7,6 @@ group: research
 
 # Resarch Interests
 
-* Highly-configurable software
-* Performance analysis of software systems
-* Self-adaptive software systems
-* Performance-aware DevOps
+* **Software Engineering:** Highly-configurable software, self-adaptive software, software architecture
+* **Systems:** Black-box performance modeling and analysis, control theory, autonomic computing, cloud computing, big data
+* **Machine Learning:** Transfer learning, data-efficient machine learning, Gaussian processes, reinforcement learning, Bayesian optimization
