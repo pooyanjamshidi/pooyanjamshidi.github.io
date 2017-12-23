@@ -6,11 +6,11 @@ permalink: /talks/
 
 # Invited Talks
 
-* [Transfer Learning for Software Performance Analysis: An Exploratory Analysis](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-software-performance-analysis-an-exploratory-analysis), Urbana-Champaign, Illinois, November 2017.
+* [Transfer Learning for Software Performance Analysis: An Exploratory Analysis](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-software-performance-analysis-an-exploratory-analysis), Urbana-Champaign, IL, November 2017.
 
-* [Architecting for Scale](https://www.slideshare.net/pooyanjamshidi/architecting-for-scale-80515767), Invited lecture at CMU, Pittsburgh, Pensilvenia, October 2017.
+* [Architecting for Scale](https://www.slideshare.net/pooyanjamshidi/architecting-for-scale-80515767), Invited lecture at CMU, Pittsburgh, PA, October 2017.
 
-* [Learning Software Performance Models for Dynamic and Uncertain Environments](https://www.slideshare.net/pooyanjamshidi/learning-software-performance-models-for-dynamic-and-uncertain-environments-76616004), Raleigh, North Carolina, June 2017.
+* [Learning Software Performance Models for Dynamic and Uncertain Environments](https://www.slideshare.net/pooyanjamshidi/learning-software-performance-models-for-dynamic-and-uncertain-environments-76616004), Raleigh, NC, June 2017.
 
 * [Transfer Learning for Improving Model Predictions in Highly Configurable Software](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-improving-model-predictions-in-highly-configurable-software), DARPA Worskhop, Boston, MA, March 2017.
 
@@ -31,4 +31,4 @@ Brazil, 2015.
 
 * [Self-learning Cloud Controllers](https://www.slideshare.net/pooyanjamshidi/self-learning-cloud-controllers), Online talk, RG DevOps Performance Working Group, 2015.
 
-* [Fuzzy Control meets Software Engineering](https://www.slideshare.net/pooyanjamshidi/dagstuhl-pooyan), September 2014.
+* [Fuzzy Control meets Software Engineering](https://www.slideshare.net/pooyanjamshidi/dagstuhl-pooyan),Dagstuhl seminar (Control Theory meets Software Engineering), Dagstuhl, Germany, September 2014.
