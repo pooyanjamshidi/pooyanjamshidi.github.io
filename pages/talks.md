@@ -18,6 +18,8 @@ permalink: /talks/
 
 * [Machine Learning meets DevOps](https://www.slideshare.net/pooyanjamshidi/machine-learning-meets-devops), Dagstuhl seminar (Software Performance Engineering in the DevOps World), Dagstuhl, Germany, September 2016.
 
+* [Transfer Learning for Optimal Configuration of Big Data Software](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-optimal-configuration-of-big-data-software), Imperial College London, UK, June 2016.
+
 * [Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture](https://www.slideshare.net/pooyanjamshidi/microservices-architecture-enables-devops-migration-to-a-cloudnative-architecture), Online talk, RG DevOps Performance Working Group, March 2016.
 
 * [Fuzzy Self-Learning Controllers for Elasticity Management in Dynamic Cloud Architectures](https://www.slideshare.net/pooyanjamshidi/fuzzy-selflearning-controllers-for-elasticity-management-in-dynamic-cloud-architectures), National Institute of Informatics (NII), Controlled Adaptation of Self-adaptive Systems (CASaS), Shonan, Japan, April 2016.
