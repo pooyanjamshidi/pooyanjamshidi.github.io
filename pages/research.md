@@ -16,8 +16,12 @@ An example of a highly-configurable system is Deep Neural Networks, which have t
 ### Who cares?
 Many small and medium sized enterprises use a form of machine learning pipeline for their tasks (e.g., fraud detection). Due to the limited resources and desire for speed, it is important to tune the data processing pipeline including machine learning algorithms to achieve the desired accuracy and inference speed, while demanding less computing resources. My research enables organizations to get the most out of their configurable systems by providing methods to understand the performance behavior of their systems, explore the design space, reason about qualities (performance, energy), and to make tradeoff.
 
-### What is my approach and the intuition behind it? 
+### What is my solution and the intuition behind it? 
 Our recent [empirical study](https://arxiv.org/pdf/1709.02280) revealed that there exist several sources of similarities between the performance behavior of configurable systems in different environments, opening up several opportunities for **transfer learning**. Using this intuition, I develop methods to enable learning performance behavior of configurable systems using a lower fidelity or cheaper version of the target system that we are optimizing (e.g., using a workload that allow us to measure the neural architecture performance faster). Please see our recent publications for further details: [ASE '17](https://arxiv.org/pdf/1709.02280), [SEAMS '17](https://arxiv.org/pdf/1704.00234), [MASCOTS '16](https://arxiv.org/pdf/1606.06543).
+
+### What is my research approach/philosophy?
+
+I go after difficult, but relevant problems in industry. For solving these real-world problems, I design and build solutions that rooted in theory, but at the same time I care a lot about practicality of the solutions that can advance the state-of-the-art. I also attempt to study existing systems to build and advance systems theory based on the observations and insights. I DO NOT BELIEVE in simulations, the solutions should work in practice!
 
 
 # Research Expertise
