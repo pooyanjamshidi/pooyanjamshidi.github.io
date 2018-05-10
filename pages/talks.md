@@ -6,6 +6,8 @@ permalink: /talks/
 
 # Invited Talks
 
+* [Architectural Tradeoffs in Learning-Based Software](https://www.slideshare.net/pooyanjamshidi/architectural-tradeoff-in-learningbased-software), Plano, Texas, May 2018.
+
 * [Transfer Learning for Software Performance Analysis: An Exploratory Analysis](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-software-performance-analysis-an-exploratory-analysis), Urbana-Champaign, IL, November 2017.
 
 * [Architecting for Scale](https://www.slideshare.net/pooyanjamshidi/architecting-for-scale-80515767), Invited lecture at CMU, Pittsburgh, PA, October 2017.
