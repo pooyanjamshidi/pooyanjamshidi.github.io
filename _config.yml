@@ -2,7 +2,7 @@
 title: Pooyan Jamshidi
 email: pjamshid@cse.sc.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Pooyan Jamshidi, Assistant Professor, Computer Science and Engineering, USC. Office 2207, Storey Innovation Center
+  Pooyan Jamshidi, Assistant Professor, Computer Science and Engineering, Room 2207, Storey Innovation Center
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: PooyanJamshidi
