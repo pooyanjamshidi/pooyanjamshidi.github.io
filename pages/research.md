@@ -27,5 +27,5 @@ I go after difficult, but relevant problems in industry. For solving these real-
 # Research Expertise
 
 * **Software Engineering:** Highly-configurable software, self-adaptive software, software architecture
-* **Systems:** Black-box performance modeling and analysis, control theory, autonomic computing, cloud computing, big data
+* **Computer Systems:** Black-box performance modeling and analysis, control theory, autonomic computing, cloud computing, big data
 * **Machine Learning:** Transfer learning, Gaussian processes, reinforcement learning, Bayesian optimization
