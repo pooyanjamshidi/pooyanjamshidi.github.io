@@ -9,6 +9,6 @@ group: teaching
 * [CSCE 790 - Machine Learning Systems](https://github.com/pooyanjamshidi/mls).
 
 
-# Fall 2019
+# Spring 2019
 
 * CSCE 317 - Computer Systems Engineering.
