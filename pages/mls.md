@@ -23,6 +23,7 @@ When we talk about Machine Learning (ML), we typically refer to a technique or a
 
 
 <ul id="archive">
+{% for lectures in site.data.lectures %}	
       <li class="archiveposturl">
         <span><a href="https://github.com/pooyanjamshidi/mls/tree/master/lectures">Lecture 1 (Course Introduction)</a></span><br>
 <span class = "postlower">
@@ -32,4 +33,5 @@ When we talk about Machine Learning (ML), we typically refer to a technique or a
 <a href="https://github.com/pooyanjamshidi/mls/tree/master/lectures"><i class="fas fa-file-pdf"></i></a>
 </strong> 
       </li>
+{% endfor %}
 </ul>
