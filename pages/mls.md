@@ -20,3 +20,16 @@ When we talk about Machine Learning (ML), we typically refer to a technique or a
 |-------|--------|---------|---------|
 | Lecture 1 | August 23 | Course Introduction  | [[slides]](https://github.com/pooyanjamshidi/mls/tree/master/lectures) | 
 | Lecture 2 | August 28 | Production-ready ML | [[slides]](https://github.com/pooyanjamshidi/mls/tree/master/lectures) | 
+
+
+<ul id="archive">
+      <li class="archiveposturl">
+        <span><a href="https://github.com/pooyanjamshidi/mls/tree/master/lectures">Lecture 1 (Course Introduction)</a></span><br>
+<span class = "postlower">
+<strong>August 23</strong> Introduction to machine learning systems</span>
+<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+	<a href="https://github.com/pooyanjamshidi/mls/tree/master/lectures"><i class="fab fa-github"></i></a>&nbsp;&nbsp;
+<a href="https://github.com/pooyanjamshidi/mls/tree/master/lectures"><i class="fas fa-file-pdf"></i></a>
+</strong> 
+      </li>
+</ul>
