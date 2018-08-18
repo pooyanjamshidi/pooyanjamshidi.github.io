@@ -11,12 +11,12 @@ When we talk about Machine Learning (ML), we typically refer to a technique or a
 
 # Resources
 
-[MLS](https://github.com/pooyanjamshidi/mls)
+[lectures](https://github.com/pooyanjamshidi/mls)
 
 
 # Schedule
 
 | Lecture | Date | Description | Materials |
 |-------|--------|---------|---------|
-| Lecture 1 | August 23 | Course Introduction  | [[slides](https://github.com/pooyanjamshidi/mls/tree/master/lectures) | 
-| Lecture 2 | jazz | Production-ready Machine Learning | [[slides](https://github.com/pooyanjamshidi/mls/tree/master/lectures) | 
+| Lecture 1 | August 23 | Course Introduction  | [[slides]](https://github.com/pooyanjamshidi/mls/tree/master/lectures) | 
+| Lecture 2 | August 28 | Production-ready ML | [[slides]](https://github.com/pooyanjamshidi/mls/tree/master/lectures) | 
