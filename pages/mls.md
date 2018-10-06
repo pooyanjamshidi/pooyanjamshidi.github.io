@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/mls/
+permalink:
 group: teaching
 ---
 
