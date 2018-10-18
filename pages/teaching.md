@@ -11,4 +11,4 @@ group: teaching
 
 # Spring 2019
 
-* CSCE 317 - Computer Systems Engineering.
+* CSCE 580 - Artificial Intelligence
