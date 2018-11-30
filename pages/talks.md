@@ -6,6 +6,8 @@ permalink: /talks/
 
 # Invited Talks
 
+* [Machine Learning meets DevOps: Transfer Learning for Performance Optimization](https://www.slideshare.net/pooyanjamshidi/machine-learning-meets-devops-124313812), Machine Learning for DevOps Summit, Houston, Texas, November 2018.
+
 * [Architectural Tradeoffs in Learning-Based Software](https://www.slideshare.net/pooyanjamshidi/architectural-tradeoff-in-learningbased-software), SATURN'18, Plano, Texas, May 2018.
 
 * [Transfer Learning for Software Performance Analysis: An Exploratory Analysis](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-software-performance-analysis-an-exploratory-analysis), Urbana-Champaign, IL, November 2017.
