@@ -11,4 +11,4 @@ group: teaching
 
 # Spring 2019
 
-* CSCE 580 - Artificial Intelligence
+* [CSCE 580 - Artificial Intelligence](/csce580/)
