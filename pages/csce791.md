@@ -24,7 +24,7 @@ This is a seminar series that will cover a wide breadth of current research topi
 A >= 24, B+ = 22, B = 20, C+ = 18, C = 16, D+ = 14, D = 12, F <= 10.
 
 ## Review
-Each review report should simply include bullet points of what you took away from the talk as well as the questions that you have asked from the speaker in Q&A.
+Each review report should simply include bullet points of what you took away from the talk as well as the questions that you have asked from the speaker in Q&A. You need to submit the review by the end of the talk in **electronically in dropbox** (the report will not be accepted after half an hour when the talk has been finished).
 
 # Policies
 
