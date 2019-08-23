@@ -7,6 +7,7 @@ group: teaching
 # Fall 2019
 
 * [CSCE 590 - Machine Learning Systems](/mls/)
+* [CSCE 791: Seminar in Advances in Computing](/csce791/)
 
 # Spring 2019
 
