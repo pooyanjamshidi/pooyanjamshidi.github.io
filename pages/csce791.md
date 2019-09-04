@@ -24,7 +24,7 @@ This is a seminar series that will cover a wide breadth of current research topi
 A >= 24, B+ = 22, B = 20, C+ = 18, C = 16, D+ = 14, D = 12, F <= 10.
 
 ## Review
-Each review report should simply include bullet points of what you took away from the talk, the things you liked and you did not, as well as the questions that you have asked from the speaker in Q&A\; you are required to interact with the speaker. You need to submit the review by the end of the talk in **electronically in dropbox** (the report will not be accepted after half an hour when the talk has been finished). For **online students**, the cut off time is one hour and half after the talk and the review is considered as an attendance.
+Each review report should simply include bullet points of what you took away from the talk, the things you liked and you did not, as well as the questions that you have asked from the speaker in Q&A\; you are required to interact with the speaker. You need to submit the review by the end of the talk in **electronically in dropbox** (the report will not be accepted after an hour when the talk has been finished). For **online students**, the cut off time is 3 hours after the talk and the review is considered as an attendance.
 
 # Policies
 
@@ -39,10 +39,10 @@ Any student who has a need for accommodation based on the impact of a documented
 
 ```
 * Week 1: Pooyan Jamshidi, Course Overview, Innovation 1400, 8/23/2019 2:20-3:10pm
-* Week 2: Bryant Smith, TBD, Innovation 1400, 8/30/2019 2:20-3:10pm
+* Week 2: Bryant Smith, From Trusted Technologies to Trustworthy Companies, Innovation 1400, 8/30/2019 2:20-3:10pm
 * Week 3: Homayoun Valafar, TBD, Innovation 1400, 9/6/2019 2:20-3:10pm
 * Week 4: Duncan A. Buell, TBD, Innovation 1400, 9/13/2019 2:20-3:10pm
-* Week 5: Xenia Mountrouidou, TBD, Innovation 1400, 9/20/2019 2:20-3:10pm
+* Week 5: Xenia Mountrouidou, Internet of Things Security Evaluation: Models, Metrics, and Experimentation, Innovation 1400, 9/20/2019 2:20-3:10pm
 * Week 6: Dariusz Kowalski, TBD, Innovation 1400, 9/27/2019 2:20-3:10pm
 * Week 7: TBD, TBD, Innovation 1400, 10/4/2019 2:20-3:10pm
 * Week 8: Fall Break, TBD, Innovation 1400, 10/11/2019 2:20-3:10pm
