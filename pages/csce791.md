@@ -40,8 +40,8 @@ Any student who has a need for accommodation based on the impact of a documented
 ```
 * Week 1: Pooyan Jamshidi, Course Overview, Innovation 1400, 8/23/2019 2:20-3:10pm
 * Week 2: Bryant Smith, From Trusted Technologies to Trustworthy Companies, Innovation 1400, 8/30/2019 2:20-3:10pm
-* Week 3: Homayoun Valafar, TBD, Innovation 1400, 9/6/2019 2:20-3:10pm
-* Week 4: Duncan A. Buell, TBD, Innovation 1400, 9/13/2019 2:20-3:10pm
+* Week 3: Homayoun Valafar, Computational Biology, Innovation 1400, 9/6/2019 2:20-3:10pm
+* Week 4: Duncan A. Buell, `Is Technology the Answer? Software Quality Issues in Electronic Voting Systems`, Innovation 1400, 9/13/2019 2:20-3:10pm
 * Week 5: Xenia Mountrouidou, Internet of Things Security Evaluation: Models, Metrics, and Experimentation, Innovation 1400, 9/20/2019 2:20-3:10pm
 * Week 6: Dariusz Kowalski, TBD, Innovation 1400, 9/27/2019 2:20-3:10pm
 * Week 7: TBD, TBD, Innovation 1400, 10/4/2019 2:20-3:10pm
