@@ -41,17 +41,17 @@ Any student who has a need for accommodation based on the impact of a documented
 * Week 1: Pooyan Jamshidi, Course Overview, Innovation 1400, 8/23/2019 2:20-3:10pm
 * Week 2: Bryant Smith, From Trusted Technologies to Trustworthy Companies, Innovation 1400, 8/30/2019 2:20-3:10pm
 * Week 3: Homayoun Valafar, Computational Biology, Innovation 1400, 9/6/2019 2:20-3:10pm
-* Week 4: Duncan A. Buell, `Is Technology the Answer? Software Quality Issues in Electronic Voting Systems`, Innovation 1400, 9/13/2019 2:20-3:10pm
+* Week 4: Duncan A. Buell, Is Technology the Answer? Software Quality Issues in Electronic Voting Systems, Innovation 1400, 9/13/2019 2:20-3:10pm
 * Week 5: Xenia Mountrouidou, Internet of Things Security Evaluation: Models, Metrics, and Experimentation, Innovation 1400, 9/20/2019 2:20-3:10pm
-* Week 6: Dariusz Kowalski, TBD, Innovation 1400, 9/27/2019 2:20-3:10pm
-* Week 7: TBD, TBD, Innovation 1400, 10/4/2019 2:20-3:10pm
-* Week 8: Fall Break, TBD, Innovation 1400, 10/11/2019 2:20-3:10pm
-* Week 9: Pratap Tokekar, TBD, Innovation 1400, 10/18/2019 2:20-3:10pm
-* Week 10: TBD, TBD, Innovation 1400, 10/25/2019 2:20-3:10pm
-* Week 11: TBD, TBD, Innovation 1400, 11/1/2019 2:20-3:10pm
+* Week 6: Dariusz Kowalski, On the Complexity of Fault-tolerant Consensus, Innovation 1400, 9/27/2019 2:20-3:10pm
+* Week 7: Shuang Qiu, Referring Image Segmentation, Innovation 1400, 10/4/2019 2:20-3:10pm
+* Week 8: Fall Break
+* Week 9: Pratap Tokekar, Algorithms for Autonomous Near Earth Sensing with Robot Teams, Innovation 1400, 10/18/2019 2:20-3:10pm
+* Week 10: Marco Valtorta, TBD, Innovation 1400, 10/25/2019 2:20-3:10pm
+* Week 11: Venkat Kaushik, Neurons, Perceptron and Deep Learning: Milestones toward Artificial General Intelligence, Innovation 1400, 11/1/2019 2:20-3:10pm
 * Week 12: Trevor Olsen, TBD, Innovation 1400, 11/8/2019 2:20-3:10pm
 * Week 13: TBD, TBD, Innovation 1400, 11/15/2019 2:20-3:10pm
 * Week 14: TBD, TBD, Innovation 1400, 11/22/2019 2:20-3:10pm
-* Week 15: Thanksgiving, TBD, Innovation 1400, 11/29/2019 2:20-3:10pm
+* Week 15: Thanksgiving,
 * Week 16: Ying Meng, Jianhai Su, TBD, Innovation 1400, 12/6/2019 2:20-3:10pm
 ```
