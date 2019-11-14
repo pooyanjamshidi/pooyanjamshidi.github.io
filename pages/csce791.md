@@ -47,11 +47,11 @@ Any student who has a need for accommodation based on the impact of a documented
 * Week 7: Shuang Qiu, Referring Image Segmentation, Innovation 1400, 10/4/2019 2:20-3:10pm
 * Week 8: Fall Break
 * Week 9: Pratap Tokekar, Algorithms for Autonomous Near Earth Sensing with Robot Teams, Innovation 1400, 10/18/2019 2:20-3:10pm
-* Week 10: Marco Valtorta, TBD, Innovation 1400, 10/25/2019 2:20-3:10pm
+* Week 10: Marco Valtorta, My Journay in AI, Innovation 1400, 10/25/2019 2:20-3:10pm
 * Week 11: Venkat Kaushik, Neurons, Perceptron and Deep Learning: Milestones toward Artificial General Intelligence, Innovation 1400, 11/1/2019 2:20-3:10pm
-* Week 12: Trevor Olsen, TBD, Innovation 1400, 11/8/2019 2:20-3:10pm
-* Week 13: TBD, TBD, Innovation 1400, 11/15/2019 2:20-3:10pm
-* Week 14: TBD, TBD, Innovation 1400, 11/22/2019 2:20-3:10pm
+* Week 12: Trevor Olsen, Triangles and Squares on Spheres, Innovation 1400, 11/8/2019 2:20-3:10pm
+* Week 13: Prunthaban Kanthakumar, Dynamo: Low latency data distribution from database to servers, Innovation 1400, 11/15/2019 2:20-3:10pm
+* Week 14: Chris Rorden, Neuroscience and AI, Innovation 1400, 11/22/2019 2:20-3:10pm
 * Week 15: Thanksgiving,
-* Week 16: Ying Meng, Jianhai Su, TBD, Innovation 1400, 12/6/2019 2:20-3:10pm
+* Week 16: Ying Meng, Jianhai Su, Defending Deep Neural Networks Against Adversarial Attacks, Innovation 1400, 12/6/2019 2:20-3:10pm
 ```
