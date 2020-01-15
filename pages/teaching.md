@@ -4,6 +4,10 @@ permalink: /teaching/
 group: teaching
 ---
 
+# Spring 2020
+
+* [CSCE 580 - Artificial Intelligence](/csce580/)
+
 # Fall 2019
 
 * [CSCE 590 - Machine Learning Systems](/mls/)
