@@ -24,6 +24,13 @@
   status: current
   bio: Shahriar is a PhD student in computing science. He is interested in multi-objective optimization of deep neural networks in embedded systems.
 
+- name: Peter Mourfield
+  prog: phd
+  id: mourfield
+  website: https://peter-mourfield.github.io/
+  status: current
+  bio: Peter is a PhD student in computing science. He is interested in autonomic computing and reinforcement learning.
+
 - name: Mohammad Ali Javidian
   prog: postdoc
   id: javidian
