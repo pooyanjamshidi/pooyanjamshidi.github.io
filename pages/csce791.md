@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /csce791/
 group: course
 ---
