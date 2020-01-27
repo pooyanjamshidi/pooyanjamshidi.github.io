@@ -1,0 +1,50 @@
+- name: Pooyan Jamshidi
+  id: jamshidi
+  website: https://pooyanjamshidi.github.io/
+
+# Current
+- name: Ying Meng
+  prog: phd
+  id: meng
+  website: https://meng2010.github.io/
+  status: current
+  bio: Ying is a PhD student in computing science. She is interested in adversarial machine learning and software testing.
+
+- name: Jianhai Su
+  prog: phd
+  id: su
+  website: https://oceank.github.io/
+  status: current
+  bio: Jianhai is a PhD student in computing science. He is interested in transfer learning, autonomic computing, and reinforcement learning.
+
+- name: Shahriar Iqbal
+  prog: phd
+  id: iqbal
+  website:
+  status: current
+  bio: Shahriar is a PhD student in computing science. He is interested in multi-objective optimization of deep neural networks in embedded systems.
+
+- name: Mohammad Ali Javidian
+  prog: postdoc
+  id: javidian
+  website: https://cse.sc.edu/~javidian/
+  status: current
+  bio: Mohammad Ali is a postdoctorate student in computing science. He is interested in probabilistic graphical models, Bayesian networks, and transfer learning. 
+
+- name: Blake Edwards
+  prog: undergrad
+  id: edwards
+  website: https://blakeedwards.me/
+  status: current
+  bio: Blake is a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
+
+- name: Stephen Baione
+  prog: undergrad
+  id: bione
+  website: 
+  status: current
+  bio: Stephen is a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
+
+# Affiliated
+
+# Former

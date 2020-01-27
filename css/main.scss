@@ -4,49 +4,54 @@
 @charset "utf-8";
 
 
-
-// Our variables
+// My variables
 $base-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 $base-font-size:   16px;
+$large-font-size:  $base-font-size * 1.5;
 $small-font-size:  $base-font-size * 0.875;
+$tiny-font-size:   $base-font-size * 0.75;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #97000A;
-// $gameday-sky: #109dc0;
-$clemson-purple:      #CACACA;
-$clemson-orange:      #97000A;
+$text-color:       #111111;    // dark: #EEEEEE
+$background-color: #FDFDFD; // dark: #020202
+$brand-color:      #96172E;
+//$brand-color:      #007c41;
+$code-color:       #EEEEFF;    // dark: #111100
 
+$twitter-color:    #3BA9EE;
 
-$grey-color:       rgba(0, 0, 0, 0.6);
+//$grey-color:       #808080;
+$grey-color:       rgba(0, 0, 0, 0.6); // dark: rgba(255, 255, 255, 0.6)
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
-
-
-// Width of the content area
-$content-width:    950px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
 // Picture profile
-$profilepic-size:  235px;
+$profilepic-size:  150px;
 
 // Header
 $header-height:		40px;
 $page-nav-font:		1.25em;
+$header-font-size:	1em;
+$header-font-size-small:	12px;
 
 // Footer
-$footer-font-size:	1em;
+$footer-font-size:	$small-font-size;
+
+// Opacities
+$hover-opacity: 0.65;
+
+// Marks
+$mark-color: white; // dark: black
 
 
 
 // Using media queries with like this:
-// @include media-query($on-palm) {
+// @include media-query($palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
@@ -62,10 +67,7 @@ $footer-font-size:	1em;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "header",
-	"mobile-header",
         "base",
         "layout",
-        "syntax-highlighting",
-	"fancy-image"
+        "syntax-highlighting"
 ;

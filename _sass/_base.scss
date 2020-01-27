@@ -27,7 +27,6 @@ body {
 
 
 
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -49,7 +48,6 @@ img {
 }
 
 
-
 /**
  * Figures
  */
@@ -61,7 +59,6 @@ figure > img {
 figcaption {
     font-size: $small-font-size;
 }
-
 
 
 /**
@@ -96,19 +93,14 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-   &:visited {
-    /*    color: darken($brand-color, 15%); */
-    } 
-
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        // color: $text-color;
+        opacity: $hover-opacity;
+        cursor: pointer;
     }
 }
 
-/* .post-content a, .home a {
-	font-weight: 500;
-} */
+
 
 /**
  * Blockquotes
@@ -133,10 +125,10 @@ blockquote {
  */
 pre,
 code {
-    font-size: 14px;
+    font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: $code-color;
 }
 
 code {
@@ -157,11 +149,11 @@ pre {
 
 
 /**
- * Wrapper
+ * Wrappers
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
+    max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -169,14 +161,36 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        max-width: -webkit-calc(800px - (#{$spacing-unit}));
+        max-width:         calc(800px - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
+
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
 }
-
-
 
 /**
  * Clearfix
@@ -196,74 +210,91 @@ pre {
  * Icons
  */
 .icon {
-
     > svg {
         display: inline-block;
         width: 16px;
         height: 16px;
         vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
+        fill: black;
     }
 }
 
-
-
-a.tosu {
-color: #b00000;
-background: #f5f5f5;
-text-decoration: none;
- padding: 2px; 
- font-weight: 600; 
-font-family: 'Capita', Georgia, serif;
-}
-
-//announcement box
-.emph-border {
-    background-color:#F8F5F4;
-	width:90%;
-    border: 2px solid red;
-    padding: 10px;
-    margin: auto;
-    text-align: center;
-}
-
-	
 /**
-* http://stackoverflow.com/questions/17217766/two-divs-side-by-side-fluid-display
-**/
-section {
-    width: 100%;
-    margin: auto;
-    padding: 10px;
-}
-div#one {
-    width: 25%;
-    float: left;
-}
-div#two {
-   margin-left:25%;
+ * small caps
+ */
+.sc {
+	font-variant: small-caps;
 }
 
-@media only screen and (max-width:800px){
-  /* only for screens wider or equal to 630 pixels */
-  /* code from https://www.thesitewizard.com/css/design-2-column-layout.shtml */
-   div#one { 
-    float: none;
-    width:100%;  
-  }
-   div#two { 
-    float: none;
-	margin-left:0;
-    width:100%;  
-  }
+/**
+ * Tables
+ */
+.classschedule {
+    border-collapse: collapse;
+
+    th {
+    	border-top: 2pt solid black;
+    	border-bottom: 2pt solid black;
+    }
+
+    td {
+		border-bottom: 1pt solid black;
+	}
+
+	th:last-child, td:last-child {
+    	text-align: right;
+  	}
+
+  	td:last-child[colspan] {
+    	text-align: left;
+  	}
 }
 
-div#twitter {
-    width: 30%;
-    height: 300px;
-    margin: auto;
-}
+.schedule {
+    border-collapse: collapse;
+   	width: 100%;
 
+    .session {
+    	font-weight: bold;
+    	border-top: 2pt solid black;
+    	border-bottom: none;
+    }
+
+    .chairs {
+    	font-weight: bold;
+    	font-style: italic;
+    	font-size: $small-font-size;
+    	border-top: none;
+    }
+
+    .lastchairs {
+    	font-weight: bold;
+    	font-style: italic;
+    	font-size: $small-font-size;
+    	border-top: none;
+    	border-bottom: 2pt solid black;
+    }
+
+    .title {
+    	border-bottom: none;
+    }
+
+    .speakers {
+    	font-style: italic;
+    	font-size: $small-font-size;
+    	border-top: none;
+
+    	.pub-link {
+    		// PDF links
+    		> img {
+        		max-width: 16px;
+        		max-height: 16px;
+        	}
+        }
+    }
+
+    td {
+    	border-top: 1pt solid black;
+		border-bottom: 1pt solid black;
+	}
+}
