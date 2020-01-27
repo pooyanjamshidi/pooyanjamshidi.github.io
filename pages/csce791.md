@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /csce791/
+weight: 0
 group: course
 ---
 
