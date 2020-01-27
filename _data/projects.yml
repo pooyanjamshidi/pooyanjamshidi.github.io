@@ -10,7 +10,7 @@
   start: 2019
   members: meng,su
   papers: athena
-  description: Despite achieving state-of-the-art performance across many domains, machine learning systems are highly vulnerable to subtle adversarial perturbations. Early studies recommended that ensembles created by combining multiple weak defenses (i.e., input data transformations) are still weak. In this work, we propose Athena, an extensible framework for building effective defenses to adversarial attacks against machine learning systems.
+  description: Despite achieving state-of-the-art performance across many domains, machine learning systems are highly vulnerable to subtle adversarial perturbations. In this project, we propose Athena, an extensible framework for building effective defenses to adversarial attacks against machine learning systems.
 
 - name: FlexiBO
   id: flexibo
