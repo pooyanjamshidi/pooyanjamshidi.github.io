@@ -14,6 +14,23 @@
   code: https://github.com/softsys4ai/FlexiBO
   link: https://arxiv.org/abs/2001.06588
 
+- id: ml-planning-seams19
+  title: "Machine Learning Meets Quantitative Planning: Enabling Self-Adaptation in Autonomous Robots"
+  authors: Pooyan Jamshidi, Javier Camara, Bradley Schmerl, Christian Kastner, David Garlan
+  venue: SEAMS
+  year: 2019
+  code: https://github.com/cmu-mars/RoboTest
+  link: https://arxiv.org/abs/1903.03920
+  video: https://www.youtube.com/watch?v=ec6BhQp2T0Q
+
+- id: tl-causal
+  title: "Transfer Learning for Performance Modeling of Configurable Systems: A Causal Analysis"
+  authors: Mohammad Ali Javidian, Pooyan Jamshidi, Marco Valtorta
+  venue: AAAI
+  year: 2019
+  code: https://github.com/majavid/AAAI-WHY-2019
+  link: https://arxiv.org/abs/1902.10119
+  
 - id: crysl-tse
   title: "CrySL: An Extensible Approach to Validating the Correct Usage of Cryptographic APIs"
   authors: Stefan Krüger, Johannes Späth, Karim Ali, Eric Bodden, and Mira Mezini
