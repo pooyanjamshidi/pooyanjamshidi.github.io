@@ -5,20 +5,17 @@ permalink: /teaching/
 weight: 4
 group: teaching
 ---
-
-# Spring 2020
-
-* [CSCE 580 - Artificial Intelligence](/csce580/)
-
-# Fall 2019
-
-* [CSCE 590 - Machine Learning Systems](/mls/)
-* [CSCE 791: Seminar in Advances in Computing](/csce791/)
-
-# Spring 2019
-
-* [CSCE 580 - Artificial Intelligence](/csce580/)
-
-# Fall 2018
-
-* [CSCE 790 - Machine Learning Systems](/mls/)
+These are the courses that I regularly teach.
+{% for course in site.data.courses %}
+<div class="row" name="{{ course.id }}">
+  <div class="row-pic">
+		{% include /functions/getcoursepic.html course=course %}
+	</div>
+	<div class="row-info">
+    <a href="{{ course.website | default: "#" }}" target="_blank">CMPUT {{ course.id }} {{ course.name }}</a>
+		<p>
+      {{ course.description }}
+    </p>
+	</div>
+</div>
+{% endfor %}
