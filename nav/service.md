@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Service
+title:
 navtitle: Service
 permalink: /service/
 weight: 5

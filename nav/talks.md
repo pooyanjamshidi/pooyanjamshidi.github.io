@@ -8,6 +8,9 @@ group: talks
 
 # Invited Talks
 
+
+* [Transfer Learning for Performance Analysis of Machine Learning Systems](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-performance-analysis-of-machine-learning-systems), Furman University, Greenville, South Carolina, April 2019.
+
 * [Machine Learning meets DevOps: Transfer Learning for Performance Optimization](https://www.slideshare.net/pooyanjamshidi/machine-learning-meets-devops-124313812), Machine Learning for DevOps Summit, Houston, Texas, November 2018.
 
 * [Architectural Tradeoffs in Learning-Based Software](https://www.slideshare.net/pooyanjamshidi/architectural-tradeoff-in-learningbased-software), SATURN'18, Plano, Texas, May 2018.
@@ -30,13 +33,8 @@ group: talks
 
 * [Fuzzy Self-Learning Controllers for Elasticity Management in Dynamic Cloud Architectures](https://www.slideshare.net/pooyanjamshidi/fuzzy-selflearning-controllers-for-elasticity-management-in-dynamic-cloud-architectures), National Institute of Informatics (NII), Controlled Adaptation of Self-adaptive Systems (CASaS), Shonan, Japan, April 2016.
 
-* [Self-learning Cloud Controllers](https://www.slideshare.net/pooyanjamshidi/self-learning-cloud-controllers), Online talk, RG DevOps Performance Working Group, February 2015.
-
-* [Self-learning Cloud Controllers](https://www.slideshare.net/pooyanjamshidi/self-learning-cloud-controllers), Trinity College Dublin, Dublin, Ireland, February 2015.
+* [Self-learning Cloud Controllers](https://www.slideshare.net/pooyanjamshidi/self-learning-cloud-controllers), Online talk, RG DevOps Performance Working Group, February 2015;  Trinity College Dublin, Dublin, Ireland, February 2015; Federal University of Ceará, Fortaleza, Brazil, January 2015.
 
 * [Cloud Migration Patterns: A Multi-Cloud Architectural Perspective](https://www.slideshare.net/pooyanjamshidi/cloud-migrationpatterns), Ceará State University, Fortaleza, Brazil, January 2015.
-
-* [Self-learning Cloud Controllers](https://www.slideshare.net/pooyanjamshidi/self-learning-cloud-controllers), Federal University of Ceará, Fortaleza,
-Brazil, January 2015.
 
 * [Fuzzy Control meets Software Engineering](https://www.slideshare.net/pooyanjamshidi/dagstuhl-pooyan), Dagstuhl seminar (Control Theory meets Software Engineering), Dagstuhl, Germany, September 2014.
