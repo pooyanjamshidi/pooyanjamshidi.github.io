@@ -6,12 +6,12 @@ weight: 2
 group: members
 ---
 
-I direct the **Artificial Intelligence and Systems Laboratory (AISys)**.
+I direct the **Artificial Intelligence and Systems Laboratory (AISys)**. AISys is located at the Storey Innovation Center (Office: 2212).
 
 <p align="center">
 <a href="{{ site.groupweb }}" target="_blank"><img width="30" height="30" hspace="20" src="/resources/images/GitHub-Mark-64px.png" title="AISys GitHub"></a>
 <a href="https://dml-lab.slack.com" target="_blank"><img width="30" height="30" hspace="20" src="/resources/images/slack.png" title="AISys Slack"></a>
-<a href="https://twitter.com/{{ site.twitter }}" target="_blank"><img width="30" height="30" hspace="20" src="/resources/images/Twitter_Logo_Blue.png" title="AISys Slack"></a>
+<a href="https://twitter.com/{{ site.twitter }}" target="_blank"><img width="30" height="30" hspace="20" src="/resources/images/Twitter_Logo_Blue.png" title="AISys Twitter Handle"></a>
 </p>
 
 At AISys, we investigate a variety of open problems that sit at the intersection of artificial intelligence, machine learning, and computer systems (
