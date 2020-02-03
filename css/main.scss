@@ -61,7 +61,9 @@ $mark-color: white; // dark: black
     }
 }
 
-
+code {
+  white-space : pre-wrap !important;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
