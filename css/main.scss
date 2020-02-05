@@ -63,6 +63,14 @@ $mark-color: white; // dark: black
 
 code {
   white-space : pre-wrap !important;
+  font-family : Helvetica;
+}
+
+.remark-inline-code{
+  /* background: #F5F5F5; /* lighter */
+  background: #e7e8e2; /* darker */
+  border-radius: 3px;
+  padding: 4px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
