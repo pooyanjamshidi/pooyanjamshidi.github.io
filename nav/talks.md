@@ -8,6 +8,7 @@ group: talks
 
 # Invited Talks
 
+* [Ensembles of Many Diverse Weak Defenses can be Strong: Defending Deep Neural Networks Against Adversarial Attacks](hhttps://www.slideshare.net/pooyanjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong-defending-deep-neural-networks-against-adversarial-attacks), Augusta University, Augusta, Georgia, February 2020.
 
 * [Transfer Learning for Performance Analysis of Machine Learning Systems](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-performance-analysis-of-machine-learning-systems), Furman University, Greenville, South Carolina, April 2019.
 
@@ -21,7 +22,7 @@ group: talks
 
 * [Learning Software Performance Models for Dynamic and Uncertain Environments](https://www.slideshare.net/pooyanjamshidi/learning-software-performance-models-for-dynamic-and-uncertain-environments-76616004), Raleigh, NC, June 2017.
 
-* [Transfer Learning for Improving Model Predictions in Highly Configurable Software](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-improving-model-predictions-in-highly-configurable-software), DARPA Worskhop, Boston, MA, March 2017.
+* [Transfer Learning for Improving Model Predictions in Highly Configurable Software](https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-improving-model-predictions-in-highly-configurable-software), DARPA Workshop, Boston, MA, March 2017.
 
 * [An Uncertainty-Aware Approach to Optimal Configuration of Stream Processing Systems](https://www.slideshare.net/pooyanjamshidi/an-uncertaintyaware-approach-to-optimal-configuration-of-stream-processing-systems), Bern University, Bern, Switzerland, November 2016.
 

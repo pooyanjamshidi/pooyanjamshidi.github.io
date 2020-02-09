@@ -4,6 +4,6 @@
   <li><small><b>Papers</b></small></li>
 {% for paper in papers %}
   {% assign pub = site.data.papers | where: "id",paper | first %}
-  <li><small><a href="{{ pub.link }}">{{ pub.title }}</a>, {{ pub.venue }} ({{ pub.year }})</small></li>
+  <li><small><a href="{{ pub.url }}">{{ pub.title }}</a>, {{ pub.venue }} ({{ pub.year }})</small></li>
 {% endfor %}
 </ul>

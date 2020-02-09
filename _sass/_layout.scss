@@ -437,11 +437,11 @@
 .row-pic {
   > img {
     width: 140px;
-    display: inline-block;
     height: auto;
+    display: inline-block;
     padding: 4px;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 0px solid $grey-color-light;
     border-radius: 5%;
     box-sizing: border-box;
   }
