@@ -7,7 +7,7 @@ weight: 3
 group: publications
 ---
 
-These are my academic publications.
+These are my ``notable`` academic publications.
 * A more comprehensive list of my publications can be find in [Google Scholar](http://scholar.google.com/citations?hl=en&user=Jre2RUQAAAAJ)
 * I regularly upload all PDF version of my publications in [Research Gate](https://www.researchgate.net/profile/Pooyan_Jamshidi)
 * I upload my presentations in [SlideShare](https://www.slideshare.net/pooyanjamshidi)

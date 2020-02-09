@@ -143,3 +143,113 @@
   url: https://arxiv.org/abs/1606.06543
   slide: https://www.slideshare.net/pooyanjamshidi/an-uncertaintyaware-approach-to-optimal-configuration-of-stream-processing-systems
   code: https://github.com/dice-project/DICE-Configuration-BO4CO
+
+- id: architecture-continuity
+  title: "Cloud architecture continuity: Change models and change rules for sustainable cloud software architectures"
+  authors: Claus Pahl, Pooyan Jamshidi, Danny Weyns
+  venue: "Journal of Software: Evolution and Process"
+  year: 2017
+  url: https://www.researchgate.net/publication/313456143_Cloud_architecture_continuity_Change_models_and_change_rules_for_sustainable_cloud_software_architectures
+
+- id: multi-cloud-migration
+  title: "Pattern-based multi-cloud architecture migration"
+  authors: Pooyan Jamshidi, Claus Pahl, Nabor C. Mendonca
+  venue: "Software: Practice and Experience"
+  year: 2017
+  url: https://www.researchgate.net/publication/307856340_Pattern-based_Multi-Cloud_Architecture_Migration
+  slide: https://www.slideshare.net/pooyanjamshidi/cloud-migrationpatterns
+
+- id: control-self-adaptive-taas
+  title: "Control Strategies for Self-Adaptive Software Systems"
+  authors: A. Filieri, M. Maggio, K. Angelopoulos, N. D'Ippolito, I. Gerostathopoulos, A. Hempel, H. Hoffmann, P. Jamshidi, E. Kalyvianaki, C. Klein, F. Krikava, S. Misailovic, A. Papadopoulos, S. Ray, A. M. Sharifloo, S. Shevtsov, M. Ujma, T. Vogel
+  venue: ACM Transactions on Autonomous and Adaptive Systems
+  year: 2017
+  url: https://www.researchgate.net/publication/313323991_Control_Strategies_for_Self-Adaptive_Software_Systems
+
+- id: fuzzy-rl-auto-scaling-ccgrid
+  title: "A Comparison of Reinforcement Learning Techniques for Fuzzy Cloud Auto-Scaling"
+  authors: Hamid Arabnejad, Claus Pahl, Pooyan Jamshidi, Giovani Estrada
+  venue: CCGRID
+  year: 2017
+  url: https://arxiv.org/abs/1705.07114
+
+- id: uncertainty-auto-scaling-cloud
+  title: "Managing Uncertainty in Autonomic Cloud Elasticity Controllers"
+  authors: Pooyan Jamshidi, Claus Pahl, Nabor C. Mendonca
+  venue: IEEE Cloud Computing
+  year: 2017
+  url: https://www.researchgate.net/publication/301891619_Managing_Uncertainty_in_Autonomic_Cloud_Elasticity_Controllers
+
+- id: hybrid-controller-fgcs
+  title: "A hybrid cloud controller for vertical memory elasticity: {A} control-theoretic approach"
+  authors: Soodeh Farokhi, Pooyan Jamshidi, Ewnetu Bayuh Lakew, Ivona Brandic, Erik Elmroth
+  venue: Future Generation Computer Systems
+  year: 2016
+  url: https://www.researchgate.net/publication/303407410_A_Hybrid_Cloud_Controller_for_Vertical_Memory_Elasticity_A_Control-Theoretic_Approach
+  code: https://gitlab.com/soodeh/monitoring-scripts
+  code: https://gitlab.com/soodeh/workloads
+  important: 1
+
+- id: microservices-devops-software
+  title: "Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture"
+  authors: Armin Balalaie, Abbas Heydarnoori, Pooyan Jamshidi
+  venue: IEEE Software
+  year: 2016
+  url: https://www.researchgate.net/publication/298902672_Microservices_Architecture_Enables_DevOps_an_Experience_Report_on_Migration_to_a_Cloud-Native_Architecture
+  slide: https://www.slideshare.net/pooyanjamshidi/microservices-architecture-enables-devops-migration-to-a-cloudnative-architecture
+
+- id: microservices-migration-patterns
+  title: "Microservices migration patterns"
+  authors: Armin Balalaie, Abbas Heydarnoori, Pooyan Jamshidi, Damian A. Tamburri, Theo Lynn
+  venue: Software Practice and Experience
+  year: 2018
+  url: https://www.researchgate.net/publication/326601142_Microservices_migration_patterns
+
+- id: control-self-adaptive-seams
+  title: "Software Engineering Meets Control Theory"
+  authors: A. Filieri, M. Maggio, K. Angelopoulos, N. D'Ippolito, I. Gerostathopoulos, A. Hempel, H. Hoffmann, P. Jamshidi, E. Kalyvianaki, C. Klein, F. Krikava, S. Misailovic, A. Papadopoulos, S. Ray, A. M. Sharifloo, S. Shevtsov, M. Ujma, T. Vogel
+  venue: SEAMS
+  year: 2015
+  url: https://www.researchgate.net/publication/326601142_Microservices_migration_patterns
+  link: https://www.dagstuhl.de/en/program/calendar/evhp/?semnr=14382
+
+- id: performance-aware-devops
+  title: "Performance-oriented DevOps: A Research Agenda"
+  authors: A. Brunnert, A. Hoorn, F. Willnecker, A. Danciu, W. Hasselbring, C. Heger, N. Herbst, P. Jamshidi, R. Jung, J. Kistowski, A. Koziolek, J. Kroß, S. Spinner, C. Vögele, J. Walter, A. Wert
+  venue: Technical Report
+  year: 2015
+  url: http://arxiv.org/abs/1508.04752
+
+- id: open-process-sosym
+  title: "Enhancing the OPEN Process Framework with service-oriented method fragments"
+  authors: Mahdi Fahmideh Gholami, Mohsen Sharifi, Pooyan Jamshidi
+  venue: Software and System Modeling
+  year: 2014
+  url: https://pooyanjamshidi.wordpress.com/2011/11/26/enhancing-the-open-process-framework-with-service-oriented-method-fragments/
+
+- id: robust2scale
+  title: "Autonomic resource provisioning for cloud-based software"
+  authors: Pooyan Jamshidi, Aakash Ahmad, Claus Pahl
+  venue: SEAMS
+  year: 2014
+  url: https://www.researchgate.net/publication/266657635_Autonomic_resource_provisioning_for_cloud-based_software
+  code: https://github.com/pooyanjamshidi/RobusT2Scale
+  slide: https://www.slideshare.net/pooyanjamshidi/seams2014-presentation
+
+- id: cloud-migration-tcc
+  title: "Cloud Migration Research: A Systematic Review"
+  authors: Pooyan Jamshidi, Aakash Ahmad, Claus Pahl
+  venue: IEEE Transactions on Cloud Computing
+  year: 2013
+  url: https://www.researchgate.net/publication/260420072_Cloud_Migration_Research_A_Systematic_Review
+  link: http://www.computing.dcu.ie/~pjamshidi/SLR/SLR-CM.html
+  slide: https://www.slideshare.net/pooyanjamshidi/cloud-migrationpatterns
+
+- id: framework-architecture-evolution
+  title: "A Framework for Classifying and Comparing Architecture-centric Software Evolution Research"
+  authors: Pooyan Jamshidi, Mohammad Ghafari, Aakash Ahmad, Claus Pahl
+  venue: SANER
+  year: 2013
+  url: https://www.researchgate.net/publication/261355592_A_Framework_for_Classifying_and_Comparing_Architecture-Centric_Software_Evolution_Research
+  link: http://www.computing.dcu.ie/~pjamshidi/SLR/SLR-ACSE.html
+  slide: https://www.slideshare.net/pooyanjamshidi/a-framework-for-classifying-and-comparing-architecturecentric-software-evolution-research-16965152
