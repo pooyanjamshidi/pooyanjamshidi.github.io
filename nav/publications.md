@@ -63,6 +63,11 @@ These are my ``notable`` academic publications.
         <span class="icon"><svg><use xlink:href="#icon-youtube"/></svg></span>
       </a>
       {% endif %}
+      {% if paper.link %}
+      <a href="{{ paper.link }}" target="_blank">
+        <span class="icon"><svg><use xlink:href="#icon-link"/></svg></span>
+      </a>
+      {% endif %}
     </div>
   </div>
   {% endfor %}

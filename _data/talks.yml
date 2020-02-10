@@ -1,0 +1,111 @@
+- id: athena
+  title: "Ensembles of Many Diverse Weak Defenses can be Strong: Defending Deep Neural Networks Against Adversarial Attacks"
+  where: Augusta University, Augusta, Georgia
+  year: 2020
+  month: Feburary
+  url: https://www.slideshare.net/pooyanjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong-defending-deep-neural-networks-against-adversarial-attacks
+
+- id: tl-mls
+  title: "Transfer Learning for Performance Analysis of Machine Learning Systems"
+  where: Furman University, Greenville, South Carolina
+  year: 2019
+  month: April
+  url: https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-performance-analysis-of-machine-learning-systems
+
+- id: ml-meets-devops
+  title: "Machine Learning meets DevOps: Transfer Learning for Performance Optimization"
+  where: Machine Learning for DevOps Summit, Houston, Texas
+  year: 2018
+  month: November
+  url: https://www.slideshare.net/pooyanjamshidi/machine-learning-meets-devops-124313812
+
+- id: architecture-ml
+  title: "Architectural Tradeoffs in Learning-Based Software"
+  where: SATURN, Plano, Texas
+  year: 2018
+  month: May
+  url: https://www.slideshare.net/pooyanjamshidi/architectural-tradeoff-in-learningbased-software
+
+- id: tl-performance-analysis-exploratory
+  title: "Transfer Learning for Software Performance Analysis: An Exploratory Analysis"
+  where: Urbana-Champaign, IL
+  year: 2017
+  month: November
+  url: https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-software-performance-analysis-an-exploratory-analysis
+
+- id: architecting-at-scale
+  title: "Architecting for Scale"
+  where: Invited lecture at CMU, Pittsburgh, PA
+  year: 2017
+  month: October
+  url: https://www.slideshare.net/pooyanjamshidi/architecting-for-scale-80515767
+
+- id: learning-uncertain-environments
+  title: "Learning Software Performance Models for Dynamic and Uncertain Environments"
+  where: Raleigh, NC
+  year: 2017
+  month: June
+  url: https://www.slideshare.net/pooyanjamshidi/learning-software-performance-models-for-dynamic-and-uncertain-environments-76616004
+
+- id: tl-model-prediction
+  title: "Transfer Learning for Improving Model Predictions in Highly Configurable Software"
+  where: DARPA Workshop, Boston, MA
+  year: 2017
+  month: March
+  url: https://www.slideshare.net/pooyanjamshidi/learning-software-performance-models-for-dynamic-and-uncertain-environments-76616004
+
+- id: bo4co
+  title: "An Uncertainty-Aware Approach to Optimal Configuration of Stream Processing Systems"
+  where: Bern University, Bern, Switzerland
+  year: 2016
+  month: November
+  url: https://www.slideshare.net/pooyanjamshidi/an-uncertaintyaware-approach-to-optimal-configuration-of-stream-processing-systems
+
+- id: ml-meets-devops-dagstuhl
+  title: "Machine Learning meets DevOps"
+  where: Dagstuhl seminar (Software Performance Engineering in the DevOps World), Dagstuhl, Germany
+  year: 2016
+  month: September
+  url: https://www.slideshare.net/pooyanjamshidi/machine-learning-meets-devops
+
+- id: tl4co
+  title: "Transfer Learning for Optimal Configuration of Big Data Software"
+  where: Imperial College London, UK
+  year: 2016
+  month: June
+  url: https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-optimal-configuration-of-big-data-software
+
+- id: microservices-enables-devops
+  title: "Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture"
+  where: RG DevOps Performance Working Group
+  year: 2016
+  month: March
+  url: https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-optimal-configuration-of-big-data-software
+
+- id: fql4ke
+  title: "Fuzzy Self-Learning Controllers for Elasticity Management in Dynamic Cloud Architectures"
+  where: Shonan, Japan
+  year: 2016
+  month: April
+  url: https://www.slideshare.net/pooyanjamshidi/fuzzy-selflearning-controllers-for-elasticity-management-in-dynamic-cloud-architectures
+
+- id: self-learning-cloud-control
+  title: "Self-learning Cloud Controllers"
+  where: Trinity College Dublin, Dublin, Ireland (February 2015); Federal University of Ceará, Fortaleza, Brazil (January 2015)
+  year: 2015
+  month: Februrary
+  url: https://www.slideshare.net/pooyanjamshidi/self-learning-cloud-controllers
+
+- id: cloud-migration-patterns
+  title: "Cloud Migration Patterns: A Multi-Cloud Architectural Perspective"
+  where: Ceará State University, Fortaleza, Brazil
+  year: 2015
+  month: January
+  url: https://www.slideshare.net/pooyanjamshidi/cloud-migrationpatterns
+
+- id: fuzzy-control
+  title: "Fuzzy Control meets Software Engineering"
+  where: Dagstuhl seminar (Control Theory meets Software Engineering), Dagstuhl, Germany
+  year: 2014
+  month: September
+  url: https://www.slideshare.net/pooyanjamshidi/dagstuhl-pooyan

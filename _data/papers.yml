@@ -69,6 +69,7 @@
   year: 2018
   code: https://github.com/pooyanjamshidi/uncertainty
   url: http://www.cse.yorku.ca/~zmjiang/publications/ieeesw2019_trubiani.pdf
+  link: https://www.dagstuhl.de/en/program/calendar/evhp/?semnr=16394
 
 - id: stream-topology-verification
   title: "Verifying big data topologies by-design: a semi-automated approach"
@@ -172,6 +173,7 @@
   venue: CCGRID
   year: 2017
   url: https://arxiv.org/abs/1705.07114
+  award: Nominated for the best paper award
 
 - id: uncertainty-auto-scaling-cloud
   title: "Managing Uncertainty in Autonomic Cloud Elasticity Controllers"
