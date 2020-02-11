@@ -28,6 +28,27 @@
   year: 2019
   url: https://arxiv.org/abs/1910.07660
 
+- id: beetle
+  title: "Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE"
+  authors: Rahul Krishna, Vivek Nair, Pooyan Jamshidi, Tim Menzies
+  venue: IEEE Transactions on Software Engineering
+  year: 2020
+  url: https://arxiv.org/abs/1905.02066
+
+- id: cloud-containers-tcc
+  title: "Cloud container technologies: a state-of-the-art review"
+  authors: Claus Pahl, Antonio Brogi, Jacopo Soldani, Pooyan Jamshidi
+  venue: IEEE Transactions on Cloud Computing
+  year: 2017
+  url: https://www.researchgate.net/publication/316903410_Cloud_Container_Technologies_a_State-of-the-Art_Review
+
+- id: configcrusher
+  title: "ConfigCrusher: White-Box Performance Analysis for Configurable Systems"
+  authors: Miguel Velez, Pooyan Jamshidi, Florian Sattler, Norbert Siegmund, Sven Apel, Christian Kaestner
+  venue: Technical Report
+  year: 2019
+  url: https://arxiv.org/abs/1905.02066
+
 - id: order-independent-sum
   title: "Order-Independent Structure Learning of Multivariate Regression Chain Graphs"
   authors: Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi
