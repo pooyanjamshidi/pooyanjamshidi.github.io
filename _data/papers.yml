@@ -72,7 +72,7 @@
   link: https://www.dagstuhl.de/en/program/calendar/evhp/?semnr=16394
 
 - id: stream-topology-verification
-  title: "Verifying big data topologies by-design: a semi-automated approach"
+  title: "Verifying Big Data Topologies By-Design: A Semi-automated Approach"
   authors: Marcello M. Bersani, Francesco Marconi, Damian A. Tamburri, Andrea Nodari, Pooyan Jamshidi
   venue: Springer Journal of Big Data
   year: 2019
@@ -118,7 +118,7 @@
   url: https://arxiv.org/abs/1801.04644
 
 - id: tl-exploratory-ase
-  title: "Transfer learning for performance modeling of configurable systems: an exploratory analysis"
+  title: "Transfer Learning for Performance Modeling of Configurable Systems: An Exploratory Analysis"
   authors: Pooyan Jamshidi, Norbert Siegmund, Miguel Velez, Christian Kaestner, Akshay Patel, Yuvraj Agarwal
   venue: ASE
   year: 2017
@@ -153,7 +153,7 @@
   url: https://www.researchgate.net/publication/313456143_Cloud_architecture_continuity_Change_models_and_change_rules_for_sustainable_cloud_software_architectures
 
 - id: multi-cloud-migration
-  title: "Pattern-based multi-cloud architecture migration"
+  title: "Pattern-based Multi-cloud Architecture Migration"
   authors: Pooyan Jamshidi, Claus Pahl, Nabor C. Mendonca
   venue: "Software: Practice and Experience"
   year: 2017
@@ -183,7 +183,7 @@
   url: https://www.researchgate.net/publication/301891619_Managing_Uncertainty_in_Autonomic_Cloud_Elasticity_Controllers
 
 - id: hybrid-controller-fgcs
-  title: "A hybrid cloud controller for vertical memory elasticity: {A} control-theoretic approach"
+  title: "A Hybrid Cloud Controller for Vertical Memory Elasticity: A Control-Theoretic Approach"
   authors: Soodeh Farokhi, Pooyan Jamshidi, Ewnetu Bayuh Lakew, Ivona Brandic, Erik Elmroth
   venue: Future Generation Computer Systems
   year: 2016
@@ -201,7 +201,7 @@
   slide: https://www.slideshare.net/pooyanjamshidi/microservices-architecture-enables-devops-migration-to-a-cloudnative-architecture
 
 - id: microservices-migration-patterns
-  title: "Microservices migration patterns"
+  title: "Microservices Migration Patterns"
   authors: Armin Balalaie, Abbas Heydarnoori, Pooyan Jamshidi, Damian A. Tamburri, Theo Lynn
   venue: Software Practice and Experience
   year: 2018
@@ -223,14 +223,14 @@
   url: http://arxiv.org/abs/1508.04752
 
 - id: open-process-sosym
-  title: "Enhancing the OPEN Process Framework with service-oriented method fragments"
+  title: "Enhancing the OPEN Process Framework with Service-Oriented Method Fragments"
   authors: Mahdi Fahmideh Gholami, Mohsen Sharifi, Pooyan Jamshidi
   venue: Software and System Modeling
   year: 2014
   url: https://pooyanjamshidi.wordpress.com/2011/11/26/enhancing-the-open-process-framework-with-service-oriented-method-fragments/
 
 - id: robust2scale
-  title: "Autonomic resource provisioning for cloud-based software"
+  title: "Autonomic Resource Provisioning for Cloud-based Software"
   authors: Pooyan Jamshidi, Aakash Ahmad, Claus Pahl
   venue: SEAMS
   year: 2014
