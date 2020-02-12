@@ -103,7 +103,7 @@
 
 - id: tl-dnn-opml
   title: "Transfer Learning for Performance Modeling of Deep Neural Network Systems"
-  authors: Marcello M. Bersani, Francesco Marconi, Damian A. Tamburri, Andrea Nodari, Pooyan Jamshidi
+  authors: Shahriar Iqbal, Lars Kotthoff, Pooyan Jamshidi
   venue: USENIX OpML
   year: 2019
   code: https://github.com/iqbal128855/OpML19-DNNPerfModeling
