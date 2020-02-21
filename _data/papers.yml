@@ -276,3 +276,10 @@
   url: https://www.researchgate.net/publication/261355592_A_Framework_for_Classifying_and_Comparing_Architecture-Centric_Software_Evolution_Research
   link: http://www.computing.dcu.ie/~pjamshidi/SLR/SLR-ACSE.html
   slide: https://www.slideshare.net/pooyanjamshidi/a-framework-for-classifying-and-comparing-architecturecentric-software-evolution-research-16965152
+
+- id: phd-thesis
+  title: "A Framework for Robust Control of Uncertainty in Self-Adaptive Software Connectors"
+  authors: Pooyan Jamshidi
+  venue: PhD Thesis
+  year: 2014
+  url: http://doras.dcu.ie/20225/1/Thesis-Final_-_PooyanJamshidi.pdf
