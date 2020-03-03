@@ -1,7 +1,7 @@
 - id: athena
   title: "Ensembles of Many Weak Defenses can be Strong: Defending Deep Neural Networks Against adversarial Attacks"
   authors: Ying Meng, Jianhai Su, Jason O’Kane, Pooyan Jamshidi
-  venue: USENIX Security
+  venue: Under Review
   year: 2020
   code: https://github.com/softsys4ai/athena
   url: https://arxiv.org/abs/2001.00308
@@ -15,7 +15,7 @@
 - id: flexibo
   title: "FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks"
   authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
-  venue: IJCAI
+  venue: Under Review 
   year: 2020
   code: https://github.com/softsys4ai/FlexiBO
   url: https://arxiv.org/abs/2001.06588
