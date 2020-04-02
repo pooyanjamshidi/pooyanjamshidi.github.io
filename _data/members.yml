@@ -47,8 +47,8 @@
 
 - name: Stephen Baione
   prog: undergrad
-  id: bione
-  website: 
+  id: baione
+  website: https://www.linkedin.com/in/stephen-baione-38b582141/
   status: current
   bio: Stephen is a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
 
