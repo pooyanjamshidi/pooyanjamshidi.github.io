@@ -42,7 +42,14 @@ These are my ``notable`` academic publications.
   	  {% endif %}
       <a href="{{ paper.url }}"> {{ paper.title }} </a> <br>
       {{ paper.authors }} <br>
-      <em>{{ paper.venue }}</em>
+      <em>{{ paper.venue }}</em>   
+     {% if paper.abstract %}
+     <details>
+      <summary>Abstract</summary>
+  		{{ paper.abstract }}    
+     </details>
+     {% endif %}
+
     </div>
     <div class="right">
       <a href="{{ "/resources/papers/" | append: paper.id | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
