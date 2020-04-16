@@ -11,6 +11,6 @@ Pooyan Jamshidi is an Assistant Professor at the University of South Carolina. H
 * [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/) at Carnegie Mellon University
 * [Claus Pahl](http://www.inf.unibz.it/~cpahl/) at Free University of Bozen-Bolzano -->
 
-You can find my detailed CV [here][cvpdf]{:target="_blank"}.
+**Check out [my CV][cvpdf]{:target="_blank"} for more details.**
 
 [cvpdf]: {{ "/resources/cv/cv_pooyan_jamshidi.pdf" | prepend: site.baseurl }}

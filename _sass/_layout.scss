@@ -76,6 +76,7 @@
         color: $brand-color;
         font-size: $page-nav-font;
         opacity: 0.65;
+        // background-color: $brand-color;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
