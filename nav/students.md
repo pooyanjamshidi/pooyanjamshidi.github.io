@@ -6,7 +6,7 @@ weight: 2
 group: members
 ---
 
-I direct the **Artificial Intelligence and Systems Laboratory (AISys)**. AISys is located at the Storey Innovation Center (Office: 2212).
+I direct the **Artificial Intelligence and Systems Laboratory (AISys)**. AISys is located at 2212 Storey Innovation Center.
 
 <p align="center">
 <a href="{{ site.groupweb }}" target="_blank"><img width="30" height="30" hspace="20" src="/resources/images/GitHub-Mark-64px.png" title="AISys GitHub"></a>
