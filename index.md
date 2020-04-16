@@ -13,7 +13,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 Want to work with me? Read about [AISys Lab](/AISys/).
 
-Want to joint our weekly reading group? Read about our [AI+Systems Reading Group](https://github.com/softsys4ai/readingroup/wiki). 
+Want to joint our weekly reading group? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki). 
 
 ### Current Projects
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
