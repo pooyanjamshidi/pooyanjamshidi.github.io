@@ -12,6 +12,7 @@ These are my ``notable`` academic publications.
 * I regularly upload all PDF version of my publications in [Research Gate](https://www.researchgate.net/profile/Pooyan_Jamshidi)
 * I upload my presentations in [SlideShare](https://www.slideshare.net/pooyanjamshidi)
 * I indicate my representative publications with <span style="color: red">&#9733;</span>
+* I indicate publications that were nominated or selected for best paper award with <span class="icon"> <svg><use xlink:href="#icon-award"/></svg></span>
  
  <!-- <a href="https://www.researchgate.net/profile/Pooyan_Jamshidi">Research Gate</a>, <a href="https://www.slideshare.net/pooyanjamshidi">SlideShare</a> -->
 
@@ -27,16 +28,16 @@ These are my ``notable`` academic publications.
   <h3>{{ year.name }}</h3>
   {% for paper in year.items %}
   <div class="publication" id="{{ paper.id }}">
-    {% if paper.award %}
-    <span class="icon">
-      <svg><use xlink:href="#icon-award"/></svg>
-      <b>{{ paper.award }}</b>
-    </span> <br/>
-    {% endif %}
     <div class="publication-title">
       <div class="row-pic">
         {% include /functions/getpaperpic.html paper=paper %}
   	  </div>
+  	  {% if paper.award %}
+        <span class="icon">
+        <svg><use xlink:href="#icon-award"/></svg>
+        <!-- <b>{{ paper.award }}</b> -->
+        </span>
+      {% endif %}
   	  {% if paper.important %}
   	    <span style="color: red">&#9733;</span>
   	  {% endif %}
