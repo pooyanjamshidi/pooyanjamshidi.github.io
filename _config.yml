@@ -4,6 +4,7 @@ url: https://pooyanjamshidi.github.io # the base hostname & protocol for your si
 
 # User settings
 title: Pooyan Jamshidi
+description: Welcome to my homepage
 email: pjamshid@cse.sc.edu
 group: AISys Lab
 groupweb: https://github.com/softsys4ai
@@ -34,4 +35,5 @@ copyright: Copyright (c) Pooyan Jamshidi
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
 #  - jemoji
