@@ -5,7 +5,12 @@
 	</div>
 	<div class="row-info">
     <h4>
+      {% if project.webpage %}
+      <a href="{{ project.webpage }}">{{ project.name }}</a> <small>({{ project.start }}–{{ project.end | default: "" }})</small>
+      {% else %}
       {{ project.name }} <small>({{ project.start }}–{{ project.end | default: "" }})</small>
+      {% endif %}
+
       {% include /functions/getprojectmembers.html project=project %}
     </h4>
 		<p>

@@ -11,6 +11,7 @@
   members: meng,su
   papers: athena
   description: Despite achieving state-of-the-art performance across many domains, machine learning systems are highly vulnerable to subtle adversarial perturbations. In this project, we propose Athena, an extensible framework for building effective defenses to adversarial attacks against machine learning systems.
+  webpage: https://softsys4ai.github.io/athena/
 
 - name: FlexiBO
   id: flexibo
@@ -18,6 +19,7 @@
   members: iqbal,su
   papers: flexibo
   description: One of the key challenges in designing machine learning systems is to determine the right balance amongst several objectives, which also oftentimes are incommensurable and conflicting. For example, when designing deep neural networks (DNNs), one often has to trade-off between multiple objectives, such as accuracy, energy consumption, and inference time. We developed FlexiBO, a flexible Bayesian optimization method, to address this issue. 
+  webpage: https://github.com/softsys4ai/FlexiBO
 
 - name: BRASS MARS
   id: brassmars
@@ -25,6 +27,7 @@
   members: su
   papers: ml-planning-seams19
   description: How do you build a software system that can function for a century without being touched by a human engineer? This is the herculean task being undertaken by the DARPA Building Resource Adaptive Software System’s (BRASS) program. We, at UofSC with several collborators at CMU, have been developing learning mechanisms to be integrated with quantitative planning to adapt/reconfigure robots to overcome environmental changes at runtime. 
+  webpage: https://github.com/cmu-mars
 
 - name: Causal Structure Learning
   id: causal-learning
