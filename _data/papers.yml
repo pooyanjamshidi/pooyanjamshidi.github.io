@@ -27,7 +27,7 @@
   title: "Developing Self-Adaptive Microservice Systems: Challenges and Directions"
   authors: Nabor C  Mendonca, Pooyan Jamshidi, David Garlan, Claus Pahl
   venue: IEEE Software
-  year: 2019
+  year: 2020
   url: https://arxiv.org/abs/1910.07660
   abstract: "A self-adaptive system can dynamically monitor and adapt its behavior to preserve or enhance its quality attributes under uncertain operating conditions. This article identifies key challenges for the development of microservice applications as self-adaptive systems, using a cloud-based intelligent video surveillance application as a motivating example. It also suggests potential new directions for addressing most of the identified challenges by leveraging existing microservice practices and technologies."
 
@@ -38,14 +38,6 @@
   year: 2020
   url: https://arxiv.org/abs/1911.01817
   abstract: "As software systems grow in complexity and the space of possible configurations increases exponentially, finding the near-optimal configuration of a software system becomes challenging. Recent approaches address this challenge by learning performance models based on a sample set of configurations. However, collecting enough sample configurations can be very expensive since each such sample requires configuring, compiling, and executing the entire system using a complex test suite. When learning on new data is too expensive, it is possible to use Transfer Learning to transfer old lessons to the new context. Traditional transfer learning has a number of challenges, specifically, (a) learning from excessive data takes excessive time, and (b) the performance of the models built via transfer can deteriorate as a result of learning from a poor source. To resolve these problems, we propose a novel transfer learning framework called BEETLE, which is a bellwether-based transfer learner that focuses on identifying and learning from the most relevant source from amongst the old data. This paper evaluates BEETLE with 57 different software configuration problems based on five software systems (a video encoder, an SAT solver, a SQL database, a high-performance C-compiler, and a streaming data analytics tool). In each of these cases, BEETLE found configurations that are as good as or better than those found by other state-of-the-art transfer learners while requiring only a fraction of the measurements needed by those other methods. Based on these results, we say that BEETLE is a new high-water mark in optimally configuring software."
-
-- id: cloud-containers-tcc
-  title: "Cloud container technologies: a state-of-the-art review"
-  authors: Claus Pahl, Antonio Brogi, Jacopo Soldani, Pooyan Jamshidi
-  venue: IEEE Transactions on Cloud Computing
-  year: 2017
-  url: https://www.researchgate.net/publication/316903410_Cloud_Container_Technologies_a_State-of-the-Art_Review
-  abstract: "Containers as a lightweight technology to virtualise applications have recently been successful, particularly to manage applications in the cloud. Often, the management of clusters of containers becomes essential and the orchestration of the construction and deployment becomes a central problem. This emerging topic has been taken up by researchers, but there is currently no secondary study to consolidate this research. We aim to identify, taxonomically classify and systematically compare the existing research body on containers and their orchestration and specifically the application of this technology in the cloud. We have conducted a systematic mapping study of 46 selected studies. We classified and compared the selected studies based on a characterisation framework. This results in a discussion of agreed and emerging concerns in the container orchestration space, positioning it within the cloud context, but also moving it closer to current concerns in cloud platforms, microservices and continuous development."
 
 - id: configcrusher
   title: "ConfigCrusher: White-Box Performance Analysis for Configurable Systems"
@@ -92,16 +84,6 @@
   code: https://github.com/majavid/AAAI-WHY-2019
   url: https://arxiv.org/abs/1902.10119
   abstract: "Modern systems (e.g., deep neural networks, big data analytics, and compilers) are highly configurable, which means they expose different performance behavior under different configurations. The fundamental challenge is that one cannot simply measure all configurations due to the sheer size of the configuration space. Transfer learning has been used to reduce the measurement efforts by transferring knowledge about performance behavior of systems across environments. Previously, research has shown that statistical models are indeed transferable across environments. In this work, we investigate identifiability and transportability of causal effects and statistical relations in highly-configurable systems. Our causal analysis agrees with previous exploratory analysis and confirms that the causal effects of configuration options can be carried over across environments with high confidence. We expect that the ability to carry over causal relations will enable effective performance analysis of highly-configurable systems."
-
-- id: performance-uncertainty-software
-  title: "Performance Issues? Hey DevOps, Mind the Uncertainty!"
-  authors: Catia Trubiani, Pooyan Jamshidi, Jurgen Cito, Weiyi Shang, Zhen Ming Jiang, Markus Borg
-  venue: IEEE Software
-  year: 2018
-  code: https://github.com/pooyanjamshidi/uncertainty
-  url: http://www.cse.yorku.ca/~zmjiang/publications/ieeesw2019_trubiani.pdf
-  link: https://www.dagstuhl.de/en/program/calendar/evhp/?semnr=16394
-  abstract: "DevOps is a novel trend that aims to bridge the gap between software development and operation teams. This article presents an experience report that better identifies performance uncertainties through a case study and provides a step-by-step guide to practitioners for controlling system uncertainties."
 
 - id: stream-topology-verification
   title: "Verifying Big Data Topologies By-Design: A Semi-automated Approach"
@@ -162,6 +144,16 @@
   url: http://www.cs.cmu.edu/~ckaestne/pdf/fse18.pdf
   abstract: "Most software systems provide options that allow users to tailor the system in terms of functionality and qualities. The increased flexibility raises challenges for understanding the configuration space and the effects of options and their interactions on performance and other non-functional properties. To identify how options and interactions affect the performance of a system, several sampling and learning strategies have been recently proposed. However, existing approaches usually assume a fixed environment (hardware, workload, software release) such that learning has to be repeated once the environment changes. Repeating learning and measurement for each environment is expensive and often practically infeasible. Instead, we pursue a strategy that transfers knowledge across environments but sidesteps heavyweight and expensive transfer-learning strategies. Based on empirical insights about common relationships regarding (i) influential options, (ii) their interactions, and (iii) their performance distributions, our approach, L2S (Learning to Sample), selects better samples in the target environment based on information from the source environment. It progressively shrinks and adaptively concentrates on interesting regions of the configuration space. With both synthetic benchmarks and several real systems, we demonstrate that L2S outperforms state of the art performance learning and transfer-learning approaches in terms of measurement effort and learning accuracy."
 
+- id: performance-uncertainty-software
+  title: "Performance Issues? Hey DevOps, Mind the Uncertainty!"
+  authors: Catia Trubiani, Pooyan Jamshidi, Jurgen Cito, Weiyi Shang, Zhen Ming Jiang, Markus Borg
+  venue: IEEE Software
+  year: 2018
+  code: https://github.com/pooyanjamshidi/uncertainty
+  url: http://www.cse.yorku.ca/~zmjiang/publications/ieeesw2019_trubiani.pdf
+  link: https://www.dagstuhl.de/en/program/calendar/evhp/?semnr=16394
+  abstract: "DevOps is a novel trend that aims to bridge the gap between software development and operation teams. This article presents an experience report that better identifies performance uncertainties through a case study and provides a step-by-step guide to practitioners for controlling system uncertainties."
+
 - id: microservices-journey
   title: "Microservices: The Journey So Far and Challenges Ahead"
   authors: Pooyan Jamshidi, Claus Pahl, Nabor C Mendonca, James Lewis, Stefan Tilkov
@@ -178,6 +170,22 @@
   url: https://arxiv.org/abs/1801.04644
   abstract: "Software engineers often have to estimate the performance of a software system before having full knowledge of the system parameters, such as workload and operational profile. These uncertain parameters inevitably affect the accuracy of quality evaluations, and the ability to judge if the system can continue to fulfil performance requirements if parameter results are different from expected. Previous work has addressed this problem by modelling the potential values of uncertain parameters as probability distribution functions, and estimating the robustness of the system using Monte Carlo-based methods. These approaches require a large number of samples, which results in high computational cost and long waiting times.
   To address the computational inefficiency of existing approaches, we employ Polynomial Chaos Expansion (PCE) as a rigorous method for uncertainty propagation and further extend its use to robust performance estimation. The aim is to assess if the software system is robust, i.e., it can withstand possible changes in parameter values, and continue to meet performance requirements. PCE is a very efficient technique, and requires significantly less computations to accurately estimate the distribution of performance indices. Through three very different case studies from different phases of software development and heterogeneous application domains, we show that PCE can accurately estimate the robustness of various performance indices, and saves up to 225 hours of performance evaluation time when compared to Monte Carlo Simulation."
+
+- id: microservices-migration-patterns
+  title: "Microservices Migration Patterns"
+  authors: Armin Balalaie, A. Heydarnoori, Pooyan Jamshidi, Damian Tamburri, Theo Lynn
+  venue: Software Practice and Experience
+  year: 2018
+  url: https://www.researchgate.net/publication/326601142_Microservices_migration_patterns
+  abstract: "Microservices architectures are becoming the defacto standard for building continuously deployed systems. At the same time, there is a substantial growth in the demand for migrating on‐premise legacy applications to the cloud. In this context, organizations tend to migrate their traditional architectures into cloud‐native architectures using microservices. This article reports a set of migration and rearchitecting design patterns that we have empirically identified and collected from industrial‐scale software migration projects. These migration patterns can help information technology organizations plan their migration projects toward microservices more efficiently and effectively. In addition, the proposed patterns facilitate the definition of migration plans by pattern composition. Qualitative empirical research is used to evaluate the validity of the proposed patterns. Our findings suggest that the proposed patterns are evident in other architectural refactoring and migration projects and strong candidates for effective patterns in system migrations."
+
+- id: cloud-containers-tcc
+  title: "Cloud container technologies: a state-of-the-art review"
+  authors: Claus Pahl, Antonio Brogi, Jacopo Soldani, Pooyan Jamshidi
+  venue: IEEE Transactions on Cloud Computing
+  year: 2017
+  url: https://www.researchgate.net/publication/316903410_Cloud_Container_Technologies_a_State-of-the-Art_Review
+  abstract: "Containers as a lightweight technology to virtualise applications have recently been successful, particularly to manage applications in the cloud. Often, the management of clusters of containers becomes essential and the orchestration of the construction and deployment becomes a central problem. This emerging topic has been taken up by researchers, but there is currently no secondary study to consolidate this research. We aim to identify, taxonomically classify and systematically compare the existing research body on containers and their orchestration and specifically the application of this technology in the cloud. We have conducted a systematic mapping study of 46 selected studies. We classified and compared the selected studies based on a characterisation framework. This results in a discussion of agreed and emerging concerns in the container orchestration space, positioning it within the cloud context, but also moving it closer to current concerns in cloud platforms, microservices and continuous development."
 
 - id: tl-exploratory-ase
   title: "Transfer Learning for Performance Modeling of Configurable Systems: An Exploratory Analysis"
@@ -198,17 +206,8 @@
   url: https://arxiv.org/abs/1704.00234
   slide: https://www.slideshare.net/MiguelVelez21/transfer-learning-for-improving-model-prediction-in-highly-configurable-software
   code: https://github.com/pooyanjamshidi/transferlearning
+  important: 1
   abstract: "Modern software systems are built to be used in dynamic environments using configuration capabilities to adapt to changes and external uncertainties. In a self-adaptation context, we are often interested in reasoning about the performance of the systems under different configurations. Usually, we learn a black-box model based on real measurements to predict the performance of the system given a specific configuration. However, as modern systems become more complex, there are many configuration parameters that may interact and we end up learning an exponentially large configuration space. Naturally, this does not scale when relying on real measurements in the actual changing environment. We propose a different solution: Instead of taking the measurements from the real system, we learn the model using samples from other sources, such as simulators that approximate performance of the real system at low cost. We define a cost model that transform the traditional view of model learning into a multi-objective problem that not only takes into account model accuracy but also measurements effort as well. We evaluate our cost-aware transfer learning solution using real-world configurable software including (i) a robotic system, (ii) 3 different stream processing applications, and (iii) a NoSQL database system. The experimental results demonstrate that our approach can achieve (a) a high prediction accuracy, as well as (b) a high model reliability."
-
-- id: bo4co
-  title: "An Uncertainty-Aware Approach to Optimal Configuration of Stream Processing Systems"
-  authors: Pooyan Jamshidi, Giuliano Casale
-  venue: MASCOTS
-  year: 2016
-  url: https://arxiv.org/abs/1606.06543
-  slide: https://www.slideshare.net/pooyanjamshidi/an-uncertaintyaware-approach-to-optimal-configuration-of-stream-processing-systems
-  code: https://github.com/dice-project/DICE-Configuration-BO4CO
-  abstract: "Finding optimal configurations for Stream Processing Systems (SPS) is a challenging problem due to the large number of parameters that can influence their performance and the lack of analytical models to anticipate the effect of a change. To tackle this issue, we consider tuning methods where an experimenter is given a limited budget of experiments and needs to carefully allocate this budget to find optimal configurations. We propose in this setting Bayesian Optimization for Configuration Optimization (BO4CO), an auto-tuning algorithm that leverages Gaussian Processes (GPs) to iteratively capture posterior distributions of the configuration spaces and sequentially drive the experimentation. Validation based on Apache Storm demonstrates that our approach locates optimal configurations within a limited experimental budget, with an improvement of SPS performance typically of at least an order of magnitude compared to existing configuration algorithms."
 
 - id: architecture-continuity
   title: "Cloud architecture continuity: Change models and change rules for sustainable cloud software architectures"
@@ -252,6 +251,17 @@
   url: https://www.researchgate.net/publication/301891619_Managing_Uncertainty_in_Autonomic_Cloud_Elasticity_Controllers
   abstract: "Elasticity allows a cloud system to maintain an optimal user experience by automatically acquiring and releasing resources. Autoscaling-adding or removing resources automatically on the fly-involves specifying threshold-based rules to implement elasticity policies. However, the elasticity rules must be specified through quantitative values, which requires cloud resource management knowledge and expertise. Furthermore, existing approaches don't explicitly deal with uncertainty in cloud-based software, where noise and unexpected events are common. The authors propose a control-theoretic approach that manages the behavior of a cloud environment as a dynamic system. They integrate a fuzzy cloud controller with an online learning mechanism, putting forward a framework that takes the human out of the dynamic adaptation loop and can cope with various sources of uncertainty in the cloud."
 
+- id: bo4co
+  title: "An Uncertainty-Aware Approach to Optimal Configuration of Stream Processing Systems"
+  authors: Pooyan Jamshidi, Giuliano Casale
+  venue: MASCOTS
+  year: 2016
+  url: https://arxiv.org/abs/1606.06543
+  slide: https://www.slideshare.net/pooyanjamshidi/an-uncertaintyaware-approach-to-optimal-configuration-of-stream-processing-systems
+  code: https://github.com/dice-project/DICE-Configuration-BO4CO
+  important: 1
+  abstract: "Finding optimal configurations for Stream Processing Systems (SPS) is a challenging problem due to the large number of parameters that can influence their performance and the lack of analytical models to anticipate the effect of a change. To tackle this issue, we consider tuning methods where an experimenter is given a limited budget of experiments and needs to carefully allocate this budget to find optimal configurations. We propose in this setting Bayesian Optimization for Configuration Optimization (BO4CO), an auto-tuning algorithm that leverages Gaussian Processes (GPs) to iteratively capture posterior distributions of the configuration spaces and sequentially drive the experimentation. Validation based on Apache Storm demonstrates that our approach locates optimal configurations within a limited experimental budget, with an improvement of SPS performance typically of at least an order of magnitude compared to existing configuration algorithms."
+
 - id: hybrid-controller-fgcs
   title: "A Hybrid Cloud Controller for Vertical Memory Elasticity: A Control-Theoretic Approach"
   authors: Soodeh Farokhi, Pooyan Jamshidi, Ewnetu Bayuh Lakew, Ivona Brandic, Erik Elmroth
@@ -272,13 +282,15 @@
   slide: https://www.slideshare.net/pooyanjamshidi/microservices-architecture-enables-devops-migration-to-a-cloudnative-architecture
   abstract: "This article reports on experiences and lessons learned during incremental migration and architectural refactoring of a commercial mobile back end as a service to microservices architecture. It explains how the researchers adopted DevOps and how this facilitated a smooth migration."
 
-- id: microservices-migration-patterns
-  title: "Microservices Migration Patterns"
-  authors: Armin Balalaie, A. Heydarnoori, Pooyan Jamshidi, Damian Tamburri, Theo Lynn
-  venue: Software Practice and Experience
-  year: 2018
-  url: https://www.researchgate.net/publication/326601142_Microservices_migration_patterns
-  abstract: "Microservices architectures are becoming the defacto standard for building continuously deployed systems. At the same time, there is a substantial growth in the demand for migrating on‐premise legacy applications to the cloud. In this context, organizations tend to migrate their traditional architectures into cloud‐native architectures using microservices. This article reports a set of migration and rearchitecting design patterns that we have empirically identified and collected from industrial‐scale software migration projects. These migration patterns can help information technology organizations plan their migration projects toward microservices more efficiently and effectively. In addition, the proposed patterns facilitate the definition of migration plans by pattern composition. Qualitative empirical research is used to evaluate the validity of the proposed patterns. Our findings suggest that the proposed patterns are evident in other architectural refactoring and migration projects and strong candidates for effective patterns in system migrations."
+- id: fql4ke
+  title: "Fuzzy Self-Learning Controllers for Elasticity Management in Dynamic Cloud Architectures"
+  authors: Pooyan Jamshidi, Amir Sharifloo, Claus Pahl, Hamid Arabnejad, Andreas Metzger, Giovani Estrada
+  venue: QoSA
+  year: 2016
+  url: https://www.researchgate.net/publication/299261777_Fuzzy_Self-Learning_Controllers_for_Elasticity_Management_in_Dynamic_Cloud_Architectures
+  slide: https://www.slideshare.net/pooyanjamshidi/fuzzy-selflearning-controllers-for-elasticity-management-in-dynamic-cloud-architectures
+  important: 1
+  abstract: "Cloud controllers support the operation and quality management of dynamic cloud architectures by automatically scaling the compute resources to meet performance guarantees and minimize resource costs. Existing cloud controllers often resort to scaling strategies that are codified as a set of architecture adaptation rules. However, for a cloud provider, deployed application architectures are black-boxes, making it difficult at design time to define optimal or pre-emptive adaptation rules. Thus, the burden of taking adaptation decisions often is delegated to the cloud application. We propose the dynamic learning of adaptation rules for deployed application architectures in the cloud. We introduce FQL4KE, a self-learning fuzzy controller that learns and modifies fuzzy rules at runtime. The benefit is that we do not have to rely solely on precise design-time knowledge, which may be difficult to acquire. FQL4KE empowers users to configure cloud controllers by simply adjusting weights representing priorities for architecture quality instead of defining complex rules. FQL4KE has been experimentally validated using the cloud application framework ElasticBench in Azure and OpenStack. The experimental results demonstrate that FQL4KE outperforms both a fuzzy controller without learning and the native Azure auto-scaling."
 
 - id: control-self-adaptive-seams
   title: "Software Engineering Meets Control Theory"
@@ -297,6 +309,13 @@
   url: http://arxiv.org/abs/1508.04752
   abstract: "DevOps is a trend towards a tighter integration between development (Dev) and operations (Ops) teams. The need for such an integration is driven by the requirement to continuously adapt enterprise applications (EAs) to changes in the business environment. As of today, DevOps concepts have been primarily introduced to ensure a constant flow of features and bug fixes into new releases from a functional perspective. In order to integrate a non-functional perspective into these DevOps concepts this report focuses on tools, activities, and processes to ensure one of the most important quality attributes of a software system, namely performance.
   Performance describes system properties concerning its timeliness and use of resources. Common metrics are response time, throughput, and resource utilization. Performance goals for EAs are typically defined by setting upper and/or lower bounds for these metrics and specific business transactions. In order to ensure that such performance goals can be met, several activities are required during development and operation of these systems as well as during the transition from Dev to Ops. Activities during development are typically summarized by the term Software Performance Engineering (SPE), whereas activities during operations are called Application Performance Management (APM). SPE and APM were historically tackled independently from each other, but the newly emerging DevOps concepts require and enable a tighter integration between both activity streams. This report presents existing solutions to support this integration as well as open research challenges in this area."
+
+- id: phd-thesis
+  title: "A Framework for Robust Control of Uncertainty in Self-Adaptive Software Connectors"
+  authors: Pooyan Jamshidi
+  venue: PhD Thesis
+  year: 2014
+  url: http://doras.dcu.ie/20225/1/Thesis-Final_-_PooyanJamshidi.pdf
 
 - id: open-process-sosym
   title: "Enhancing the OPEN Process Framework with Service-Oriented Method Fragments"
@@ -335,10 +354,3 @@
   link: http://www.computing.dcu.ie/~pjamshidi/SLR/SLR-ACSE.html
   slide: https://www.slideshare.net/pooyanjamshidi/a-framework-for-classifying-and-comparing-architecturecentric-software-evolution-research-16965152
   abstract: "Context: Software systems are increasingly required to operate in an open world, characterized by continuous changes in the environment and in the prescribed requirements. Architecture-centric software evolution (ACSE) is considered as an approach to support software adaptation at a controllable level of abstraction in order to survive in the uncertain environment. This requires evolution in system structure and behavior that can be modeled, analyzed and evolved in a formal fashion. Existing research and practices comprise a wide spectrum of evolution-centric approaches in terms of formalisms, methods, processes and frameworks to tackle ACSE as well as empirical studies to consolidate existing research. However, there is no unified framework providing systematic insight into classification and comparison of state-of-the-art in ACSE research. Objective: We present a taxonomic scheme for a classification and comparison of existing ACSE research approaches, leading to a reflection on areas of future research. Method: We performed a systematic literature review (SLR), resulting in 4138 papers searched and 60 peer-reviewed papers considered for data collection. We populated the taxonomic scheme based on a quantitative and qualitative extraction of data items from the included studies. Results: We identified five main classification categories: (i) type of evolution, (ii) type of specification, (iii) type of architectural reasoning, (iv) runtime issues, and (v) tool support. The selected studies are compared based on their claims and supporting evidences through the scheme. Conclusion: The classification scheme provides a critical view of different aspects to be considered when addressing specific ACSE problems. Besides, the consolidation of the ACSE evidences reflects current trends and the needs for future research directions."
-
-- id: phd-thesis
-  title: "A Framework for Robust Control of Uncertainty in Self-Adaptive Software Connectors"
-  authors: Pooyan Jamshidi
-  venue: PhD Thesis
-  year: 2014
-  url: http://doras.dcu.ie/20225/1/Thesis-Final_-_PooyanJamshidi.pdf
