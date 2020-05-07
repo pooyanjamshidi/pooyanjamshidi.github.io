@@ -42,7 +42,7 @@
 - id: configcrusher
   title: "ConfigCrusher: White-Box Performance Analysis for Configurable Systems"
   authors: Miguel Velez, Pooyan Jamshidi, Florian Sattler, Norbert Siegmund, Sven Apel, Christian Kaestner
-  venue: Technical Report
+  venue: Springer Automated Software Engineering
   year: 2019
   url: https://arxiv.org/abs/1905.02066
   abstract: "In configurable software systems, stakeholders are often interested in knowing how configuration options influence the performance of a system to facilitate, for example, the debugging and optimization processes of these systems. There are several black-box approaches to obtain this information, but they usually require a large number of samples to make accurate predictions, whereas the few existing white-box approaches impose limitations on the systems that they can analyze. This paper proposes ConfigCrusher, a white-box performance analysis that exploits several insights of configurable systems. ConfigCrusher employs a static data-flow analysis to identify how configuration options may influence control-flow decisions and instruments code regions corresponding to these decisions to dynamically analyze the influence of configuration options on the regions' performance. Our evaluation using 10 real-world configurable systems shows that ConfigCrusher is more efficient at building performance models that are similar to or more accurate than current state-of-the-art black-box and white-box approaches. Overall, this paper showcases the benefits and potential of white-box performance analyses to outperform black-box approaches and provide additional information for analyzing configurable systems."
