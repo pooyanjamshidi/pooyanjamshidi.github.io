@@ -179,6 +179,14 @@
   url: https://www.researchgate.net/publication/326601142_Microservices_migration_patterns
   abstract: "Microservices architectures are becoming the defacto standard for building continuously deployed systems. At the same time, there is a substantial growth in the demand for migrating on‐premise legacy applications to the cloud. In this context, organizations tend to migrate their traditional architectures into cloud‐native architectures using microservices. This article reports a set of migration and rearchitecting design patterns that we have empirically identified and collected from industrial‐scale software migration projects. These migration patterns can help information technology organizations plan their migration projects toward microservices more efficiently and effectively. In addition, the proposed patterns facilitate the definition of migration plans by pattern composition. Qualitative empirical research is used to evaluate the validity of the proposed patterns. Our findings suggest that the proposed patterns are evident in other architectural refactoring and migration projects and strong candidates for effective patterns in system migrations."
 
+- id: architectural-principles-cloud
+  title: "Architectural Principles for Cloud Software"
+  authors: Claus Pahl, Pooyan Jamshidi, Olaf Zimmermann
+  venue: ACM Transactions on Internet Technology
+  year: 2018
+  url: https://www.researchgate.net/publication/317348634_Architectural_Principles_for_Cloud_Software
+  abstract: "A cloud is a distributed Internet-based software system providing resources as tiered services. Through service-orientation and virtualization for resource provisioning, cloud applications can be deployed and managed dynamically. We discuss the building blocks of an architectural style for cloud-based software systems. We capture style-defining architectural principles and patterns for control-theoretic, model-based architectures for cloud software. While service orientation is agreed on in the form of service-oriented architecture and microservices, challenges resulting from multi-tiered, distributed and heterogeneous cloud architectures cause uncertainty that has not been sufficiently addressed. We define principles and patterns needed for effective development and operation of adaptive cloud-native systems."
+
 - id: cloud-containers-tcc
   title: "Cloud container technologies: a state-of-the-art review"
   authors: Claus Pahl, Antonio Brogi, Jacopo Soldani, Pooyan Jamshidi
@@ -324,6 +332,14 @@
   year: 2014
   url: https://pooyanjamshidi.wordpress.com/2011/11/26/enhancing-the-open-process-framework-with-service-oriented-method-fragments/
   abstract: "Service orientation is a promising paradigm that enables the engineering of large-scale distributed software systems using rigorous software development processes. The existing problem is that every service-oriented software development project often requires a customized development process that provides specific service-oriented software engineering tasks in support of requirements unique to that project. To resolve this problem and allow situational method engineering, we have defined a set of method fragments in support of the engineering of the project-specific service-oriented software development processes. We have derived the proposed method fragments from the recurring features of 11 prominent service-oriented software development methodologies using a systematic mining approach. We have added these new fragments to the repository of OPEN Process Framework to make them available to software engineers as reusable fragments using this well-known method repository."
+
+- id:  architecture-evolution-reuse-knowledge
+  title: "Classification and comparison of architecture evolution reuse knowledge––a systematic review"
+  authors: Aakash Ahmad, Pooyan Jamshidi, Claus Pahl
+  venue: Journal of Software––Evolution and Process
+  year: 2014
+  url: https://www.researchgate.net/publication/260342580_Classification_and_comparison_of_architecture_evolution_reuse_knowledge_-_A_systematic_review
+  abstract: "Architecture‐centric software evolution (ACSE) enables changes in system's structure and behaviour while maintaining a global view of the software to address evolution‐centric trade‐offs. The existing research and practices for ACSE primarily focus on design‐time evolution and runtime adaptations to accommodate changing requirements in existing architectures. We aim to identify, taxonomically classify and systematically compare the existing research focused on enabling or enhancing change reuse to support ACSE. We conducted a systematic literature review of 32 qualitatively selected studies and taxonomically classified these studies based on solutions that enable (i) empirical acquisition and (ii) systematic application of architecture evolution reuse knowledge (AERK) to guide ACSE. We identified six distinct research themes that support acquisition and application of AERK. We investigated (i) how evolution reuse knowledge is defined, classified and represented in the existing research to support ACSE and (ii) what are the existing methods, techniques and solutions to support empirical acquisition and systematic application of AERK. Change patterns (34% of selected studies) represent a predominant solution, followed by evolution styles (25%) and adaptation strategies and policies (22%) to enable application of reuse knowledge. Empirical methods for acquisition of reuse knowledge represent 19% including pattern discovery, configuration analysis, evolution and maintenance prediction techniques (approximately 6% each). A lack of focus on empirical acquisition of reuse knowledge suggests the need of solutions with architecture change mining as a complementary and integrated phase for architecture change execution."
 
 - id: robust2scale
   title: "Autonomic Resource Provisioning for Cloud-based Software"
