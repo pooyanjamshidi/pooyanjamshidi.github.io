@@ -1,3 +1,12 @@
+- id: mlsys-study
+  title: "Understanding the Nature of System-Related Issues in Machine Learning Frameworks: An Exploratory Study"
+  authors: Yang Ren, Gregory Gay, Christian Kästner, Pooyan Jamshidi
+  venue: Under Review
+  year: 2020
+  link: https://zenodo.org/record/3786191
+  url: https://arxiv.org/abs/2005.06091
+  abstract: "Modern systems are built using development frameworks. These frameworks have a major impact on how the resulting system executes, how configurations are managed, how it is tested, and how and where it is deployed. Machine learning (ML) frameworks and the systems developed using them differ greatly from traditional frameworks. Naturally, the issues that manifest in such frameworks may differ as well---as may the behavior of developers addressing those issues. We are interested in characterizing the system-related issues---issues impacting performance, memory and resource usage, and other quality attributes---that emerge in ML frameworks, and how they differ from those in traditional frameworks. We have conducted a moderate-scale exploratory study analyzing real-world system-related issues from 10 popular machine learning frameworks. Our findings offer implications for the development of machine learning systems, including differences in the frequency of occurrence of certain issue types, observations regarding the impact of debate and time on issue correction, and differences in the specialization of developers. We hope that this exploratory study will enable developers to improve their expectations, plan for risk, and allocate resources accordingly when making use of the tools provided by these frameworks to develop ML-based systems."
+
 - id: athena
   title: "Ensembles of Many Weak Defenses can be Strong: Defending Deep Neural Networks against Adversarial Attacks"
   authors: Ying Meng, Jianhai Su, Jason O’Kane, Pooyan Jamshidi
@@ -25,7 +34,7 @@
 
 - id: self-adaptive-microservices
   title: "Developing Self-Adaptive Microservice Systems: Challenges and Directions"
-  authors: Nabor C  Mendonca, Pooyan Jamshidi, David Garlan, Claus Pahl
+  authors: Nabor C. Mendonca, Pooyan Jamshidi, David Garlan, Claus Pahl
   venue: IEEE Software
   year: 2020
   url: https://arxiv.org/abs/1910.07660
@@ -156,7 +165,7 @@
 
 - id: microservices-journey
   title: "Microservices: The Journey So Far and Challenges Ahead"
-  authors: Pooyan Jamshidi, Claus Pahl, Nabor C Mendonca, James Lewis, Stefan Tilkov
+  authors: Pooyan Jamshidi, Claus Pahl, Nabor C. Mendonca, James Lewis, Stefan Tilkov
   venue: IEEE Software
   year: 2018
   url: https://ieeexplore.ieee.org/document/8354433
@@ -336,7 +345,7 @@
 - id:  architecture-evolution-reuse-knowledge
   title: "Classification and comparison of architecture evolution reuse knowledge––a systematic review"
   authors: Aakash Ahmad, Pooyan Jamshidi, Claus Pahl
-  venue: Journal of Software––Evolution and Process
+  venue: Wiley Journal of Software––Evolution and Process
   year: 2014
   url: https://www.researchgate.net/publication/260342580_Classification_and_comparison_of_architecture_evolution_reuse_knowledge_-_A_systematic_review
   abstract: "Architecture‐centric software evolution (ACSE) enables changes in system's structure and behaviour while maintaining a global view of the software to address evolution‐centric trade‐offs. The existing research and practices for ACSE primarily focus on design‐time evolution and runtime adaptations to accommodate changing requirements in existing architectures. We aim to identify, taxonomically classify and systematically compare the existing research focused on enabling or enhancing change reuse to support ACSE. We conducted a systematic literature review of 32 qualitatively selected studies and taxonomically classified these studies based on solutions that enable (i) empirical acquisition and (ii) systematic application of architecture evolution reuse knowledge (AERK) to guide ACSE. We identified six distinct research themes that support acquisition and application of AERK. We investigated (i) how evolution reuse knowledge is defined, classified and represented in the existing research to support ACSE and (ii) what are the existing methods, techniques and solutions to support empirical acquisition and systematic application of AERK. Change patterns (34% of selected studies) represent a predominant solution, followed by evolution styles (25%) and adaptation strategies and policies (22%) to enable application of reuse knowledge. Empirical methods for acquisition of reuse knowledge represent 19% including pattern discovery, configuration analysis, evolution and maintenance prediction techniques (approximately 6% each). A lack of focus on empirical acquisition of reuse knowledge suggests the need of solutions with architecture change mining as a complementary and integrated phase for architecture change execution."
