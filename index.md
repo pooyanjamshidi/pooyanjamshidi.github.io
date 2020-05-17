@@ -15,53 +15,34 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 * Want to joint our weekly reading group? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki). 
 
-<!-- <table class="table table-sm">
+###  News
+<!-- <pre>
+<code>
+<li> <em>May. 14, 2020</em>: A paper (Learning LWF Chain Graphs: A Markov Blanket Discovery Approach) was accepted at <strong>UAI 2020</strong>. Congratulations Mohammad Ali Javidian!</li>
+<li> <em>Apr. 10, 2020</em>: A <strong>NASA grant</strong> (A Generic Data-Driven Framework via Physics-Informed Deep Learning) was awarded. PI: Lang Yuan. Thanks NASA for supporting our work!</li>
+<a href="/news">Older News...</a>
+</code>
+</pre> -->
+
+<table class="table table-sm">
 
     <tbody><tr>
-        <td>8 May 2019</td>
-        <td>I am joining the University of Chicago as Neubauer Professor of
-            Computer Science and Director of the Center for Data and
-            Computing. </td>
+        <td>14 May 2020</td>
+        <td>A paper (Learning LWF Chain Graphs: A Markov Blanket Discovery Approach) was accepted at <strong>UAI 2020</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
     </tr>
 
     <tr>
-        <td>7 May 2019</td>
-        <td>Jason Livingood and I posted 
-            <a href="https://arxiv.org/abs/1905.02334">an early draft</a> 
-            on the challenges for next-generation Internet speed testing. 
-        </td>
+        <td>13 May 2020</td>
+        <td>I was invited to serve on a <strong>NSF panel</strong> (Principles and Practice of Scalable Systems (PPoSS) in Machine Learning). Thanks NSF! </td>
     </tr>
 
     <tr>
-        <td>1 May 2019</td>
-        <td>Marshini Chetty and I gave the <a href="https://www.pds.org/school-news/news-post/~post/pioneers-in-science-at-pds-unpacking-ai-and-machine-learning-20190404">Pioneers in Science lecture</a> at <a href="https://pds.org/">Princeton Day School</a> on applications of Machine Learning in Computer Science.
+        <td>10 May 2020</td>
+        <td>A <strong>NASA grant</strong> (A Generic Data-Driven Framework via Physics-Informed Deep Learning) was awarded. PI: Lang Yuan. Thanks NASA for supporting our work! 
         </td>
     </tr>
-
- 
-     <tr>
-        <td>10 Apr 2019</td>
-        <td><a href="https://iot-inspector.princeton.edu/">IoT inspector</a>
-            (led by postdoc Danny Huang) is officially released!
-        </td> 
-     </tr>
-
-     <tr>
-        <td>4 Apr 2019</td>
-        <td>I co-organized an NSF workshop at Princeton on the intersection of
-            machine learning and networking ("self-running networks")..</td>
-    </tr>
-
-
-     <tr>
-        <td>20 Mar 2019</td>
-        <td>I <a href="https://www.ftc.gov/policy/hearings-competition-consumer-protection">testified
-                  before the Federal Trade Commission</a> on speed test design
-            and Internet architecture.</td>
-    </tr>
-
-</tbody></table> -->
-
+</tbody></table>
+<a href="/news">Older News...</a>
 
 ### Current Projects
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
