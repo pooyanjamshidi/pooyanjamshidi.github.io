@@ -20,7 +20,10 @@ I upload my presentations in [SlideShare](https://www.slideshare.net/pooyanjamsh
         {% include /functions/gettalkpic.html talk=talk %}
   	  </div>
       <a href="{{ talk.url }}"> {{ talk.title }} </a> <br>
-      <em>{{ talk.where }}</em>, {{ talk.month }}, {{ talk.year }}
+      <em>{{ talk.where }}</em>, {{ talk.month }}, {{ talk.year }} <br>
+      {% if talk.video %}
+      [<a href="{{ talk.video }}"> Video </a>]
+      {% endif %}
     </div>
   </div>
   {% endfor %}

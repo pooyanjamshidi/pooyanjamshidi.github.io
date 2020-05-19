@@ -4,6 +4,7 @@
   year: 2020
   month: Feburary
   url: https://www.slideshare.net/pooyanjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong-defending-deep-neural-networks-against-adversarial-attacks
+  video: https://us-lti.bbcollab.com/recording/7040b10d0f234cf2b59aa281c26cc5cf
 
 - id: tl-mls
   title: "Transfer Learning for Performance Analysis of Machine Learning Systems"
@@ -25,6 +26,7 @@
   year: 2018
   month: May
   url: https://www.slideshare.net/pooyanjamshidi/architectural-tradeoff-in-learningbased-software
+  video: https://youtu.be/xvhO0a5o3QY
 
 - id: tl-performance-analysis-exploratory
   title: "Transfer Learning for Software Performance Analysis: An Exploratory Analysis"
