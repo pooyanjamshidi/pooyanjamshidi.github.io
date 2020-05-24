@@ -28,6 +28,13 @@
   url: https://www.slideshare.net/pooyanjamshidi/architectural-tradeoff-in-learningbased-software
   video: https://youtu.be/xvhO0a5o3QY
 
+- id: tl-performance-configurable-systems
+  title: "Transfer Learning for Performance Analysis of Highly-Configurable Software"
+  where: UC Irvine, California
+  year: 2018
+  month: January
+  url: https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-performance-analysis-of-highlyconfigurable-software
+
 - id: tl-performance-analysis-exploratory
   title: "Transfer Learning for Software Performance Analysis: An Exploratory Analysis"
   where: Urbana-Champaign, IL
