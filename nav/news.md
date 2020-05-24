@@ -26,4 +26,9 @@ group: news
         </td>
     </tr>
 
+    <tr>
+        <td>30 April 2020</td>
+        <td>Our paper (High-throughput experimentation meets artificial intelligence: A new pathway to catalyst discovery) was accepted at <strong>Physical Chemistry Chemical Physics journal</strong>. 
+        </td>
+    </tr>
 </tbody></table>
