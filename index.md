@@ -33,7 +33,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
     <tr>
         <td>13 May 2020</td>
-        <td>I was invited to serve on a <strong>NSF panel</strong> (Principles and Practice of Scalable Systems (PPoSS) in Machine Learning). Thanks NSF! </td>
+        <td>I was invited to serve on a <strong>NSF panel</strong> (CISE/IIS). Thanks NSF! </td>
     </tr>
 
     <tr>
