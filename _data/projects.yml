@@ -11,7 +11,7 @@
   members: meng,su
   papers: athena
   description: Despite achieving state-of-the-art performance across many domains, machine learning systems are highly vulnerable to subtle adversarial perturbations. In this project, we propose Athena, an extensible framework for building effective defenses to adversarial attacks against machine learning systems.
-  webpage: https://softsys4ai.github.io/athena/
+  webpage: https://softsys4ai.github.io/athena
 
 - name: FlexiBO
   id: flexibo
@@ -35,7 +35,7 @@
   members: javidian
   papers: tl-causal
   description: This project is about learning the structure of causal models in order to answer the following questions. How to use the causal structure of machine learning systems for identifying causal effects of configuration options on performance? How to apply transfer learning for performance analysis of machine learning systems? How to use causal inference tools for performance debugging and explainability in machine learning systems?
-  webpage: 
+  webpage: https://majavid.github.io/structurelearning
 
 # - name: Just-in-Time Compilers
 #   id: jit
