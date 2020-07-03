@@ -294,6 +294,7 @@
   url: https://arxiv.org/abs/1606.06543
   slide: https://www.slideshare.net/pooyanjamshidi/an-uncertaintyaware-approach-to-optimal-configuration-of-stream-processing-systems
   code: https://github.com/dice-project/DICE-Configuration-BO4CO
+  link: https://zenodo.org/record/56238
   important: 1
   abstract: "Finding optimal configurations for Stream Processing Systems (SPS) is a challenging problem due to the large number of parameters that can influence their performance and the lack of analytical models to anticipate the effect of a change. To tackle this issue, we consider tuning methods where an experimenter is given a limited budget of experiments and needs to carefully allocate this budget to find optimal configurations. We propose in this setting Bayesian Optimization for Configuration Optimization (BO4CO), an auto-tuning algorithm that leverages Gaussian Processes (GPs) to iteratively capture posterior distributions of the configuration spaces and sequentially drive the experimentation. Validation based on Apache Storm demonstrates that our approach locates optimal configurations within a limited experimental budget, with an improvement of SPS performance typically of at least an order of magnitude compared to existing configuration algorithms."
 
