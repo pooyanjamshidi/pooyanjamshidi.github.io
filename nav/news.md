@@ -12,10 +12,10 @@ group: news
 
     <tbody><tr>
         <td>6 July 2020</td>
-        <td>A paper ("AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms") was accepted at <strong>JAIR (Journal of Artificial Intelligence Research)</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
+        <td>A paper ("AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms") was accepted at <strong>Journal of Artificial Intelligence Research (JAIR)</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
     </tr>
 
-    <tbody><tr>
+    <tr>
         <td>14 May 2020</td>
         <td>A paper ("Learning LWF Chain Graphs: A Markov Blanket Discovery Approach") was accepted at <strong>UAI 2020</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
     </tr>
@@ -33,7 +33,7 @@ group: news
 
     <tr>
         <td>30 April 2020</td>
-        <td>Our paper (High-throughput experimentation meets artificial intelligence: A new pathway to catalyst discovery) was accepted at <strong>Physical Chemistry Chemical Physics journal</strong>. 
+        <td>Our paper ("High-throughput experimentation meets artificial intelligence: A new pathway to catalyst discovery") was accepted at <strong>Physical Chemistry Chemical Physics journal</strong>. 
         </td>
     </tr>
 </tbody></table>
