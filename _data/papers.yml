@@ -11,7 +11,9 @@
 - id: lwf-markov-blankets
   title: "Learning LWF Chain Graphs: A Markov Blanket Discovery Approach"
   authors: Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi
-  venue: UAI
+  venue: Conference on Uncertainty in Artificial Intelligence
+  venue_abb: UAI 2020
+  acc_rate: 27
   year: 2020
   url: https://arxiv.org/abs/2006.00970
   code: https://github.com/majavid/MbLWF2020
@@ -22,7 +24,7 @@
 - id: mlsys-study
   title: "Understanding the Nature of System-Related Issues in Machine Learning Frameworks: An Exploratory Study"
   authors: Yang Ren, Gregory Gay, Christian Kästner, Pooyan Jamshidi
-  venue: Under Review
+  venue: Technical Report
   year: 2020
   link: https://zenodo.org/record/3786191
   url: https://arxiv.org/abs/2005.06091
@@ -88,7 +90,8 @@
 - id: order-independent-sum
   title: "Order-Independent Structure Learning of Multivariate Regression Chain Graphs"
   authors: Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi
-  venue: SUM
+  venue: Conference on Scalable Uncertainty Management
+  venue_abb: SUM 2019
   year: 2019
   code: https://github.com/majavid/SUM2019
   url: https://arxiv.org/abs/1910.01067
@@ -97,7 +100,9 @@
 - id: ml-planning-seams19
   title: "Machine Learning Meets Quantitative Planning: Enabling Self-Adaptation in Autonomous Robots"
   authors: Pooyan Jamshidi, Javier Camara, Bradley Schmerl, Christian Kaestner, David Garlan
-  venue: SEAMS
+  venue: Software Engineering for Adaptive and Self-Managing Systems
+  venue_abb: SEAMS 2019
+  acc_rate: 28
   year: 2019
   code: https://github.com/cmu-mars/RoboTest
   url: https://arxiv.org/abs/1903.03920
@@ -108,7 +113,8 @@
 - id: kuksa
   title: "Kuksa: A Cloud-Native Architecture for Enabling Continuous Delivery in the Automotive Domain"
   authors: Ahmad Banijamali, Pooyan Jamshidi, Pasi Kuvaja, Markku Oivo
-  venue: PROFES
+  venue: Product-Focused Software Process Improvement
+  venue_abb: PROFES 2019
   year: 2019
   code: https://github.com/ahmadbanijamali/Rover-Control-Experiment
   url: https://arxiv.org/abs/1910.10190
@@ -117,7 +123,8 @@
 - id: tl-causal
   title: "Transfer Learning for Performance Modeling of Configurable Systems: A Causal Analysis"
   authors: Mohammad Ali Javidian, Pooyan Jamshidi, Marco Valtorta
-  venue: AAAI
+  venue: AAAI Conference on Artificial Intelligence
+  venue_abb: AAAI 2019
   year: 2019
   code: https://github.com/majavid/AAAI-WHY-2019
   url: https://arxiv.org/abs/1902.10119
@@ -145,7 +152,8 @@
 - id: tl-dnn-opml
   title: "Transfer Learning for Performance Modeling of Deep Neural Network Systems"
   authors: Shahriar Iqbal, Lars Kotthoff, Pooyan Jamshidi
-  venue: USENIX OpML
+  venue: USENIX Operational Machine Learning
+  venue_abb: OpML 2019
   year: 2019
   code: https://github.com/iqbal128855/OpML19-DNNPerfModeling
   url: https://www.usenix.org/system/files/opml19papers-iqbal.pdf
@@ -176,7 +184,9 @@
 - id: l2s
   title: "Learning to Sample: Exploiting Similarities Across Environments to Learn Performance Models for Configurable Systems"
   authors: Pooyan Jamshidi, Miguel Velez, Christian Kaestner, Norbert Siegmund
-  venue: FSE
+  venue: Foundations of Software Engineering
+  venue_abb: FSE 2018
+  acc_rate: 19
   year: 2018
   code: https://github.com/pooyanjamshidi/GenPerf
   url: http://www.cs.cmu.edu/~ckaestne/pdf/fse18.pdf
@@ -236,7 +246,9 @@
 - id: tl-exploratory-ase
   title: "Transfer Learning for Performance Modeling of Configurable Systems: An Exploratory Analysis"
   authors: Pooyan Jamshidi, Norbert Siegmund, Miguel Velez, Christian Kaestner, Akshay Patel, Yuvraj Agarwal
-  venue: ASE
+  venue: Automated Software Engineering
+  venue_abb: ASE 2017
+  acc_rate: 21
   year: 2017
   url: https://arxiv.org/abs/1709.02280
   slide: https://www.slideshare.net/pooyanjamshidi/transfer-learning-for-software-performance-analysis-an-exploratory-analysis
@@ -247,7 +259,9 @@
 - id: tl-robot-seams17
   title: "Transfer Learning for Improving Model Predictions in Highly Configurable Software"
   authors: Pooyan Jamshidi, Miguel Velez, Christian Kaestner, Norbert Siegmund, Prasad Kawthekar
-  venue: SEAMS
+  venue: Software Engineering for Adaptive and Self-Managing Systems
+  venue_abb: SEAMS 2017
+  acc_rate: 23
   year: 2017
   url: https://arxiv.org/abs/1704.00234
   slide: https://www.slideshare.net/MiguelVelez21/transfer-learning-for-improving-model-prediction-in-highly-configurable-software
@@ -283,7 +297,9 @@
 - id: fuzzy-rl-auto-scaling-ccgrid
   title: "A Comparison of Reinforcement Learning Techniques for Fuzzy Cloud Auto-Scaling"
   authors: Hamid Arabnejad, Claus Pahl, Pooyan Jamshidi, Giovani Estrada
-  venue: CCGRID
+  venue: Cluster, Cloud and Internet Computing
+  venue_abb: CCGRID 2017
+  acc_rate: 23
   year: 2017
   url: https://arxiv.org/abs/1705.07114
   award: Nominated for the best paper award
@@ -300,7 +316,9 @@
 - id: bo4co
   title: "An Uncertainty-Aware Approach to Optimal Configuration of Stream Processing Systems"
   authors: Pooyan Jamshidi, Giuliano Casale
-  venue: MASCOTS
+  venue: Modeling, Analysis, and Simulation of Computer Systems
+  venue_abb: MASCOTS 2016
+  acc_rate: 17
   year: 2016
   url: https://arxiv.org/abs/1606.06543
   slide: https://www.slideshare.net/pooyanjamshidi/an-uncertaintyaware-approach-to-optimal-configuration-of-stream-processing-systems
@@ -333,7 +351,9 @@
 - id: fql4ke
   title: "Fuzzy Self-Learning Controllers for Elasticity Management in Dynamic Cloud Architectures"
   authors: Pooyan Jamshidi, Amir Sharifloo, Claus Pahl, Hamid Arabnejad, Andreas Metzger, Giovani Estrada
-  venue: QoSA
+  venue: Quality of Software Architectures
+  venue_abb: QoSA 2016
+  acc_rate: 15
   year: 2016
   url: https://www.researchgate.net/publication/299261777_Fuzzy_Self-Learning_Controllers_for_Elasticity_Management_in_Dynamic_Cloud_Architectures
   slide: https://www.slideshare.net/pooyanjamshidi/fuzzy-selflearning-controllers-for-elasticity-management-in-dynamic-cloud-architectures
@@ -343,7 +363,8 @@
 - id: control-self-adaptive-seams
   title: "Software Engineering Meets Control Theory"
   authors: A. Filieri, M. Maggio, K. Angelopoulos, N. D'Ippolito, I. Gerostathopoulos, A. Hempel, H. Hoffmann, P. Jamshidi, E. Kalyvianaki, C. Klein, F. Krikava, S. Misailovic, A. Papadopoulos, S. Ray, A. M. Sharifloo, S. Shevtsov, M. Ujma, T. Vogel
-  venue: SEAMS
+  venue: Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2015)
+  acc_rate: 29
   year: 2015
   url: https://www.researchgate.net/publication/326601142_Microservices_migration_patterns
   link: https://www.dagstuhl.de/en/program/calendar/evhp/?semnr=14382
@@ -362,6 +383,7 @@
   title: "Self-adaptation Challenges for Cloud-based Applications : A Control Theoretic Perspective"
   authors: S. Farokhi, P. Jamshidi, I. Brandic, E. Elmroth
   venue: Feedback Computing
+  venue_abb: FC (2015)
   year: 2015
   url: https://www.researchgate.net/profile/Soodeh_Farokhi/publication/273445586_Self-adaptation_Challenges_for_Cloud-based_Applications_A_Control_Theoretic_Perspective/links/55142f040cf283ee0834c221/Self-adaptation-Challenges-for-Cloud-based-Applications-A-Control-Theoretic-Perspective.pdf
   slide: https://www.slideshare.net/soodehfarokhi/soodeh-farokhi-fc1513042015
@@ -395,7 +417,9 @@
 - id: robust2scale
   title: "Autonomic Resource Provisioning for Cloud-based Software"
   authors: Pooyan Jamshidi, Aakash Ahmad, Claus Pahl
-  venue: SEAMS
+  venue: Software Engineering for Adaptive and Self-Managing Systems
+  venue_abb: SEAMS 2014
+  acc_rate: 18
   year: 2014
   url: https://www.researchgate.net/publication/266657635_Autonomic_resource_provisioning_for_cloud-based_software
   code: https://github.com/pooyanjamshidi/RobusT2Scale
@@ -415,7 +439,9 @@
 - id: framework-architecture-evolution
   title: "A Framework for Classifying and Comparing Architecture-centric Software Evolution Research"
   authors: Pooyan Jamshidi, Mohammad Ghafari, Aakash Ahmad, Claus Pahl
-  venue: SANER
+  venue: Software Analysis, Evolution and Reengineering 
+  venue_abb: SANER 2013
+  acc_rate: 36
   year: 2013
   url: https://www.researchgate.net/publication/261355592_A_Framework_for_Classifying_and_Comparing_Architecture-Centric_Software_Evolution_Research
   link: http://www.computing.dcu.ie/~pjamshidi/SLR/SLR-ACSE.html

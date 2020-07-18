@@ -41,9 +41,17 @@ These are my ``notable`` academic publications.
   	  {% if paper.important %}
   	    <span style="color: red">&#9733;</span>
   	  {% endif %}
-      <a href="{{ paper.url }}"> {{ paper.title }} </a> <br>
+  	  {% if paper.acc_rate %}
+  	  	<a href="{{ paper.url }}"> {{ paper.title }} </a> ({{ paper.acc_rate}}% Acceptance Rate) <br>
+  	  {% else %}
+      	<a href="{{ paper.url }}"> {{ paper.title }} </a> <br>
+      {% endif %}
       {{ paper.authors }} <br>
-      <em>{{ paper.venue }}</em>   
+      {% if paper.venue_abb %}
+         <em>{{ paper.venue }} ({{ paper.venue_abb }})</em>   
+      {% else %}
+      	 <em>{{ paper.venue }}</em>   
+      {% endif %}
      {% if paper.abstract %}
      <details>
       <summary>Abstract</summary>
