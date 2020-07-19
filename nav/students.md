@@ -31,12 +31,21 @@ Core technical areas: Transfer learning, representation learning, deep learning,
 ### Core Values 
 
 * Fruitful *collaborations* and constant *learning* matter a lot to all of us. 
-* We typically combine *theoretical* and *empirical* insights to build a principled and thorough understanding of systems.
-* Scientific *rigor* is a principal value. 
-* Everyone is of *equal* value.
+* We combine *theoretical* and *empirical* insights to build intelligent autonomous systems.
+* We start by *hypothesis*, we design experiments and use theory to understand the empirical *observations*.
+* *Understanding* the causal mechanisms and governing dynamics of [machine learning systems](/mls) inspires us.
+* Scientific *rigor* is a principal value.
+* We all *love* what we do, proud of *what* we produce, and *how* we produce it. 
+* Everyone is of equal value. *Fairness* and *equality* matter to us a lot.
 * Our *diversity* is important and will be an ongoing goal.
-* Transparency and *open access* to scientific outcomes is key, we publish all [code+data][github].
+* Transparency and *open access* to scientific outcomes is key to make progress, we release all [code+data][github].
 * Open to all people to work with and collaborate, literally all people of any *beliefs* and *ideas*.
+* We are weird in one way or another, but we do respect *math*!
+* *Reproducible* science is what we care the most.
+* All above values start with *respect* to science, colleagues, lab members, all.
+
+
+
 <!-- Currently, a major theme in our lab is to develop secure, robust, reliable, and performant machine learning systems. -->
 
 ### For prospective AISys members
