@@ -22,11 +22,24 @@ The AISys lab welcomes people of any race, religion, national origin, gender ide
 We investigate a variety of open problems that sit at the intersection of artificial intelligence, machine learning, and computer systems. We investigate the development of novel algorithmic and theoretically principled methods that are grounded in mathematics for systems problems with the ultimate goal of building reliable and high-performance machine learning systems. On the application side, we aim to develop the next generation of autonomous systems (on-device, embedded, heterogeneous, cloud, robotics) that can perceive, reason, and react to complex real-world environments and users with high levels of precision and efficiency. Overall, we aim to conduct cutting-edge and high-impact research through full-stack approaches that encourage lab members with skills in algorithms, systems, and math to solve critical and practical challenges at the intersection of AI+Systems.
 ```
 
+
+<!-- 
 ```inline
 Core technical areas: Transfer learning, representation learning, deep learning, non-convex optimization, causal inference, reinforcement learning, concept learning, and robust optimization.
-```
+``` -->
 
-At AISys, fruitful collaborations and constant learning matter a lot to all of us. We have a culture where students frequently collaborate. We typically combine theoretical and empirical insights to build a principled and thorough understanding of key techniques in machine learning, such as deep learning, as well as the challenges we face in this context. Currently, a major theme in our lab is to develop secure, robust, reliable, and performant machine learning systems.
+### Core Values 
+
+* Fruitful *collaborations* and constant *learning* matter a lot to all of us. 
+* We typically combine *theoretical* and *empirical* insights to build a principled and thorough understanding of systems.
+* Scientific *rigor* is a principal value. 
+* Everyone is of *equal* value.
+* Our *diversity* is important and will be an ongoing goal.
+* Transparency and *open access* to scientific outcomes is key, we publish all [code+data][github].
+* Open to all people to work with and collaborate, literally all people of any *beliefs* and *ideas*.
+<!-- Currently, a major theme in our lab is to develop secure, robust, reliable, and performant machine learning systems. -->
+
+### For prospective AISys members
 
 * Are you a **current Ph.D. student** at UofSC interested in working with me? The door of my office is always open and I love discussing research with students, please stop by and let's chat about your interests.
 
@@ -54,3 +67,5 @@ At AISys, fruitful collaborations and constant learning matter a lot to all of u
 {% assign former = site.data.members | where:"status","former" %}
 {% include members.html data=former %}
  -->
+
+[github]: {{ site.groupweb | prepend: site.baseurl }}
