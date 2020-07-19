@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Home
 weight: 1
 group: research
 ---
