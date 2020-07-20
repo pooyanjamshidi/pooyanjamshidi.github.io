@@ -36,6 +36,7 @@ Core technical areas: Transfer learning, representation learning, deep learning,
 * *Understanding* the causal mechanisms and governing dynamics of [machine learning systems](/mls) inspires us.
 * Scientific *rigor* is a principal value.
 * We all *love* what we do, proud of *what* we produce, and *how* we produce it. 
+* We offer guidance and mentorship and we do expect to receive *feedback*.
 * Everyone is of equal value. *Fairness* and *equality* matter to us a lot.
 * Our *diversity* is important and will be an ongoing goal.
 * Transparency and *open access* to scientific outcomes is key to make progress, we release all [code+data][github].
