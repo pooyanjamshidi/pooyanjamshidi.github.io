@@ -5,6 +5,14 @@
 #   papers:
 #   description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
 
+- name: "Causal AI: Structure Learning and Transfer Learning"
+  id: causal-learning
+  start: 2018
+  members: javidian
+  papers: lwf-markov-blankets,tl-causal
+  description: "In this project, we are addressing the following important questions from theoretical and empirical perspectives: (i) How to learn reliable causal structures from data and how to use the learned causal structures for identifying causal invariances across environments? (ii) How to use the causal structure learning and counterfactual reasoning based on causal invariances for systems problems? In particular, we are extremely interested to apply these theoretical advancements for an explainable and guided performance debugging of highly-configurable systems."
+  webpage: https://majavid.github.io/structurelearning
+
 - name: Athena
   id: athena
   start: 2019
@@ -28,14 +36,6 @@
   papers: ml-planning-seams19,brass-ieee-software,tl-robot-seams17
   description: How do you build a software system that can function for a century without being touched by a human engineer? This is the herculean task being undertaken by the DARPA Building Resource Adaptive Software System’s (BRASS) program. We, at UofSC with several collborators at CMU, have been developing learning mechanisms to be integrated with quantitative planning to adapt/reconfigure robots to overcome environmental changes at runtime. 
   webpage: https://github.com/cmu-mars
-
-- name: Causal Structure Learning
-  id: causal-learning
-  start: 2018
-  members: javidian
-  papers: lwf-markov-blankets,tl-causal
-  description: This project is about learning the structure of causal models in order to answer the following questions. How to use the causal structure of machine learning systems for identifying causal effects of configuration options on performance? How to apply transfer learning for performance analysis of machine learning systems? How to use causal inference tools for performance debugging and explainability in machine learning systems?
-  webpage: https://majavid.github.io/structurelearning
 
 # - name: Just-in-Time Compilers
 #   id: jit
