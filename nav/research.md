@@ -16,7 +16,7 @@ The overall aim of our research at the AISys lab is to build the foundations tha
 	- We develop principled methods to enable learning *transferable concepts* that promote transfer learning across tasks and environments.
 	- We develop non-convex, typically multi-objective *optimization* by incorporating a variation of transfer learning to solve systems problems (e.g., optimize performance) with low sample sizes, because they are expensive, sometimes even impossible.
 	- We develop principled methods to optimize performance of *highly-configurable systems* across the stack (software, middleware, hardware).
-* **Causal Inference, Causal AI**
+* **Causal AI: Structure Learning and Transfer Learning**
 	- Causal inference provides a set of tools and principles that allows us to reason about questions of counterfactual nature by combining data and *structural invariances* about the environment — i.e., what would have happened had reality been different, even when no data about this alternate world is available. 
 	- We develop theoretical and practical approaches to solve several difficult challenges in systems including *interference* and *causal debugging* and optimization of systems. 
 * **Adversarial Machine Learning**
