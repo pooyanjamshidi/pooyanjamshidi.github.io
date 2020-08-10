@@ -15,7 +15,9 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 * Want to joint our weekly reading group? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki). 
 
-###  News
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
+
+###  News ![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
 <!-- <pre>
 <code>
 <li> <em>May. 14, 2020</em>: A paper (Learning LWF Chain Graphs: A Markov Blanket Discovery Approach) was accepted at <strong>UAI 2020</strong>. Congratulations Mohammad Ali Javidian!</li>
