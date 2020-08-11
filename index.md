@@ -15,8 +15,9 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 * Want to joint our weekly reading group? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki). 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
-
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
+ -->
+ 
 ###  News ![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social)
 <!-- <pre>
 <code>
