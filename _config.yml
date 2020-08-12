@@ -40,4 +40,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-twitter-plugin
+  - jekyll-gist
 #  - jemoji
