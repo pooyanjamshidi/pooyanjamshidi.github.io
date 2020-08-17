@@ -20,7 +20,7 @@ Here is my story:
 * **Here are my actions (will be updated as we go):**
 	- \[August 16, 2020\]: I discussed a plan to prepare a demo of our work on [Athena framework](https://softsys4ai.github.io/athena/) that launch adversarial attacks on the AWS DeepLens that sits on top of the Husky robot. We will use this demo for showing primery school and high school students how they can simply generated adversarial attacks to trick the robot to hot an obstacle.
 	- \[August 15, 2020\]: I did a bit of coding here with Jekkyl to share my previous outreach activities to schools in the past as a part of CSforALL activities via my Instagram.
-	- \[August 12, 2020\]: We have some very exciting projects with NASA one on making space landers autonomous and one on physics-informed deep learning. I will hire two undergraduate students from Claflin (HSBU) with the help of my collaborator, [Karina Liles](https://claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-karina-liles).
+	- \[August 12, 2020\]: We have some very exciting projects with NASA one on making space landers autonomous and one on physics-informed deep learning. I will hire two undergraduate students from Claflin (HBCU) with the help of my collaborator, [Karina Liles](https://claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-karina-liles).
 	- \[August 10, 2020\]: I had a fantastic discussion with one of our female colleagues, [Kristen Booth](https://www.sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/kristenbooth.php), to understand better why the diversity of our CS/Eng programs are so low and what we can do to potentially fix some of these issues. I am so excited that we have set some goals to collaborate on this diversity issue at UofSC. 
 
 
