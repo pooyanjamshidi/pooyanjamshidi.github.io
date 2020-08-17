@@ -15,19 +15,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 * Want to joint our weekly reading group? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki). 
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=pooyanjamshidi&theme=cobalt&show_icons=true)](https://github.com/pooyanjamshidi)
- -->
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/PooyanJamshidi?style=social) -->
-
-
-###  News 
-<!-- <pre>
-<code>
-<li> <em>May. 14, 2020</em>: A paper (Learning LWF Chain Graphs: A Markov Blanket Discovery Approach) was accepted at <strong>UAI 2020</strong>. Congratulations Mohammad Ali Javidian!</li>
-<li> <em>Apr. 10, 2020</em>: A <strong>NASA grant</strong> (A Generic Data-Driven Framework via Physics-Informed Deep Learning) was awarded. PI: Lang Yuan. Thanks NASA for supporting our work!</li>
-<a href="/news">Older News...</a>
-</code>
-</pre> -->
+###  News
 
 <table class="table table-sm">
 
