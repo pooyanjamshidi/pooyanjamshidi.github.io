@@ -5,7 +5,7 @@ permalink: /teaching/
 weight: 4
 group: teaching
 ---
-These are the courses that I regularly teach.
+These are the courses that I regularly teach; **CSCE 580: AI** in Spring and **CSCE 585: ML Systems** in Fall semesters.
 {% for course in site.data.courses %}
 <div class="row" name="{{ course.id }}">
   <div class="row-pic">
