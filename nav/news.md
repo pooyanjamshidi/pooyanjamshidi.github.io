@@ -12,6 +12,10 @@ group: news
 
     <tbody>
     <tr>
+        <td>20Aug 2020</td>
+        <td>I am so honored to join the <strong>ACM TOSEM Board of Distinguished Reviewers</strong>, I am so thankful to the anonymous associate editor(s) who nominated me for this exciting role!</td>
+    </tr>
+    <tr>
         <td>4Aug 2020</td>
         <td>I am thrilled that our project, <strong>Autonomous Robotics Research for Ocean Worlds (ARROW)</strong>, has been awarded by <strong>NASA</strong>. This exciting project is lead by UofSC, in collaboration with CMU, York, Arkansas, and NASA.</td>
     </tr>
