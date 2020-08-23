@@ -32,18 +32,18 @@ Core technical areas: Transfer learning, representation learning, deep learning,
 
 * Fruitful *collaborations* and constant *learning* matter a lot to all of us. 
 * We combine *theoretical* and *empirical* insights to build intelligent autonomous systems.
-* We start by *hypothesis*, we design experiments and use theory to understand the empirical *observations*.
+* We start by *hypothesis*, we design experiments, and use theory to understand the empirical *observations*.
 * *Understanding* the causal mechanisms and governing dynamics of [machine learning systems](/mls) inspires us.
 * Scientific *rigor* is a principal value.
-* We all *love* what we do, proud of *what* we produce, and *how* we produce it. 
-* We offer guidance and mentorship and we do expect to receive *feedback*.
+* We all *love* what we do, proud of *what* we bring into the world, and *how* we build it. 
+* We love to give and receive regular feedback, this helps us to constantly learn and improve our outcomes.
 * Everyone is of equal value. *Fairness* and *equality* matter to us a lot.
-* Our *diversity* is important and will be an ongoing goal.
+* Our [*diversity*](/diversity) is important and will be an ongoing goal.
 * Transparency and *open access* to scientific outcomes is key to make progress, we release all [code+data][github].
-* Open to all people to work with and collaborate, literally all people of any *beliefs* and *ideas*.
+* Our lab is open to all people of any *beliefs* and *ideas*.
 * We are weird in one way or another, but we do respect *math*!
 * *Reproducible* science is what we care the most.
-* All above values start with *respect* to science, colleagues, lab members, all.
+* All above values start with *respect* to science, colleagues, lab members, and all people.
 
 
 
@@ -71,11 +71,11 @@ Core technical areas: Transfer learning, representation learning, deep learning,
 
 <!-- ### Affiliated Members
 {% assign affiliated = site.data.members | where:"status","affiliated" %}
-{% include members.html data=affiliated %}
+{% include members.html data=affiliated %} -->
 
 ### Former Members
 {% assign former = site.data.members | where:"status","former" %}
 {% include members.html data=former %}
- -->
+
 
 [github]: {{ site.groupweb | prepend: site.baseurl }}

@@ -28,11 +28,11 @@
   prog: phd
   id: mourfield
   website: https://peter-mourfield.github.io/
-  status: current
+  status: former
   bio: Peter is a PhD student in computer science. He is interested in autonomic computing and reinforcement learning.
 
 - name: Mohammad Ali Javidian
-  prog: research associate
+  prog: postdoc
   id: javidian
   website: https://cse.sc.edu/~javidian/
   status: current
@@ -49,7 +49,7 @@
   prog: undergrad
   id: baione
   website: https://www.linkedin.com/in/stephen-baione-38b582141/
-  status: current
+  status: former
   bio: Stephen is a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
 
 # Affiliated
