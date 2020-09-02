@@ -8,7 +8,7 @@ group: talks
 
 # Invited Talks
 
-I upload my presentations in [SlideShare](https://www.slideshare.net/pooyanjamshidi).
+I upload my presentations in [SpeakerDeck](https://speakerdeck.com/pjamshidi) and [SlideShare](https://www.slideshare.net/pooyanjamshidi).
 
 
 {% assign talk_by_year = site.data.talks | group_by_exp:"talk", "talk.year | plus: 0" %}

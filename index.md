@@ -23,6 +23,10 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
     <tbody>
     <tr>
+        <td>1Sept 2020</td>
+        <td>I gave an invited talk to <strong>Googlers</strong> on <a href="https://speakerdeck.com/pjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong">Ensembles of Many Diverse Weak Defenses can be Strong</a> as a part of Let's Talk Tech series. Thanks Google!</td>
+    </tr>
+    <tr>
         <td>20Aug 2020</td>
         <td>I am so honored to join the <strong>ACM TOSEM Board of Distinguished Reviewers</strong>, I am so thankful to the associate editor who nominated me for this role!</td>
     </tr>
@@ -43,12 +47,6 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     <tr>
         <td>13May 2020</td>
         <td>I was invited to serve on a <strong>NSF panel</strong> (CISE/IIS). Thanks NSF! </td>
-    </tr>
-
-    <tr>
-        <td>10May 2020</td>
-        <td>I am thrilled that our project, <strong>A Generic Data-Driven Framework via Physics-Informed Deep Learning</strong>, has been awarded. PI: Lang Yuan. Thanks <strong>NASA</strong> for supporting our work! 
-        </td>
     </tr>
 </tbody></table>
 <a href="/news">Older News...</a>

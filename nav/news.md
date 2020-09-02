@@ -12,6 +12,10 @@ group: news
 
     <tbody>
     <tr>
+        <td>1Sept 2020</td>
+        <td>I gave an invited talk to <strong>Googlers</strong> on <a href="https://speakerdeck.com/pjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong">Ensembles of Many Diverse Weak Defenses can be Strong</a> as a part of Let's Talk Tech series. Thanks Google!</td>
+    </tr>
+    <tr>
         <td>20Aug 2020</td>
         <td>I am so honored to join the <strong>ACM TOSEM Board of Distinguished Reviewers</strong>, I am so thankful to the anonymous associate editor(s) who nominated me for this exciting role!</td>
     </tr>
