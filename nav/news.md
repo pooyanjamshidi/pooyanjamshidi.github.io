@@ -13,7 +13,7 @@ group: news
     <tbody>
     <tr>
         <td>1Sept 2020</td>
-        <td>I gave an invited talk to <strong>Googlers</strong> on <a href="https://speakerdeck.com/pjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong">Ensembles of Many Diverse Weak Defenses can be Strong</a> as a part of Let's Talk Tech series. Thanks Google!</td>
+        <td>I gave an invited talk to Googlers as a part of <strong>Let's Talk Tech</strong> series on <a href="https://speakerdeck.com/pjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong">Ensembles of Many Diverse Weak Defenses can be Strong</a>. Thanks <strong>Google</strong>!</td>
     </tr>
     <tr>
         <td>20Aug 2020</td>
