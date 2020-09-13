@@ -23,6 +23,10 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
     <tbody>
     <tr>
+        <td>14 Sept 2020</td>
+        <td> I am thrilled that <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2007202">SmartSight: an AI-Based Computing Platform to Assist Blind and Visually Impaired People</a> has been funded by NSF. This is a collaborative <strong>AI for Social Good</strong> project in collaboration with <a href="https://people.cmix.louisiana.edu/amini/">Mohsen Amini Salehi</a> with total funding of $499,650. This project is aligned to our <a href="https://pooyanjamshidi.github.io/diversity/">diversity</a> efforts. Thanks <strong>NSF</strong>!</td>
+    </tr>
+    <tr>
         <td>1Sept 2020</td>
         <td>I gave an invited talk to Googlers as a part of <strong>Let's Talk Tech</strong> series on <a href="https://speakerdeck.com/pjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong">Ensembles of Many Diverse Weak Defenses can be Strong</a>. Thanks <strong>Google</strong>!</td>
     </tr>
