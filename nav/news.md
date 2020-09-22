@@ -12,11 +12,11 @@ group: news
 
     <tbody>
     <tr>
-        <td>14 Sept 2020</td>
+        <td>14Sep 2020</td>
         <td> I am thrilled that <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2007202">SmartSight: an AI-Based Computing Platform to Assist Blind and Visually Impaired People</a> has been funded by NSF. This is a collaborative <strong>AI for Social Good</strong> project in collaboration with <a href="https://people.cmix.louisiana.edu/amini/">Mohsen Amini Salehi</a> with total funding of $499,650. This project is aligned to our <a href="https://pooyanjamshidi.github.io/diversity/">diversity</a> efforts. Thanks <strong>NSF</strong>!</td>
     </tr>
     <tr>
-        <td>1Sept 2020</td>
+        <td>1Sep 2020</td>
         <td>I gave an invited talk to Googlers as a part of <strong>Let's Talk Tech</strong> series on <a href="https://speakerdeck.com/pjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong">Ensembles of Many Diverse Weak Defenses can be Strong</a>. Thanks <strong>Google</strong>!</td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@ group: news
     </tr>
 
     <tr>
-        <td>6July 2020</td>
+        <td>6Jul 2020</td>
         <td>"AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms" was accepted at <strong>Journal of Artificial Intelligence Research</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
     </tr>
 
@@ -50,7 +50,7 @@ group: news
     </tr>
 
     <tr>
-        <td>30April 2020</td>
+        <td>30Apr 2020</td>
         <td>"High-throughput experimentation meets artificial intelligence: A new pathway to catalyst discovery" was accepted at <strong>Physical Chemistry Chemical Physics</strong> journal. 
         </td>
     </tr>
