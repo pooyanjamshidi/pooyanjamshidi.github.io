@@ -1,3 +1,11 @@
+- id: cauper
+  title: "Robust Causal Transfer Learning"
+  where: AI Summit at Silicon Valley [Virtual]
+  year: 2020
+  month: September
+  url: https://speakerdeck.com/pjamshidi/robust-causal-transfer-learning
+  video: https://youtu.be/Hu0w_JwuG5A
+
 - id: athena2
   title: "Ensembles of Many Diverse Weak Defenses can be Strong"
   where: Google Headquarters [Virtual]
