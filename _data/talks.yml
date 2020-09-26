@@ -1,3 +1,11 @@
+- id: ase2020-tutorial
+  title: "Machine Learning meets Software Performance"
+  where: International Conference on Automated Software Engineering, Melbourne, Australia [Virtual!!]
+  year: 2020
+  month: September
+  url: https://speakerdeck.com/pjamshidi/machine-learning-meets-software-performance
+  video: https://youtu.be/Bf3WrlElcSM
+
 - id: cauper
   title: "Robust Causal Transfer Learning"
   where: AI Summit at Silicon Valley [Virtual]
