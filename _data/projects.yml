@@ -5,6 +5,14 @@
 #   papers:
 #   description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
 
+- name: "NASA RASPBERRY-SI"
+  id: raspberry-si
+  start: 2020
+  members: su
+  # papers: lwf-markov-blankets,tl-causal
+  description: "In this collaborative project (USC, CMU, York, UArk, NASA JPL/Ames/GRC), we develop technologies that enable learning-based autonomous planning and adaptation of space landers."
+  webpage: https://nasa-raspberry-si.github.io/raspberry-si/
+
 - name: "Causal AI: Structure Learning and Transfer Learning"
   id: causal-learning
   start: 2018
