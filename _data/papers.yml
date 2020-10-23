@@ -8,6 +8,22 @@
   important: 1
   abstract: "Modern computing platforms are highly-configurable with thousands of interacting configurations. However, configuring these systems is challenging. Erroneous configurations can cause unexpected non-functional faults. This paper proposes CADET (short for Causal Debugging Toolkit) that enables users to identify, explain, and fix the root cause of non-functional faults early and in a principled fashion. CADET builds a causal model by observing the performance of the system under different configurations. Then, it uses casual path extraction followed by counterfactual reasoning over the causal model to: (a) identify the root causes of non-functional faults, (b) estimate the effects of various configurable parameters on the performance objective(s), and (c) prescribe candidate repairs to the relevant configuration options to fix the non-functional fault. We evaluated CADET on 5 highly-configurable systems deployed on 3 NVIDIA Jetson systems-on-chip. We compare CADET with state-of-the-art configuration optimization and ML-based debugging approaches. The experimental results indicate that CADET can find effective repairs for faults in multiple non-functional properties with (at most) 17% more accuracy, 28% higher gain, and 40× speed-up than other ML-based performance debugging methods. Compared to multi-objective optimization approaches, CADET can find fixes (at most) 9× faster with comparable or better performance gain. Our case study of non-functional faults reported in NVIDIA's forum show that CADET can find 14 better repairs than the experts' advice in less than 30 minutes."
 
+- id: athena
+  title: "ATHENA: A Framework based on Diverse Weak Defenses for Building Adversarial Defense"
+  authors: Ying Meng, Jianhai Su, Jason O’Kane, Pooyan Jamshidi
+  venue: Arxiv
+  year: 2020
+  code: https://github.com/softsys4ai/athena
+  url: https://arxiv.org/abs/2001.00308
+  slide: https://speakerdeck.com/pjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong
+  link: https://softsys4ai.github.io/athena/
+  important: 1
+  note: "Presents a cost-aware multi-objective optimization method designed for optimizing deep neural networks for resource constrained environments"
+  award:
+  doi:
+  pages:
+  abstract: "There has been extensive research on developing defense techniques against adversarial attacks; however, they have been mainly designed for specific model families or application domains, therefore, they cannot be easily extended. Based on the design philosophy of ensemble of diverse weak defenses, we propose ATHENA---a flexible and extensible framework for building generic yet effective defenses against adversarial attacks. We have conducted a comprehensive empirical study to evaluate several realizations of ATHENA with four threat models including zero-knowledge, black-box, gray-box, and white-box. We also explain (i) why diversity matters, (ii) the generality of the defense framework, and (iii) the overhead costs incurred by ATHENA."
+
 - id: minimal-separators-jair
   title: "AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms"
   authors: Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi
@@ -59,25 +75,10 @@
   url: https://doi.org/10.1039/D0CP00972E
   abstract: "High throughput experimentation in heterogeneous catalysis provides an efficient solution to the generation of large datasets under reproducible conditions. Knowledge extraction from these datasets has mostly been performed using statistical methods, targeting the optimization of catalyst formulations. The combination of advanced machine learning methodologies with high-throughput experimentation has enormous potential to accelerate the predictive discovery of novel catalyst formulations that do not exist with current statistical design of experiments. This perspective describes selective examples ranging from statistical design of experiments for catalyst synthesis to genetic algorithms applied to catalyst optimization, and finally random forest machine learning using experimental data for the discovery of novel catalysts. Lastly, this perspective also provides an outlook on advanced machine learning methodologies as applied to experimental data for materials discovery."
 
-- id: athena
-  title: "Ensembles of Many Weak Defenses can be Strong: Defending Deep Neural Networks against Adversarial Attacks"
-  authors: Ying Meng, Jianhai Su, Jason O’Kane, Pooyan Jamshidi
-  venue: Under Review
-  year: 2020
-  code: https://github.com/softsys4ai/athena
-  url: https://arxiv.org/abs/2001.00308
-  slide: https://www.slideshare.net/pooyanjamshidi/ensembles-of-many-diverse-weak-defenses-can-be-strong-defending-deep-neural-networks-against-adversarial-attacks
-  important: 1
-  note: "Presents a cost-aware multi-objective optimization method designed for optimizing deep neural networks for resource constrained environments"
-  award:
-  doi:
-  pages:
-  abstract: "Despite achieving state-of-the-art performance across many domains, machine learning systems are highly vulnerable to subtle adversarial perturbations. Although defense approaches have been proposed in recent years, many have been bypassed by even weak adversarial attacks. An early study shows that ensembles created by combining multiple weak defenses (i.e., input data transformations) are still weak. We show that it is indeed possible to construct effective ensembles using weak defenses to block adversarial attacks. However, to do so requires a diverse set of such weak defenses. In this work, we propose Athena, an extensible framework for building effective defenses to adversarial attacks against machine learning systems. Here we conducted a comprehensive empirical study to evaluate several realizations of Athena. More specifically, we evaluated the effectiveness of 5 ensemble strategies with a diverse set of many weak defenses that comprise transforming the inputs (e.g., rotation, shifting, noising, denoising, and many more) before feeding them to target deep neural network (DNN) classifiers. We evaluate the effectiveness of the ensembles with adversarial examples generated by 9 various adversaries (i.e., FGSM, CW, etc.) in 4 threat models (i.e., zero-knowledge, black-box, gray-box, white-box) on MNIST. We also explain, via a comprehensive empirical study, why building defenses based on the idea of many diverse weak defenses works, when it is most effective, and what its inherent limitations and overhead are."
-
 - id: flexibo
   title: "FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks"
   authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
-  venue: Under Review 
+  venue: Arxiv
   year: 2020
   code: https://github.com/softsys4ai/FlexiBO
   url: https://arxiv.org/abs/2001.06588
