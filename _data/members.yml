@@ -20,12 +20,12 @@
 - name: Shahriar Iqbal
   prog: phd
   id: iqbal
-  website:
+  website: https://iqbal128855.github.io/iqbal128855/
   status: current
   bio: Shahriar is a PhD student in computer science. He is interested in multi-objective optimization of deep neural networks in embedded systems.
 
 - name: Peter Mourfield
-  prog: phd
+  prog: msc
   id: mourfield
   website: https://peter-mourfield.github.io/
   status: former
@@ -38,11 +38,18 @@
   status: current
   bio: Mohammad Ali is a postdoctorate student in computer science. He is interested in probabilistic graphical models, Bayesian networks, and transfer learning. 
 
+- name: Cody Shearer
+  prog: undergrad
+  id: shearer
+  website: https://github.com/CJShearer/
+  status: current
+  bio: Cody is an undergraduate research assistant studying computer science and mathematics. He is interested in applications of casual inference for transfer learning in machine learning systems.
+
 - name: Blake Edwards
   prog: undergrad
   id: edwards
   website: https://blakeedwards.me/
-  status: current
+  status: former
   bio: Blake is a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
 
 - name: Stephen Baione
