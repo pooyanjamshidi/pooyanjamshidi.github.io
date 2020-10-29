@@ -21,7 +21,7 @@
   description: "In this project, we are addressing the following important questions from theoretical and empirical perspectives: (i) How to learn reliable causal structures from data and how to use the learned causal structures for identifying causal invariances across environments? (ii) How to use the causal structure learning and counterfactual reasoning based on causal invariances for systems problems? In particular, we are extremely interested to apply these theoretical advancements for an explainable and guided performance debugging of highly-configurable systems."
   webpage: https://majavid.github.io/structurelearning
 
-- name: Athena
+- name: ATHENA
   id: athena
   start: 2019
   members: meng,su

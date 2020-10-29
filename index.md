@@ -22,6 +22,11 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <table class="table table-sm">
 
     <tbody>
+     <tr>
+        <td>29Oct 2020</td>
+        <td> <a href="https://softsys4ai.github.io/athena/">ATHENA</a>, a framework for building adversarial defense, now has a website. We included arXiv preprint, code, tutorials, and project description that is used in <a href="https://github.com/csce585-mlsystems/project-athena">CSCE 585 (ML Systems)</a>.
+        </td>
+    </tr>
     <tr>
         <td>14Sep 2020</td>
         <td> I am thrilled that <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2007202">SmartSight: an AI-Based Computing Platform to Assist Blind and Visually Impaired People</a> has been funded by NSF. This is a collaborative <strong>AI for Social Good</strong> project in collaboration with <a href="https://people.cmix.louisiana.edu/amini/">Mohsen Amini Salehi</a> with total funding of $499,650. This project is aligned to our <a href="https://pooyanjamshidi.github.io/diversity/">diversity</a> efforts. Thanks <strong>NSF</strong>!</td>
@@ -46,11 +51,6 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     <tr>
         <td>14May 2020</td>
         <td> "Learning LWF Chain Graphs: A Markov Blanket Discovery Approach" was accepted at <strong>UAI 2020</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
-    </tr>
-
-    <tr>
-        <td>13May 2020</td>
-        <td>I was invited to serve on a <strong>NSF panel</strong> (CISE/IIS). Thanks NSF! </td>
     </tr>
 </tbody></table>
 <a href="/news">Older News...</a>
