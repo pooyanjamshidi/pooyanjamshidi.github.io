@@ -24,7 +24,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     <tbody>
      <tr>
         <td>29Oct 2020</td>
-        <td> <a href="https://softsys4ai.github.io/athena/">ATHENA</a>, a framework for building adversarial defense, now has a website. We included arXiv preprint, code, tutorials, and project description that is used in <a href="https://github.com/csce585-mlsystems/project-athena">CSCE 585 (ML Systems)</a>.
+        <td> <a href="https://softsys4ai.github.io/athena/">ATHENA</a>, a framework for building adversarial defense, now has a website. We included arXiv preprint, code, tutorials, and <a href="https://github.com/csce585-mlsystems/project-athena">project description</a> that is used in <a href="https://pooyanjamshidi.github.io/mls/">CSCE 585 (ML Systems)</a>.
         </td>
     </tr>
     <tr>
