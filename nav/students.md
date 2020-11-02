@@ -23,6 +23,13 @@ We investigate a variety of open problems that sit at the intersection of artifi
 ```
 
 
+<p align="center">
+  <img width="1000px" height="auto" src="/resources/images/groupphotos/pooyan-jamshidi-and-team_50558594998_o.jpg">
+  <img width="1000px" height="auto" src="/resources/images/groupphotos/pooyan-jamshidi-and-team_50558598963_o.jpg">
+  <img width="1000px" height="auto" src="/resources/images/groupphotos/pooyan-jamshidis-research-group_49498136537_o.jpg">
+</p>
+
+
 <!-- 
 ```inline
 Core technical areas: Transfer learning, representation learning, deep learning, non-convex optimization, causal inference, reinforcement learning, concept learning, and robust optimization.
@@ -44,6 +51,7 @@ Core technical areas: Transfer learning, representation learning, deep learning,
 * We are weird in one way or another, but we do respect *math*!
 * *Reproducible* science is what we care the most.
 * All above values start with *respect* to science, colleagues, lab members, and all people.
+* We also have lots of fun times, checkout [our group photos](https://www.flickr.com/photos/uofsccec/sets/72157713000257436/) over time, before and after pandemic!
 
 
 
