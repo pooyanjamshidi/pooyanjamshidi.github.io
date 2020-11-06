@@ -11,6 +11,11 @@ group: news
 <table class="table table-sm">
 
     <tbody>
+    <tr>
+        <td> <span class="label success">11/06/20</span></td>
+        <td> An interview on <a href="http://uofsccec.com/AI_in_Space">AI in Space</a> about our recent NASA <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY SI</a> project.
+        </td>
+    </tr>
 
     <tr>
         <td> <span class="label success">10/29/20</span></td>

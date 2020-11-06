@@ -22,7 +22,12 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <table class="table table-sm">
 
     <tbody>
-
+    
+    <tr>
+        <td> <span class="label success">11/06/20</span></td>
+        <td> An interview on <a href="http://uofsccec.com/AI_in_Space">AI in Space</a> about our recent NASA <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY SI</a> project.
+        </td>
+    </tr>
     <tr>
         <td> <span class="label success">10/29/20</span></td>
         <td> <a href="https://softsys4ai.github.io/athena/">ATHENA</a>, a framework for building adversarial defense, now has a website. We included arXiv preprint, code, tutorials, and <a href="https://github.com/csce585-mlsystems/project-athena">project description</a> that is used in <a href="https://pooyanjamshidi.github.io/mls/">CSCE 585 (ML Systems)</a>.
@@ -52,7 +57,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
         <td> <span class="label success">07/06/20</span></td>
         <td>"AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms" was accepted at <strong>Journal of Artificial Intelligence Research</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
     </tr>
-    
+
 </tbody></table>
 <a href="/news">Older News...</a>
 
