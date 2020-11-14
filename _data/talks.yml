@@ -49,7 +49,7 @@
   year: 2018
   month: May
   url: https://www.slideshare.net/pooyanjamshidi/architectural-tradeoff-in-learningbased-software
-  video: https://youtu.be/xvhO0a5o3QY
+  video: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=518886
 
 - id: tl-performance-configurable-systems
   title: "Transfer Learning for Performance Analysis of Highly-Configurable Software"
