@@ -1,7 +1,7 @@
 - id: cadet-arxiv
   title: "CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning"
   authors: Shahriar Iqbal, Rahul Krishna, M.A. Javidian, Baishakhi Ray, Pooyan Jamshidi
-  venue: Arxiv
+  venue: NeurIPS 2020 (ML for Systems)
   year: 2020
   url: https://arxiv.org/abs/2010.06061
   code: https://github.com/softsys4ai/CADET
