@@ -24,8 +24,8 @@ We investigate a variety of open problems that sit at the intersection of artifi
 
 
 <p align="center">
-  <img width="1000px" height="auto" src="/resources/images/groupphotos/pooyan-jamshidi-and-team_50558594998_o.jpg">
-  <img width="1000px" height="auto" src="/resources/images/groupphotos/pooyan-jamshidis-research-group_49498136537_o.jpg">
+  <img width="1000px" height="auto" src="/resources/images/groupphotos/group-photo-nov-2020.jpg">
+  <img width="1000px" height="auto" src="/resources/images/groupphotos/group-photo-feb-2020.jpg">
 </p>
 
 
