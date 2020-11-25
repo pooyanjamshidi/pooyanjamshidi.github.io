@@ -20,9 +20,14 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 ###  News
 
 <table class="table table-sm">
+<tbody>
 
-    <tbody>
-    
+    <tr>
+        <td> <span class="label success">11/07/20</span></td>
+        <td> Vijay Chidambaram (UT Austin), Neeraja Yadwadkar (Stanford), Ivo Jimenez (UC Santa Cruz), and Romain Jacob (ETH Zurich), and I launched  <a href="http://jsys.org/">JSys (Journal of Systems Research)</a>&mdash;a new diamond open-access journal for the systems community.
+        </td>
+    </tr>
+
     <tr>
         <td> <span class="label success">11/06/20</span></td>
         <td> An interview on <a href="http://uofsccec.com/AI_in_Space">AI in Space</a> about our recent NASA <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY SI</a> project.
@@ -58,7 +63,8 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
         <td>"AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms" was accepted at <strong>Journal of Artificial Intelligence Research</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
     </tr>
 
-</tbody></table>
+</tbody>
+</table>
 <a href="/news">Older News...</a>
 
 ### Current Projects
