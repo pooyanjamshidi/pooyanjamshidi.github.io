@@ -13,4 +13,4 @@
 {% endif %}
 
 {% assign thesis = thesis | strip_newlines | replace: " ", "" %}
-<a href="{{ thesis }}" target="_blank"><mark>{{ mapler.prog }}</mark></a>
+<a href="{{ thesis }}" target="_blank"></a> <mark>{{ mapler.prog }}</mark> {{ mapler.started }} - {{ mapler.finished }}

@@ -6,7 +6,8 @@
 	<div class="row-info">
 		<p>
       <a href="{{ mapler.website | default: "#" }}" target="_blank">{{ mapler.name }}</a>
-      {% include /functions/getmaplerthesis.html mapler=mapler %}
+       <mark>{{ mapler.prog }}</mark> <small>{{ mapler.started }} - {{ mapler.finished }}</small>
+      <!-- {% include /functions/getmaplerthesis.html mapler=mapler %} -->
     </p>
     <p>{{ mapler.bio }}</p>
 	</div>
