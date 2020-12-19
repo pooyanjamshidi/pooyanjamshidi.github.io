@@ -23,6 +23,12 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <tbody>
 
     <tr>
+        <td> <span class="label success">12/12/20</span></td>
+        <td> Shahriar Iqbal <a href="https://slideslive.com/38941854/cauper-debugging-misconfigurations-using-counterfactual-reasoning">presented</a> our recent work on <a href="https://arxiv.org/abs/2010.06061">CADET</a> in the Workshop on ML for Systems at NeurIPS 2020.
+        </td>
+    </tr>
+
+    <tr>
         <td> <span class="label success">11/07/20</span></td>
         <td> Vijay Chidambaram (UT Austin), Neeraja Yadwadkar (Stanford), Ivo Jimenez (UC Santa Cruz), and Romain Jacob (ETH Zurich), and I launched  <a href="http://jsys.org/">JSys (Journal of Systems Research)</a>&mdash;a new diamond open-access journal for the systems community.
         </td>
