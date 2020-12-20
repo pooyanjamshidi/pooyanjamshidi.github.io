@@ -2,7 +2,7 @@
 layout: default
 title: Talks
 permalink: /talks/
-weight: 5
+weight: 6
 group: talks
 ---
 

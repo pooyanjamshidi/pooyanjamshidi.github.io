@@ -2,7 +2,7 @@
 layout: default
 title: AISys Lab
 permalink: /AISys/
-weight: 2
+weight: 3
 group: members
 ---
 

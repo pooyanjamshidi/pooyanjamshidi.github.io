@@ -1,0 +1,16 @@
+- name: National Science Foundation
+  id: nsf
+  website: https://nsf.gov/
+  description: "Most of my sponsored research projects are funded by the U.S. National Science Foundation (NSF). I, and my collaborators, regularly write proposals which are peer reviewed by domain experts (typically by my peers working on similar or tangent areas). I typically submit to the Computer and Information Science and Engineering (CISE) Core Programs including SHF, CNS, and RI. The fund is used to mainly support graduate students stipends, benefits, and tuition, travel expenses, undergraduate research assistants hourly payments, lab's equipments, and my own summer salary." 
+
+- name: National Aeronautics and Space Administration
+  id: nasa
+  website: https://www.nasa.gov/
+  description: My lab extensively conduct research in the areas of learning-enabled autonomous systems, most of which are funded by National Aeronautics and Space Administration (NASA) and in collaborations with several teams at NASA Jet Propulsion Laboratory, Ames Research Center, Goddard Space Flight Center, and Glenn Research Center. The fund is used to mainly support graduate students stipends, benefits, tuitions, and travel expenses to NASA laboratories. 
+  
+- name: Google
+  id: google
+  website: https://google.com/
+  description: I write proposals to Google's faculty research scholar programs. The funding comes as unrestricted gifts to my lab by which I support graduate student stipends and tuitions. I also receive funding for cloud resources from Google Cloud.
+  
+ 

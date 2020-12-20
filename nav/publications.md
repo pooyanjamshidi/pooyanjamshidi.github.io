@@ -3,7 +3,7 @@ layout: default
 title: Publications
 navtitle: Publications
 permalink: /publications/
-weight: 3
+weight: 4
 group: publications
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Misc.
 permalink: /misc/
-weight: 7
+weight: 10
 ---
 
 ```inline

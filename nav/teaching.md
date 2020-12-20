@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 permalink: /teaching/
-weight: 4
+weight: 5
 group: teaching
 ---
 These are the courses that I regularly teach; **CSCE 580: AI** in Spring and **CSCE 585: ML Systems** in Fall semesters.
