@@ -7,4 +7,9 @@
   id: 585
   website: https://pooyanjamshidi.github.io/mls/
   description: There is a lot more to AI/ML than just implementing an algorithm or a technique. In this graduate course, students will work on deploying machine learning systems into production. By the end of the course, students will be able to apply deep learning, in whatever problem you are interested in, at scale and learn how to deal with unique challenges that only may happen when building production-ready AI/ML Systems.
+
+- name: Introduction to Computer Architecture
+  id: 212
+  website: 
+  description: Computer architecture, components, and organization; memory addressing; Input/Output; instruction sets; interrupts; assembly-language programming.
   
