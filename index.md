@@ -23,6 +23,12 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <tbody>
 
     <tr>
+        <td> <span class="label success">12/28/20</span></td>
+        <td> An interview on <a href="https://www.postandcourier.com/columbia/news/usc-researcher-wants-to-train-robots-for-nasa-deep-space-missions/article_93d9bb3c-3afa-11eb-bd4c-7700ac496485.html">AI in Deep Space Missions</a> with The Post and Courier newsletter.
+        </td>
+    </tr>
+
+    <tr>
         <td> <span class="label success">12/12/20</span></td>
         <td> Shahriar Iqbal <a href="https://slideslive.com/38941854/cauper-debugging-misconfigurations-using-counterfactual-reasoning">presented</a> our recent work on <a href="https://arxiv.org/abs/2010.06061">CADET</a> in the Workshop on ML for Systems at NeurIPS 2020.
         </td>
