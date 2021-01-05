@@ -1,3 +1,28 @@
+- name: JSys
+  role: Founder and Editor
+  year: 2021
+  website: http://jsys.org/
+
+- name: SEAMS
+  role: PC Member
+  year: 2021
+  website: https://conf.researchr.org/home/seams-2021
+
+- name: ICSA
+  role: PC Member
+  year: 2021
+  website: https://icsa-conferences.org/2021/
+
+- name: ICPE
+  role: PC Member
+  year: 2021
+  website: https://icpe2021.spec.org/
+
+- name: AISTATS
+  role: Reviewer
+  year: 2021
+  website: http://aistats.org/ 
+
 # 2020
 - name: ICSE
   role: PC Member

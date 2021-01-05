@@ -1,9 +1,9 @@
 ---
 layout: default
-title:
+title: Service
 navtitle: Service
 permalink: /service/
-weight: 5
+weight: 9
 group: service
 ---
 
