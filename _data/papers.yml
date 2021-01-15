@@ -5,7 +5,7 @@
   venue_abb: ICSE 2021
   acc_rate: 23
   year: 2021
-  url:
+  url: https://arxiv.org/abs/2101.05362
   code:
   video:
   important: 1
@@ -443,7 +443,7 @@
 - id: open-process-sosym
   title: "Enhancing the OPEN Process Framework with Service-Oriented Method Fragments"
   authors: Mahdi Fahmideh Gholami, Mohsen Sharifi, Pooyan Jamshidi
-  venue: Software and System Modeling
+  venue: Software and Systems Modeling
   year: 2014
   url: https://pooyanjamshidi.wordpress.com/2011/11/26/enhancing-the-open-process-framework-with-service-oriented-method-fragments/
   abstract: "Service orientation is a promising paradigm that enables the engineering of large-scale distributed software systems using rigorous software development processes. The existing problem is that every service-oriented software development project often requires a customized development process that provides specific service-oriented software engineering tasks in support of requirements unique to that project. To resolve this problem and allow situational method engineering, we have defined a set of method fragments in support of the engineering of the project-specific service-oriented software development processes. We have derived the proposed method fragments from the recurring features of 11 prominent service-oriented software development methodologies using a systematic mining approach. We have added these new fragments to the repository of OPEN Process Framework to make them available to software engineers as reusable fragments using this well-known method repository."
