@@ -11,7 +11,12 @@ group: news
 <table class="table table-sm">
 
     <tbody>
-
+    <tr>
+        <td> <span class="label success">1/15/21</span></td>
+        <td> <a href="https://arxiv.org/abs/2101.05362">White-Box Analysis over Machine Learning: Modeling Performance of Configurable Systems</a> will appear at <a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/33/White-Box-Analysis-over-Machine-Learning-Modeling-Performance-of-Configurable-System">ICSE'21</a>. Congratulations <a href="http://www.cs.cmu.edu/~mvelezce/">Miguel Velez</a>!
+        </td>
+    </tr>
+    
     <tr>
         <td> <span class="label success">12/28/20</span></td>
         <td> An interview on <a href="https://www.postandcourier.com/columbia/news/usc-researcher-wants-to-train-robots-for-nasa-deep-space-missions/article_93d9bb3c-3afa-11eb-bd4c-7700ac496485.html">AI in Deep Space Missions</a> with The Post and Courier newsletter.

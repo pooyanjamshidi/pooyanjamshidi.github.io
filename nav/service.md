@@ -11,6 +11,8 @@ group: service
 {% assign current = site.data.services | where_exp: "service", "service.year >= thisYear"%}
 {% assign past = site.data.services | where_exp: "service", "service.year < thisYear"%}
 
+
+
 ### Current
 {% include services.html data=current %}
 
