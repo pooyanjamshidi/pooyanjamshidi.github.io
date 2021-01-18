@@ -10,6 +10,6 @@
 
 - name: Introduction to Computer Architecture
   id: 212
-  website: 
-  description: Computer architecture, components, and organization; memory addressing; Input/Output; instruction sets; interrupts; assembly-language programming.
+  website: https://pooyanjamshidi.github.io/csce212/
+  description: The course provides a first introduction to computer architecture. It covers technical foundations of how a computing platform is designed from the bottom up. The focus is on fundamental techniques employed in the design of modern microprocessors and their hardware/software interface.
   
