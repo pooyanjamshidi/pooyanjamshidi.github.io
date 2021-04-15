@@ -13,6 +13,12 @@ group: news
     <tbody>
 
     <tr>
+        <td> <span class="label success">04/15/21</span></td>
+        <td> <a href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1028.pdf">Accelerating Recursive Partition-Based Causal Structure Learning</a>, a generic causal structure learning method that can locate that scales to high-dimensional problems, has been accepted in <a href="https://aamas2021.soton.ac.uk/">AAMAS 2021</a>.
+        </td>
+    </tr>
+
+    <tr>
         <td> <span class="label success">03/22/21</span></td>
         <td> <a href="https://arxiv.org/abs/2103.00139">Scalable Causal Transfer Learning</a>, a method for identifying causal invariance---suitable for high-dimensional low sample size problems such as biomedical problems, is out.
         </td>
