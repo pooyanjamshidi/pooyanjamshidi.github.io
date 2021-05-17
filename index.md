@@ -23,6 +23,12 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <tbody>
 
     <tr>
+        <td> <span class="label success">05/10/21</span></td>
+        <td> I am so delighted to announce that I am now a Visiting Researcher at Google! I will be working on Causal Representation Learning, Adversarial ML, and Self-Supervised Learning.
+        </td>
+    </tr>
+
+    <tr>
         <td> <span class="label success">04/15/21</span></td>
         <td> <a href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1028.pdf">Accelerating Recursive Partition-Based Causal Structure Learning</a>, a generic causal structure learning method that can locate that scales to high-dimensional problems, has been accepted in <a href="https://aamas2021.soton.ac.uk/">AAMAS 2021</a>.
         </td>
@@ -91,11 +97,6 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     <tr>
         <td> <span class="label success">08/04/20</span></td>
         <td>I am thrilled that our project, <strong>Autonomous Robotics Research for Ocean Worlds (ARROW)</strong>, has been awarded by <strong>NASA</strong>. This exciting project is lead by UofSC, in collaboration with CMU, York, Arkansas, and NASA.</td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">07/06/20</span></td>
-        <td>"AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms" was accepted at <strong>Journal of Artificial Intelligence Research</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
     </tr>
 
 </tbody>

@@ -11,6 +11,11 @@ group: news
 <table class="table table-sm">
 
     <tbody>
+    <tr>
+        <td> <span class="label success">05/10/21</span></td>
+        <td> I am so delighted to announce that I am now a Visiting Researcher at Google! I will be working on Causal Representation Learning, Adversarial ML, and Self-Supervised Learning.
+        </td>
+    </tr>
 
     <tr>
         <td> <span class="label success">04/15/21</span></td>

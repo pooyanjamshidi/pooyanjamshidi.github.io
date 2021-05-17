@@ -6,7 +6,7 @@ weight: 3
 group: members
 ---
 
-I direct the **Artificial Intelligence and Systems Laboratory (AISys)**. AISys is located at 2212 Storey Innovation Center.
+I direct the **Artificial Intelligence and Systems Laboratory (AISys)**. AISys is located at 2212 and 1211 in Storey Innovation Center.
 
 ```inline
 The AISys lab welcomes people of any race, religion, national origin, gender identity, family commitments, political affiliation, sexual orientation, and eligible age or ability.
