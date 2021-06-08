@@ -21,6 +21,11 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 <table class="table table-sm">
 <tbody>
+    <tr>
+        <td> <span class="label success">06/04/21</span></td>
+        <td> I am so delighted that I (together with Valerie Issarny) will serve as the PC co-chair of SEAMS colocated with ICSE 2023 in Melbourne. Meanwhile, please do consider submitting to <a href="https://conf.researchr.org/track/seams-2022/seams-2022-papers#About">SEAMS 2012</a>!
+        </td>
+    </tr>
 
     <tr>
         <td> <span class="label success">05/10/21</span></td>
