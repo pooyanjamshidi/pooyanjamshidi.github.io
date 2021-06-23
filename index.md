@@ -15,21 +15,28 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 * Want to ``work with us``? Read about [AISys Lab](/AISys/).
 
-* Want to joint our weekly ``reading group``? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki). 
+* Want to joint our weekly ``reading group``? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group). 
 
 ###  News
 
 <table class="table table-sm">
 <tbody>
+
     <tr>
         <td> <span class="label success">06/04/21</span></td>
-        <td> I am so delighted that I (together with Valerie Issarny) will serve as the PC co-chair of SEAMS colocated with ICSE 2023 in Melbourne. Meanwhile, please do consider submitting to <a href="https://conf.researchr.org/track/seams-2022/seams-2022-papers#About">SEAMS 2012</a>!
+        <td> A story about our NSF SmartSight project, <strong>AI for Social Good</strong>, has been published at UofSC's research magazine: <a href="https://www.sc.edu/uofsc/posts/2021/06/smart_sight.php">A new way to ‘see’</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td> <span class="label success">06/04/21</span></td>
+        <td> I am so delighted that I (together with Valerie Issarny) will serve as the <strong>PC co-chair of SEAMS 2023</strong> colocated with ICSE 2023 in Melbourne. Meanwhile, please do consider submitting to <a href="https://conf.researchr.org/track/seams-2022/seams-2022-papers#About">SEAMS 2012</a>!
         </td>
     </tr>
 
     <tr>
         <td> <span class="label success">05/10/21</span></td>
-        <td> I am so delighted to announce that I am now a Visiting Researcher at Google! I will be working on Causal Representation Learning, Adversarial ML, and Self-Supervised Learning.
+        <td> I am so delighted to announce that I am now a <strong>Visiting Researcher at Google</strong>! I will be working on Causal Representation Learning, Adversarial ML, and Self-Supervised Learning.
         </td>
     </tr>
 
