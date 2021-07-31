@@ -13,6 +13,10 @@ Pooyan Jamshidi is an Assistant Professor at the University of South Carolina. H
 
 * **[Long CV][cvpdf]{:target="_blank"}**
 * **[Short CV][shortcvpdf]{:target="_blank"}**
+* **[Headshot][headshot]{:target="_blank"}**
+
 
 [cvpdf]: {{ "/resources/cv/cv_pooyan_jamshidi.pdf" | prepend: site.baseurl }}
 [shortcvpdf]: {{ "/resources/cv/cv_pooyan_jamshidi_short.pdf" | prepend: site.baseurl }}
+[headshot]: {{ "/resources/images/headshot-pooyan.jpg" | prepend: site.baseurl }}
+
