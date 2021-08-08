@@ -21,10 +21,28 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 <table class="table table-sm">
 <tbody>
+    
+        <tr>
+        <td> <span class="label success">08/09/21</span></td>
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">Causal Performance Debugging for Highly-Configurable Systems</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative project on <a href="https://arxiv.org/abs/2010.06061">Causal AI for Systems</a> with <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kaestner</a> (CMU) and <a href="https://www.rayb.info/">Baishakhi Ray</a> (Columbia) with total funding of $1,200,000.
+        </td>
+    </tr>
 
     <tr>
-        <td> <span class="label success">06/04/21</span></td>
-        <td> A story about our NSF SmartSight project, <strong>AI for Social Good</strong>, has been published at UofSC's research magazine: <a href="https://www.sc.edu/uofsc/posts/2021/06/smart_sight.php">A new way to ‘see’</a>
+        <td> <span class="label success">07/29/21</span></td>
+        <td> We have released a <a href="https://youtu.be/gQo65RXnOqs">demo</a> about our <a href="https://nasa-raspberry-si.github.io/raspberry-si/">NASA RASPBERRY-SI</a> project on AI-based autonomy for Europa Lander to find life in Jupiter's moon Europa; thanks, <strong>NASA</strong> (♡). 
+        </td>
+    </tr>
+    
+    <tr>
+        <td> <span class="label success">06/22/21</span></td>
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative training project with my genious colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and Machine Learning</strong>.
+        </td>
+    </tr>
+
+    <tr>
+        <td> <span class="label success">06/18/21</span></td>
+        <td> <a href="https://www.sc.edu/uofsc/posts/2021/06/smart_sight.php">A new way to ‘see’:</a> A story about our NSF SmartSight project on <strong>AI for Social Good</strong>, has been published at UofSC's research magazine
         </td>
     </tr>
 
