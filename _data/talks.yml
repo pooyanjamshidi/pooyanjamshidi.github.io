@@ -1,3 +1,11 @@
+- id: mlsys-stanford
+  title: "Causal AI for Systems"
+  where: Stanford MLSys Seminars
+  year: 2021
+  month: August
+  url: https://speakerdeck.com/pjamshidi/causal-ai-for-systems
+  video: https://youtu.be/csB_cF6MA9A
+
 - id: ase2020-tutorial
   title: "Machine Learning meets Software Performance"
   where: International Conference on Automated Software Engineering, Melbourne, Australia [Virtual!!]
