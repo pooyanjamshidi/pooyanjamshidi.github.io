@@ -5,8 +5,9 @@ weight: 1
 group: research
 ---
 
+
 ```inline
-I am an Assistant Professor in the Computer Science and Engineering department at the University of South Carolina. I do research at the intersection of AI/ML + Systems = AISys. My goal is to advance a scientific and principled understanding of learning-enabled autonomous systems (e.g., Space Rovers/Landers). My research is driven by a theoretical understanding of machine learning systems and the mathematics behind the statistical learning theory. I am, in particular, interested in transfer learning, with the goal of developing robust algorithms that enable autonomous systems to learn causal invariance to accelerate learning and solve varieties of tasks in diverse environments.
+I am the director of AISys lab and an assistant professor in the computer science and engineering department at UofSC and a visiting researcher at Google. My research involves designing novel algorithmic, theoretically principled, and trustworthy artificial intelligence and machine learning methods and applying the theories to problems in computer systems, software engineering, robotics, self-adaptive and autonomous systems, on-device machine learning, cloud-based and serverless systems, big data analytics pipelines, and healthcare. I am, in particular, interested in transfer learning, optimization, causal/deep representation learning, security and explainability, reinforcement learning, causal AI, as well as several areas in computer systems research, including performance, configuration, computer architecture. I teach a variety of courses, including machine learning systems, artificial intelligence, and computer architecture.
 ```
 
 Prior to joining the faculty at the University of South Carolina, I was a post-doc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/). I received my Ph.D. from the School of Computing at [Dublin City University](https://www.dcu.ie/) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/).
@@ -42,7 +43,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     
     <tr>
         <td> <span class="label success">06/22/21</span></td>
-        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative training project with my genious colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and Machine Learning</strong>.
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative training project with my genious colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and ML</strong>.
         </td>
     </tr>
 

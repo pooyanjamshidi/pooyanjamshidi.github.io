@@ -5,7 +5,18 @@ permalink: /bio/
 weight: 9
 ---
 
-Pooyan Jamshidi is an Assistant Professor at the University of South Carolina. He directs the [AISys Lab](/AISys/), where he investigates the development of novel algorithmic and theoretically principled methods for machine learning systems. Prior to his current position, he was a research associate at Carnegie Mellon University and Imperial College London, where he primarily worked on transfer learning for performance understanding and optimization of highly-configurable systems, including robotics and big data systems. Pooyan's general research interests are Causal AI, Transfer Learning, ML for Systems, and Autonomous Systems. He received his Ph.D. in Computer Science at Dublin City University in 2014 and M.S. and B.S. degrees in Computer Science and Math from the Amirkabir University of Technology in 2003 and 2006.
+### Short Bio
+
+```inline
+Pooyan Jamshidi is an Assistant Professor in Computer Science at UofSC and a visiting researcher at Google. He directs the AISys Lab, where he develops theory in Causal AI and Statistical ML and applies the theories to solve problems in computer systems, autonomous robots, and software engineering. He is, in particular, interested in Representation Learning, Causal Transfer Learning, Reinforcement Learning, Trustworthy AI, and ML for Systems. Prior to his current position, he was a research associate at CMU and Imperial. He received a Ph.D. in Computer Science at DCU in 2014 and M.S. and B.S. degrees in Systems Engineering and Computer Science from the AUT in 2003 and 2006.
+```
+
+### Long Bio
+
+```inline
+Pooyan Jamshidi is an Assistant Professor in the Computer Science and Engineering Department at the University of South Carolina and a visiting researcher at Google. He directs the AISys Lab, where he---with his students, postdocs, and collaborators---designs theoretically principled artificial intelligence and machine learning methods and applies the theories to problems in computer systems, software engineering, robotics, self-adaptive and autonomous systems, on-device machine learning, cloud-based and serverless systems, big data analytics pipelines, and healthcare. He is, in particular, interested in transfer learning, optimization, causal/deep representation learning, machine learning security, reinforcement learning, causal AI, as well as several areas in computer systems research, including performance, configuration, computer architecture. Prior to his current position, he was a research associate at Carnegie Mellon University and Imperial College London. He received a Ph.D. in Computer Science at Dublin City University in 2014 and M.S. and B.S. degrees in Systems Engineering and Computer Science from the Amirkabir University in 2003 and 2006.
+```
+
 
 <!-- I was advised by:
 * [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/) at Carnegie Mellon University

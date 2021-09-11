@@ -3,6 +3,7 @@
   website: https://pooyanjamshidi.github.io/
 
 # Current
+
 - name: Ying Meng
   prog: phd
   id: meng
@@ -10,7 +11,25 @@
   status: current
   started: 2019
   finished: present
-  bio: Ying is a PhD student in computer science. She is interested in adversarial machine learning and software testing.
+  bio: Ying is a PhD student in computer science. She is interested in security of machine learning and software testing.
+
+- name: Fatemeh Ghofrani
+  prog: phd
+  id: ghofrani
+  website: https://github.com/gh-fatima
+  status: current
+  started: 2021
+  finished: present
+  bio: Fatemeh is a PhD student in computer science. She is interested in causal representation learning and explainability.
+
+- name: Md Abir Hossen
+  prog: phd
+  id: hossen
+  website: https://cse.sc.edu/~mhossen/
+  status: current
+  started: 2021
+  finished: present
+  bio: Abir is a PhD student in computer science. He is interested in autonomous systems and robot learning.
 
 - name: Kimia Noorbakhsh
   prog: undergrad
@@ -19,16 +38,16 @@
   status: current
   started: 2020
   finished: present
-  bio: Kimia is undergraduate student in Computer Engineering and Math (Sharif University). She is interested in physics-informed machine learning and theoretical aspects of ML.
+  bio: Kimia is undergraduate student in Computer Engineering and Math (Sharif University). She is interested in theoretical AI/ML and symbolic mathematics.
 
 - name: Shuge Lei
   prog: phd
   id: lei
   website:
-  status: current
+  status: former
   started: 2020
-  finished: present
-  bio: Shuge is PhD student in computer science. She is interested in physics-informed machine learning.
+  finished: 2021
+  bio: Shuge is PhD student in computer science. She is interested in applied machine learning.
 
 - name: Jianhai Su
   prog: phd
@@ -39,14 +58,14 @@
   finished: present
   bio: Jianhai is a PhD student in computer science. He is interested in transfer learning, autonomic computing, and reinforcement learning.
 
-- name: Shahriar Iqbal
+- name: Md Shahriar Iqbal
   prog: phd
   id: iqbal
   website: https://iqbal128855.github.io/iqbal128855/
   status: current
   started: 2018
   finished: present
-  bio: Shahriar is a PhD student in computer science. He is interested in multi-objective optimization of deep neural networks in embedded systems.
+  bio: Shahriar is a PhD student in computer science. He is interested in ML for Systems.
 
 - name: Peter Mourfield
   prog: msc
@@ -55,25 +74,25 @@
   status: former
   started: 2019
   finished: 2020
-  bio: Peter is a PhD student in computer science. He is interested in autonomic computing and reinforcement learning.
+  bio: Peter is a PhD student in computer science. He is interested in autonomic systems and reinforcement learning.
 
 - name: Mohammad Ali Javidian
   prog: postdoc
   id: javidian
-  website: https://cse.sc.edu/~javidian/
+  website: https://majavid.github.io/
   status: current
   started: 2018
   finished: present
-  bio: Mohammad Ali is a postdoctorate student in computer science. He is interested in probabilistic graphical models, Bayesian networks, and transfer learning. 
+  bio: Mohammad Ali is a part-time postdoc interested in causal AI and transfer learning. 
 
 - name: Cody Shearer
   prog: undergrad
   id: shearer
   website: https://cjshearer.github.io/
-  status: current
+  status: former
   started: 2020
-  finished: present
-  bio: Cody is an undergraduate student in computer science and math. He is interested in casual inference and transfer learning for systems performance.
+  finished: 2021
+  bio: Cody is an undergraduate student in computer science and math. He is interested in causal AI and transfer learning for systems performance.
 
 - name: Blake Edwards
   prog: undergrad

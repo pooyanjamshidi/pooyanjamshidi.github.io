@@ -73,6 +73,13 @@ code {
   padding: 4px;
 }
 
+.remark-fancy-code{
+  /* background: #F5F5F5; /* lighter */
+  background: #F5F5F9; /* darker */
+  border-radius: 3px;
+  padding: 4px;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",

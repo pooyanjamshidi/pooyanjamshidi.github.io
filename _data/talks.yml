@@ -1,3 +1,11 @@
+- id: causal-ai-smds
+  title: "Causal AI for Systems"
+  where: IEEE International Conference on Smart Data Services
+  year: 2021
+  month: September
+  url: https://speakerdeck.com/pjamshidi/causal-ai-for-systems-198fe4d5-d970-4038-8546-1b5e5725d870
+  video: 
+
 - id: mlsys-stanford
   title: "Causal AI for Systems"
   where: Stanford MLSys Seminars
