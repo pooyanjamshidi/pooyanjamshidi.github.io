@@ -6,8 +6,12 @@ group: research
 ---
 
 
-```inline
+<!-- ```inline
 I am the director of AISys lab and an assistant professor in the computer science and engineering department at UofSC and a visiting researcher at Google. My research involves designing novel algorithmic, theoretically principled, and trustworthy artificial intelligence and machine learning methods and applying the theories to problems in computer systems, software engineering, robotics, self-adaptive and autonomous systems, on-device machine learning, cloud-based and serverless systems, big data analytics pipelines, and healthcare. I am, in particular, interested in transfer learning, optimization, causal/deep representation learning, security and explainability, reinforcement learning, causal AI, as well as several areas in computer systems research, including performance, configuration, computer architecture. I teach a variety of courses, including machine learning systems, artificial intelligence, and computer architecture.
+``` -->
+
+```inline
+I am an assistant professor in computer science at UofSC and a visiting researcher at Google. My research involves developing theories in Causal AI and Statistical ML and apply them for solving problems in computer systems, autonomous robots, and software engineering. I am, in particular, interested in Representation Learning, Causal Transfer Learning, Reinforcement Learning, Trustworthy AI, and ML for Systems.
 ```
 
 Prior to joining the faculty at the University of South Carolina, I was a post-doc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/). I received my Ph.D. from the School of Computing at [Dublin City University](https://www.dcu.ie/) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/).
