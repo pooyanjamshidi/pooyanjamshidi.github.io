@@ -10,7 +10,7 @@ weight: 2
 The overall aim of our research at the AISys lab is to build the foundations that enable us to synthesize truly autonomous systems. To that end, we build novel algorithmic and theoretically principled methods that are grounded in mathematics that enable us to learn concepts and policies via appropriate representations that can enable systems to act rationally and transfer their knowledge and experience across different tasks and environments. 
 ```
 
-## Core areas
+## AISys Core Research Areas
 
 * **Causal AI:** *Structure Learning, Inference, Transfer Learning, Representation Learning*
 	- Causal AI provides a set of tools and principles that allows us to reason about questions of counterfactual nature by combining data and structural invariances about the environment — i.e., what would have happened had reality been different, even when no data about this alternate world is available. 

@@ -20,6 +20,10 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 * Want to ``work with us``? Read about [AISys Lab](/AISys/).
 
+* Want to ``know more about our research``? Please checkout our [Core Research Areas](/research/) and [Publications](/publications/).
+
+* Want to ``know whether I am available for AI consultancy``? Please checkout our [Consultancy Services](/consultancy/).
+
 * Want to joint our weekly ``reading group``? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group). 
 
 ###  News
