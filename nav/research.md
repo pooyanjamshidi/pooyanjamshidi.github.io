@@ -13,7 +13,7 @@ The overall aim of our research at the AISys lab is to build the foundations tha
 ## AISys Core Research Areas
 
 * **Causal AI:** *Structure Learning, Inference, Transfer Learning, Representation Learning*
-	- Causal AI provides a set of tools and principles that allows us to reason about questions of counterfactual nature by combining data and structural invariances about the environment — i.e., what would have happened had reality been different, even when no data about this alternate world is available. 
+	- Causal AI provides a set of tools and principles that allows us to reason about questions of counterfactual nature by combining data and structural invariances about the environment—i.e., what would have happened had reality been different, even when no data about this alternate world is available. 
 	- We develop theoretical and practical Causal AI approaches typically for high-dimensional, low sample size scenarios for the applications of our interests (computer systems and healthcare).
 
 * **Statistical ML:** *Multi-objective Optimization, Transfer Learning, Reinforcement Learning*

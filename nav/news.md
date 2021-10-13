@@ -42,7 +42,7 @@ group: news
 
     <tr>
         <td> <span class="label success">06/04/21</span></td>
-        <td> I am so delighted that I (together with Valerie Issarny) will serve as the <strong>PC co-chair of SEAMS 2023</strong> colocated with ICSE 2023 in Melbourne. Meanwhile, please do consider submitting to <a href="https://conf.researchr.org/track/seams-2022/seams-2022-papers#About">SEAMS 2012</a>!
+        <td> I am so delighted that I (together with Valerie Issarny) will serve as the <strong>PC co-chair of SEAMS 2023</strong> colocated with ICSE 2023 in Melbourne. Meanwhile, please do consider submitting to <a href="https://conf.researchr.org/track/seams-2022/seams-2022-papers#About">SEAMS 2022</a>!
         </td>
     </tr>
 
