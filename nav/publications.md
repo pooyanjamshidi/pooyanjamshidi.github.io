@@ -86,7 +86,7 @@ These are my ``notable`` academic publications.
       {% endif %}
       {% if paper.poster %}
       <a href="{{ "/resources/posters/" | append: paper.poster | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
-        <span class="icon"><svg><use xlink:href="#icon-file"/></svg></span>
+        <span class="icon"><svg><use xlink:href="#icon-pdf"/></svg></span>
       </a>
       {% endif %}
     </div>
