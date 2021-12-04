@@ -13,7 +13,7 @@ group: news
     
     <tr>
         <td> <span class="label success">10/27/21</span></td>
-        <td> I am honored to become the academic mentor of <a href="https://garnetgate.sa.sc.edu/organization/gamecockvexrobtics">Gamecock Robotics</a>--A team consist of more than a dozen students who compete in international robotics leagues, including VEX Robotics, where a new game is given out to students every year for which the team must build robots to compete with in competitions against other schools.
+        <td> I am honored to become the academic mentor of <a href="https://garnetgate.sa.sc.edu/organization/gamecockvexrobtics">Gamecock Robotics</a>--A team consist of more than a dozen students who compete in international robotics leagues, including VEX Robotics.
         </td>
     </tr>
 

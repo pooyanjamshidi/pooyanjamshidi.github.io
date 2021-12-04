@@ -1,3 +1,16 @@
+- id: debug-perf
+  title: "On Debugging the Performance of Configurable Software Systems: Developer Needs and Tailored Tool Support"
+  authors: Miguel Velez, Pooyan Jamshidi, Norbert Siegmund, Sven Apel, Christian Kaestner
+  venue: International Conference on Software Engineering
+  venue_abb: ICSE 2022
+  acc_rate: 26
+  year: 2022
+  url: 
+  code:
+  video:
+  important: 1
+  abstract: "Determining whether a configurable software system has a performance bug or it was misconfigured is often challenging. While there are numerous debugging techniques that can support developers in this task, there is limited empirical evidence of how useful the techniques are to address the actual needs that developers have when debugging the performance of configurable software systems; most techniques are often evaluated in terms of technical accuracy instead of their usability. In this paper, we take a human-centered approach to identify, design, implement, and evaluate a solution to support developers in the process of debugging the performance of configurable software systems. We first conduct an exploratory study with $19$ developers to identify the information needs that developers have during this process. Subsequently, we design and implement a tailored tool, adapting techniques from prior work, to support those needs. Two user studies, with a total of $20$ developers, validate and confirm that the information that we provide helps developers debug the performance of configurable software systems."
+
 - id: symb-math-pretrained
   title: "Pretrained Language Models are Symbolic Mathematics Solvers too!"
   authors: Kimia Noorbakhsh, Modar Sulaiman, Mahdi Sharifi, Kallol Roy, Pooyan Jamshidi
@@ -13,7 +26,7 @@
 - id: sctl
   title: "Scalable Causal Transfer Learning"
   authors: Mohammad Ali Javidian, Om Pandey, Pooyan Jamshidi
-  venue: Arxiv
+  venue: "NeurIPS WHY-21"
   acc_rate:
   year: 2021
   url: https://arxiv.org/abs/2103.00139
@@ -151,6 +164,7 @@
   authors: Rahul Krishna, Vivek Nair, Pooyan Jamshidi, Tim Menzies
   venue: IEEE Transactions on Software Engineering
   year: 2020
+  video: https://www.youtube.com/watch?v=5SluCBOJn4w&ab_channel=ICSE2021Conference
   url: https://arxiv.org/abs/1911.01817
   abstract: "As software systems grow in complexity and the space of possible configurations increases exponentially, finding the near-optimal configuration of a software system becomes challenging. Recent approaches address this challenge by learning performance models based on a sample set of configurations. However, collecting enough sample configurations can be very expensive since each such sample requires configuring, compiling, and executing the entire system using a complex test suite. When learning on new data is too expensive, it is possible to use Transfer Learning to transfer old lessons to the new context. Traditional transfer learning has a number of challenges, specifically, (a) learning from excessive data takes excessive time, and (b) the performance of the models built via transfer can deteriorate as a result of learning from a poor source. To resolve these problems, we propose a novel transfer learning framework called BEETLE, which is a bellwether-based transfer learner that focuses on identifying and learning from the most relevant source from amongst the old data. This paper evaluates BEETLE with 57 different software configuration problems based on five software systems (a video encoder, an SAT solver, a SQL database, a high-performance C-compiler, and a streaming data analytics tool). In each of these cases, BEETLE found configurations that are as good as or better than those found by other state-of-the-art transfer learners while requiring only a fraction of the measurements needed by those other methods. Based on these results, we say that BEETLE is a new high-water mark in optimally configuring software."
 
