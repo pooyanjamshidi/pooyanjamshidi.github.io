@@ -32,6 +32,12 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <tbody>
     
     <tr>
+        <td> <span class="label success">12/05/21</span></td>
+        <td> Two papers were accepted at <strong>ICSE 2022</strong> (On Debugging the Performance of Configurable Software Systems: Developer Needs and Tailored Tool Support) and <strong>NeurIPS WHY-21</strong> (Scalable Causal Transfer Learning). Congrats, Miguel Velez, Om Pandey, and Mohammad Ali Javidian!
+        </td>
+    </tr>
+
+    <tr>
         <td> <span class="label success">10/27/21</span></td>
         <td> I am honored to become the academic mentor of <a href="https://garnetgate.sa.sc.edu/organization/gamecockvexrobtics">Gamecock Robotics</a>--A team consist of more than a dozen students who compete in international robotics leagues, including VEX Robotics.
         </td>
