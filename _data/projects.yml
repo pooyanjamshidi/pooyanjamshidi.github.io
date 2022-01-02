@@ -10,7 +10,7 @@
   start: 2021
   members: noorbakhsh
   papers: symb-math-pretrained
-  description: "Mathematics is one of the most precious human heritage. To preserve mathematical knowledge even beyond the human era, in collaborations with the University of Tartu, we develop new methods to solve symbolic math tasks (differentiation, integration, PDE, linear algebra) with machine learning models such as neural networks. The key ideas behind our approach are to exploit the underlying structures (e.g., tree-like structures) behind symbolic math tasks and transform the symbolic math tasks into tasks such as language translations that deep learning models (e.g., transformers) can do well."
+  description: "Mathematics is one of the most precious human heritage. To preserve mathematical knowledge even beyond the human era, in collaborations with the University of Tartu, we develop new methods to solve symbolic math tasks (differentiation, integration, PDE, linear algebra, etc.) with machine learning models such as neural networks. The key ideas behind our approach are to exploit the underlying structures (e.g., tree-like structures) behind symbolic math tasks and transform the symbolic math tasks into tasks such as language translations that deep learning models can do well."
   webpage: https://softsys4ai.github.io/differentiable-proving/
 
 - name: "NASA RASPBERRY-SI"
