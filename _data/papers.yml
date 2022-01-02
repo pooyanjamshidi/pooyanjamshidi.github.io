@@ -19,19 +19,20 @@
   year: 2021
   url: https://arxiv.org/abs/2110.03501
   code: https://github.com/softsys4ai/differentiable-proving
+  link: https://softsys4ai.github.io/differentiable-proving/
   video:
   important: 1
   abstract: "Solving symbolic mathematics has always been of in the arena of human ingenuity that needs compositional reasoning and recurrence. However, recent studies have shown that large-scale language models such as transformers are universal and surprisingly can be trained as a sequence-to-sequence task to solve complex mathematical equations. These large transformer models need humongous amounts of training data to generalize to unseen symbolic mathematics problems. In this paper, we present a sample efficient way of solving the symbolic tasks by first pretraining the transformer model with language translation and then fine-tuning the pretrained transformer model to solve the downstream task of symbolic mathematics. We achieve comparable accuracy on the integration task with our pretrained model while using around 1.5 orders of magnitude less number of training samples with respect to the state-of-the-art deep learning for symbolic mathematics. The test accuracy on differential equation tasks is considerably lower comparing with integration as they need higher order recursions that are not present in language translations. We pretrain our model with different pairs of language translations. Our results show language bias in solving symbolic mathematics tasks. Finally, we study the robustness of the fine-tuned model on symbolic math tasks against distribution shift, and our approach generalizes better in distribution shift scenarios for the function integration."
 
 - id: sctl
-  title: "Scalable Causal Transfer Learning"
+  title: "Scalable Causal Domain Adaptation"
   authors: Mohammad Ali Javidian, Om Pandey, Pooyan Jamshidi
-  venue: "NeurIPS WHY-21"
-  acc_rate:
+  venue: "NeurIPS WHY-21 (invited for oral talk, 16% of the accepted papers)"
+  acc_rate: 8
   year: 2021
   url: https://arxiv.org/abs/2103.00139
   code: https://github.com/softsys4ai/SCTL
-  video:
+  video: https://neurips.cc/virtual/2021/workshop/21871
   important: 1
   abstract: "One of the most important problems in transfer learning is the task of domain adaptation, where the goal is to apply an algorithm trained in one or more source domains to a different (but related) target domain. This paper deals with domain adaptation in the presence of covariate shift while there exist invariances across domains. A main limitation of existing causal inference methods for solving this problem is scalability. To overcome this difficulty, we propose SCTL, an algorithm that avoids an exhaustive search and identifies invariant causal features across the source and target domains based on Markov blanket discovery. SCTL does not require to have prior knowledge of the causal structure, the type of interventions, or the intervention targets. There is an intrinsic locality associated with SCTL that makes SCTL practically scalable and robust because local causal discovery increases the power of computational independence tests and makes the task of domain adaptation computationally tractable. We show the scalability and robustness of SCTL for domain adaptation using synthetic and real data sets in low-dimensional and high-dimensional settings."
 
@@ -62,10 +63,10 @@
   abstract: "Causal structure discovery from observational data is fundamental to causal understanding of autonomous systems such as medical decision support systems, advertising campaign and self-driving cars. This is essential to solve well-known causal decision making and prediction problems associated with those real-world applications. Recently, recursive causal discovery algorithms have gained particular attention from the research community due to their ability to provide good results by using Conditional Independent (CI) tests from small subproblems. However, each of such algorithms needs a refinement function to remove undesired causal relations of the discovered graphs. Notably, with the increase of the problem size, the computation cost (i.e., the number of CI-tests) of the refinement function makes an algorithm expensive to deploy in practice. In this paper, we propose a generic causal structure refinement strategy that can locate the undesired relations with a small number of CI-tests, and thus speeding up the algorithm for large and complex problems. We provide theoretical prove to confirm this. Finally, our empirical evaluation validates the dominance of our algorithm compared to the state-of-the-art algorithms in terms of completion time without compromising on the solution quality."
 
 
-- id: cadet-arxiv
+- id: cadet-neurips2020-mlforsystems
   title: "CADET: A Systematic Method For Debugging Misconfigurations using Counterfactual Reasoning"
   authors: Shahriar Iqbal, Rahul Krishna, M.A. Javidian, Baishakhi Ray, Pooyan Jamshidi
-  venue: NeurIPS 2020 (ML for Systems)
+  venue: NeurIPS 2020 (Workshop on ML for Systems)
   year: 2020
   url: https://arxiv.org/abs/2010.06061
   code: https://github.com/softsys4ai/CADET
