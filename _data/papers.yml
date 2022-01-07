@@ -263,6 +263,14 @@
   url: https://www.researchgate.net/publication/331448434_Model-Based_Adaptation_for_Robotics_Software
   abstract: "We developed model-based adaptation, an approach that leverages models of software and its environment to enable automated adaptation. The goal of our approach is to build long-lasting software systems that can effectively adapt to changes in their environment."
 
+- id: cqi
+  title: "Conservative Q-Improvement: Reinforcement Learning for an Interpretable Decision-Tree Policy"
+  authors:  AM. Roth, N. Topin, P. Jamshidi, M. Veloso
+  venue: Arxiv
+  year: 2019
+  url: https://arxiv.org/abs/1907.01180
+  abstract: "There is a growing desire in the field of reinforcement learning (and machine learning in general) to move from black-box models toward more interpretable AI. We improve interpretability of reinforcement learning by increasing the utility of decision tree policies learned via reinforcement learning. These policies consist of a decision tree over the state space, which requires fewer parameters to express than traditional policy representations. Existing methods for creating decision tree policies via reinforcement learning focus on accurately representing an action-value function during training, but this leads to much larger trees than would otherwise be required. To address this shortcoming, we propose a novel algorithm which only increases tree size when the estimated discounted future reward of the overall policy would increase by a sufficient amount. Through evaluation in a simulated environment, we show that its performance is comparable or superior to traditional tree-based approaches and that it yields a more succinct policy. Additionally, we discuss tuning parameters to control the tradeoff between optimizing for smaller tree size or for overall reward."
+
 - id: l2s
   title: "Learning to Sample: Exploiting Similarities Across Environments to Learn Performance Models for Configurable Systems"
   authors: Pooyan Jamshidi, Miguel Velez, Christian Kaestner, Norbert Siegmund
