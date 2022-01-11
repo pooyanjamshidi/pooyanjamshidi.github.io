@@ -30,7 +30,13 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 <table class="table table-sm">
 <tbody>
-    
+
+    <tr>
+        <td> <span class="label success">1/10/22</span></td>
+        <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">University of South Carolina's 2022 Breakthrough Stars Award</a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues in the computer science and engineering department, my collaborators around the globe, and my dear family without their support none of these was even imaginable.
+        </td>
+    </tr>
+
     <tr>
         <td> <span class="label success">12/05/21</span></td>
         <td> Two papers were accepted at <strong>ICSE 2022</strong> (On Debugging the Performance of Configurable Software Systems: Developer Needs and Tailored Tool Support) and <strong>NeurIPS WHY-21</strong> (Scalable Causal Transfer Learning). Congrats, Miguel Velez, Om Pandey, and Mohammad Ali Javidian!
