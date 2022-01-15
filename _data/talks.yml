@@ -1,3 +1,11 @@
+- id: explore-csr
+  title: "Causal AI for Systems"
+  where: "exploreCSR: Democratizing AI"
+  year: 2022
+  month: January
+  url: https://speakerdeck.com/pjamshidi/causal-ai-for-systems-c3d99258-1959-46ba-85ac-22f66c0c8c57
+  video: 
+
 - id: causal-ai-smds
   title: "Causal AI for Systems"
   where: IEEE International Conference on Smart Data Services
