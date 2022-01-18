@@ -13,6 +13,12 @@ group: news
     
     <tr>
         <td> <span class="label success">1/10/22</span></td>
+        <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been acepted EuroSys'22; We are grateful to all who provided feedback on this work, including Christian K¥astner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius D ¥urschmid, and the anonymous Eurosys'21&22 reviewers.
+        </td>
+    </tr>
+
+    <tr>
+        <td> <span class="label success">1/10/22</span></td>
         <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 Breakthrough Stars Award</a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these was even imaginable.
         </td>
     </tr>
