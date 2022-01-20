@@ -13,7 +13,7 @@ group: news
     
     <tr>
         <td> <span class="label success">1/10/22</span></td>
-        <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been acepted EuroSys'22; We are grateful to all who provided feedback on this work, including Christian K¥astner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius D ¥urschmid, and the anonymous Eurosys'21&22 reviewers.
+        <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been acepted EuroSys'22; We are grateful to all who provided feedback on this work, including Christian Kaestner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobias Durschmied, and the anonymous Eurosys'21&22 reviewers.
         </td>
     </tr>
 
