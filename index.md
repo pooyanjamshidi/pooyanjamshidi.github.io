@@ -30,7 +30,11 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 
 <table class="table table-sm">
 <tbody>
-
+    <tr>
+        <td> <span class="label success">1/22/22</span></td>
+        <td> UofSC's College of Engineering and Computing <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/research_intends_to_develop_a_shift_in_testing_and_debugging_for_modern_machine_learning_systems.php">published an interview</a> about our <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">NSF project on Causal AI for Systems</a>.
+        </td>
+    </tr>
     <tr>
         <td> <span class="label success">1/10/22</span></td>
         <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been acepted EuroSys'22; We are grateful to all who provided feedback on this work, including Christian K¥astner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius D ¥urschmid, and the anonymous Eurosys'21&22 reviewers.
