@@ -32,6 +32,11 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <tbody>
     <tr>
         <td> <span class="label success">1/22/22</span></td>
+        <td> I am so delighted that <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Sonam Kharde</a> has joined AISys as a <strong>postdoc</strong>; She will be working on Causal AI and Control for systems. Welcome, Sonam!
+        </td>
+    </tr>
+    <tr>
+        <td> <span class="label success">1/22/22</span></td>
         <td> UofSC's College of Engineering and Computing <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/research_intends_to_develop_a_shift_in_testing_and_debugging_for_modern_machine_learning_systems.php">published an <strong>interview</strong></a> about our <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">NSF project on Causal AI for Systems</a>.
         </td>
     </tr>
@@ -78,7 +83,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     
     <tr>
         <td> <span class="label success">06/22/21</span></td>
-        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative training project with my genious colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and ML</strong>.
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative training project with my genius colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and ML</strong>.
         </td>
     </tr>
 
@@ -97,53 +102,6 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     <tr>
         <td> <span class="label success">05/10/21</span></td>
         <td> I am so delighted to announce that I am now a <strong>Visiting Researcher at Google</strong>! I will be working on Causal Representation Learning, Adversarial ML, and Self-Supervised Learning.
-        </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">04/15/21</span></td>
-        <td> <a href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1028.pdf">Accelerating Recursive Partition-Based Causal Structure Learning</a>, a generic causal structure learning method that can locate that scales to high-dimensional problems, has been accepted in <a href="https://aamas2021.soton.ac.uk/">AAMAS 2021</a>.
-        </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">03/22/21</span></td>
-        <td> <a href="https://arxiv.org/abs/2103.00139">Scalable Causal Transfer Learning</a>, a method for identifying causal invariance---suitable for high-dimensional low sample size problems such as biomedical problems, is out.
-        </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">01/18/21</span></td>
-        <td> We have a website for <a href="https://pooyanjamshidi.github.io/csce212/">CSCE 212: Introduction to Computer Architecture</a> that I teach this semester.
-        </td>
-    </tr>
-    <tr>
-        <td> <span class="label success">01/15/21</span></td>
-        <td> <a href="https://arxiv.org/abs/2101.05362">White-Box Analysis over Machine Learning: Modeling Performance of Configurable Systems</a> will appear at <a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/33/White-Box-Analysis-over-Machine-Learning-Modeling-Performance-of-Configurable-System">ICSE'21</a>. Congratulations <a href="http://www.cs.cmu.edu/~mvelezce/">Miguel Velez</a>!
-        </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">12/28/20</span></td>
-        <td> An interview on <a href="https://www.postandcourier.com/columbia/news/usc-researcher-wants-to-train-robots-for-nasa-deep-space-missions/article_93d9bb3c-3afa-11eb-bd4c-7700ac496485.html">AI in Deep Space Missions</a> with The Post and Courier newsletter.
-        </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">12/12/20</span></td>
-        <td> Shahriar Iqbal <a href="https://slideslive.com/38941854/cauper-debugging-misconfigurations-using-counterfactual-reasoning">presented</a> our recent work on <a href="https://arxiv.org/abs/2010.06061">CADET</a> in the Workshop on ML for Systems at NeurIPS 2020.
-        </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">11/07/20</span></td>
-        <td> Vijay Chidambaram (UT Austin), Neeraja Yadwadkar (Stanford), Ivo Jimenez (UC Santa Cruz), and Romain Jacob (ETH Zurich), and I launched  <a href="http://jsys.org/">JSys (Journal of Systems Research)</a>&mdash;a new diamond open-access journal for the systems community.
-        </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">11/06/20</span></td>
-        <td> An interview on <a href="http://uofsccec.com/AI_in_Space">AI in Space</a> about our recent NASA <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY SI</a> project.
         </td>
     </tr>
 

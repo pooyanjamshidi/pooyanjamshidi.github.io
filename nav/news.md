@@ -10,7 +10,11 @@ group: news
 
 <table class="table table-sm">
 <tbody>
-    
+    <tr>
+        <td> <span class="label success">1/22/22</span></td>
+        <td> I am so delighted that <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Sonam Kharde</a> has joined AISys as a <strong>postdoc</strong>; She will be working on Causal AI and Control for systems. Welcome, Sonam!
+        </td>
+    </tr>
     <tr>
         <td> <span class="label success">1/22/22</span></td>
         <td> UofSC's College of Engineering and Computing <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/research_intends_to_develop_a_shift_in_testing_and_debugging_for_modern_machine_learning_systems.php">published an <strong>interview</strong></a> about our <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">NSF project on Causal AI for Systems</a>.
@@ -25,7 +29,7 @@ group: news
 
     <tr>
         <td> <span class="label success">1/10/22</span></td>
-        <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 <strong>Breakthrough Stars Award</strong></a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these was even imaginable.
+        <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 <strong>Breakthrough Stars Award</strong></a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these was imaginable.
         </td>
     </tr>
 
@@ -37,13 +41,13 @@ group: news
 
     <tr>
         <td> <span class="label success">10/27/21</span></td>
-        <td> I am honored to become the academic mentor of <a href="https://garnetgate.sa.sc.edu/organization/gamecockvexrobtics">Gamecock Robotics</a>--A team consist of more than a dozen students who compete in international robotics leagues, including VEX Robotics.
+        <td> I am honored to become the academic mentor of <a href="https://garnetgate.sa.sc.edu/organization/gamecockvexrobtics"><strong>Gamecock Robotics</strong></a>--A team consist of more than a dozen students who compete in international robotics leagues, including VEX Robotics.
         </td>
     </tr>
 
     <tr>
         <td> <span class="label success">08/20/21</span></td>
-        <td> A postdoc position (up to 3 years) is available at AISys on [Causal AI for Systems](/resources/docs/CausalAIforSystems-Postdoc-Position-Ads.pdf). Please apply <a href="https://uscjobs.sc.edu/postings/104150">here</a>.
+        <td> A <strong>postdoc position</strong> (up to 3 years) is available at AISys on [Causal AI for Systems](/resources/docs/CausalAIforSystems-Postdoc-Position-Ads.pdf). Please apply <a href="https://uscjobs.sc.edu/postings/104150">here</a>.
         </td>
     </tr>
 
@@ -85,7 +89,7 @@ group: news
 
     <tr>
         <td> <span class="label success">04/15/21</span></td>
-        <td> <a href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1028.pdf">Accelerating Recursive Partition-Based Causal Structure Learning</a>, a generic causal structure learning method that can locate that scales to high-dimensional problems, has been accepted in <a href="https://aamas2021.soton.ac.uk/">AAMAS 2021</a>.
+        <td> <a href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1028.pdf">Accelerating Recursive Partition-Based Causal Structure Learning</a>, a generic causal structure learning method that can locate that scales to high-dimensional problems, has been accepted in <a href="https://aamas2021.soton.ac.uk/"><strong>AAMAS 2021</strong></a>.
         </td>
     </tr>
 
@@ -108,13 +112,13 @@ group: news
     
     <tr>
         <td> <span class="label success">12/28/20</span></td>
-        <td> An interview on <a href="https://www.postandcourier.com/columbia/news/usc-researcher-wants-to-train-robots-for-nasa-deep-space-missions/article_93d9bb3c-3afa-11eb-bd4c-7700ac496485.html">AI in Deep Space Missions</a> with The Post and Courier newsletter.
+        <td> An interview on <a href="https://www.postandcourier.com/columbia/news/usc-researcher-wants-to-train-robots-for-nasa-deep-space-missions/article_93d9bb3c-3afa-11eb-bd4c-7700ac496485.html"><strong>AI in Deep Space Missions</strong></a> with The Post and Courier newsletter.
         </td>
     </tr>
     
     <tr>
         <td> <span class="label success">12/12/20</span></td>
-        <td> Shahriar Iqbal <a href="https://slideslive.com/38941854/cauper-debugging-misconfigurations-using-counterfactual-reasoning">presented</a> our recent work on <a href="https://arxiv.org/abs/2010.06061">CADET</a> in the Workshop on ML for Systems at NeurIPS 2020.
+        <td> Shahriar Iqbal <a href="https://slideslive.com/38941854/cauper-debugging-misconfigurations-using-counterfactual-reasoning">presented</a> our recent work on <a href="https://arxiv.org/abs/2010.06061">CADET</a> in the Workshop on <strong>ML for Systems at NeurIPS 2020</strong>.
         </td>
     </tr>
     
