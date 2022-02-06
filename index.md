@@ -11,7 +11,7 @@ I am the director of AISys lab and an assistant professor in the computer scienc
 ``` -->
 
 ```inline
-I am an assistant professor in computer science at UofSC and a visiting researcher at Google. My research involves developing theories in Causal AI and Statistical ML and apply them for solving problems in Computer Systems, Robot Learning, and Software Engineering. I am, in particular, interested in Causal Representation Learning, Transfer Learning, Reinforcement Learning, ML Security/Explainability, and ML for Systems.
+Hey there! I am an assistant professor in computer science at UofSC and a visiting researcher at Google. My research involves developing theories in Causal AI and Statistical ML and apply them for solving problems in Computer Systems, Robot Learning, and few interdisciplinary areas in sciences and engineering. I am, in particular, interested in the theoretical foundations of Causal AI, Representation Learning, and Transfer Learning. In addition to theory, I have been and remain excited about ML for Systems, Systems for ML, Causal Reinforcement Learning in Robotics, and Robustness as well as Security of ML Systems.
 ```
 
 Prior to joining the faculty at the University of South Carolina, I was a post-doc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/). I received my Ph.D. from the School of Computing at [Dublin City University](https://www.dcu.ie/) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/).
@@ -37,7 +37,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     </tr>
     <tr>
         <td> <span class="label success">1/10/22</span></td>
-        <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been acepted EuroSys'22; We are grateful to all who provided feedback on this work, including Christian K¥astner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius D ¥urschmid, and the anonymous Eurosys'21&22 reviewers.
+        <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been accepted EuroSys'22; We are grateful to all who provided feedback on this work, including Christian Kaestner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius Durschmied, and the anonymous Eurosys'21&22 reviewers.
         </td>
     </tr>
     <tr>

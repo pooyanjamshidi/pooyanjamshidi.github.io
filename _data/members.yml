@@ -4,6 +4,15 @@
 
 # Current
 
+- name: Sonam Kharde
+  prog: postdoc
+  id: kharde
+  website: https://sites.google.com/ee.vjti.ac.in/kharadesonam/home
+  status: current
+  started: 2022
+  finished: present
+  bio: Sonam is postdoc interested in control and optimization of (uncertain) systems.
+
 - name: Ying Meng
   prog: phd
   id: meng
