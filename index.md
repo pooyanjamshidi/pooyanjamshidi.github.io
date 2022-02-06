@@ -32,17 +32,17 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <tbody>
     <tr>
         <td> <span class="label success">1/22/22</span></td>
-        <td> UofSC's College of Engineering and Computing <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/research_intends_to_develop_a_shift_in_testing_and_debugging_for_modern_machine_learning_systems.php">published an interview</a> about our <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">NSF project on Causal AI for Systems</a>.
+        <td> UofSC's College of Engineering and Computing <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/research_intends_to_develop_a_shift_in_testing_and_debugging_for_modern_machine_learning_systems.php">published an <strong>interview</strong></a> about our <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">NSF project on Causal AI for Systems</a>.
         </td>
     </tr>
     <tr>
         <td> <span class="label success">1/10/22</span></td>
-        <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been accepted EuroSys'22; We are grateful to all who provided feedback on this work, including Christian Kaestner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius Durschmied, and the anonymous Eurosys'21&22 reviewers.
+        <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been accepted <strong>EuroSys'22</strong>; We are grateful to all who provided feedback on this work, including Christian Kaestner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius Durschmied, and the anonymous Eurosys'21&22 reviewers.
         </td>
     </tr>
     <tr>
         <td> <span class="label success">1/10/22</span></td>
-        <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 Breakthrough Stars Award</a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these was even imaginable.
+        <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 <strong>Breakthrough Stars Award</strong></a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these was even imaginable.
         </td>
     </tr>
 
