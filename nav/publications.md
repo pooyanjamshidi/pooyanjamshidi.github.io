@@ -38,6 +38,18 @@ These are my ``notable`` academic publications.
         <!-- <b>{{ paper.award }}</b> -->
         </span>
       {% endif %}
+      {% if paper.badge-available %}
+        <a href="https://www.acm.org/publications/policies/artifact-review-badging#available" class="simple-tooltip__block--b" data-title="Artifacts Available" target="_blank">
+        <img src="/resources/images/artifacts_available.jpeg" width="24" height="24" alt="Artifacts Available"></a>
+      {% endif %}
+      {% if paper.badge-functional %}
+        <a href="https://www.acm.org/publications/policies/artifact-review-badging#functional" class="simple-tooltip__block--b" data-title="Artifacts Evaluated &amp; Functional" target="_blank">
+        <img src="/resources/images/artifacts_evaluated_functional.jpeg" width="24" height="24" alt="Artifacts Evaluated &amp; Functional"></a>
+      {% endif %}
+      {% if paper.badge-reproduced %}
+        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current#reproduced" class="simple-tooltip__block--b" data-title="Results Reproduced" target="_blank">
+        <img src="/resources/images/results_reproduced.jpeg" width="24" height="24" alt="Results Reproduced v1.1"></a>
+      {% endif %}
   	  {% if paper.important %}
   	    <span style="color: red">&#9733;</span>
   	  {% endif %}
