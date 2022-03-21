@@ -13,6 +13,7 @@ These are my ``notable`` academic publications.
 * I upload my presentations in [SlideShare](https://www.slideshare.net/pooyanjamshidi) or [SpeakerDeck](https://speakerdeck.com/pjamshidi).
 * Selected publications are indicated with <span style="color: red">&#9733;</span>
 * Nominated or best paper awards are indicated with <span class="icon"> <svg><use xlink:href="#icon-award"/></svg></span>
+* Papers awarded with artifact badges are indicated with the associated award icons.
  
  <!-- <a href="https://www.researchgate.net/profile/Pooyan_Jamshidi">Research Gate</a>, <a href="https://www.slideshare.net/pooyanjamshidi">SlideShare</a> -->
 
