@@ -39,7 +39,7 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
     </tr>
     <tr>
         <td> <span class="label success">01/30/22</span></td>
-        <td> I am so delighted that <a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a> has joined AISys as a <strong>postdoc</strong>; She will be working on Causal AI and Control for systems. Welcome, Sonam!
+        <td> I am so delighted that <a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a> has joined AISys as a <strong>postdoc</strong>; She will be working on Causal AI for Autonomous Systems. Welcome, Sonam!
         </td>
     </tr>
     <tr>
