@@ -11,7 +11,25 @@
   status: current
   started: 2022
   finished: present
-  bio: Sonam is postdoc interested in control and optimization of (uncertain) systems.
+  bio: Sonam is a postdoc interested in control and optimization of (uncertain) systems.
+
+- name: Mohammad Ali Javidian
+  prog: postdoc
+  id: javidian
+  website: https://majavid.github.io/
+  status: current
+  started: 2018
+  finished: present
+  bio: Mohammad Ali is a part-time postdoc interested in causal AI and transfer learning. 
+
+- name: Mehdi Yaghouti
+  prog: postdoc
+  id: yaghouti
+  website: https://github.com/MehdiYaghouti
+  status: current
+  started: 2022
+  finished: present
+  bio: Mehdi Yaghouti is a postdoc interested in theoretical foundations of machine learning. 
 
 - name: Ying Meng
   prog: phd
@@ -30,6 +48,24 @@
   started: 2021
   finished: present
   bio: Fatemeh is a PhD student in computer science. She is interested in causal representation learning and explainability.
+
+- name: Nasrin Imanpour
+  prog: phd
+  id: imanpour
+  website: https://scholar.google.com/citations?user=MA-AiBIAAAAJ&hl=en
+  status: current
+  started: 2022
+  finished: present
+  bio: Nasrin is doing her second PhD in computer science. She is interested in ML for systems.
+
+- name: Hamed Damirchi
+  prog: phd
+  id: damirchi
+  website: https://github.com/hamed-d
+  status: current
+  started: 2022
+  finished: present
+  bio: Hamed is a PhD student in computer science, interested in representation learning and robotics.
 
 - name: Md Abir Hossen
   prog: phd
@@ -84,15 +120,6 @@
   started: 2019
   finished: 2020
   bio: Peter is a PhD student in computer science. He is interested in autonomic systems and reinforcement learning.
-
-- name: Mohammad Ali Javidian
-  prog: postdoc
-  id: javidian
-  website: https://majavid.github.io/
-  status: current
-  started: 2018
-  finished: present
-  bio: Mohammad Ali is a part-time postdoc interested in causal AI and transfer learning. 
 
 - name: Cody Shearer
   prog: undergrad
