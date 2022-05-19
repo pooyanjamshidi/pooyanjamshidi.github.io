@@ -11,12 +11,14 @@ I am the director of AISys lab and an assistant professor in the computer scienc
 ``` -->
 
 ```inline
-Hey there! I am an assistant professor in computer science at UofSC and a visiting researcher at Google. My research involves contributing theoretical works in Causal AI and Statistical ML and applying them for solving problems in Computer Systems and a few interdisciplinary areas in sciences and engineering. I am, in particular, interested in the theoretical foundations of Causal AI, Representation Learning, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML. In particular, I am interested in Autonomous Systems, Robotics (Robot Learning), Software Systems (Highly-Configurable Systems, Data Analytics Pipelines, Cloud Native Systems, Microservices, Serverless, ML Systems, System Performance), and ML System Security.
+Hey there! I am an assistant professor in computer science at UofSC and a visiting researcher at Google. My research involves contributing theoretical works in Causal AI and Statistical ML and applying them for solving problems in Computer Systems and a few interdisciplinary areas in sciences and engineering. I am, in particular, interested in the theoretical foundations of Causal AI, Representation Learning, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML. In particular, I am interested in Autonomous Systems, Robotics (Robot Learning), Software Systems (Highly-Configurable, Data Analytics Pipelines, Cloud-Native, Microservices, Serverless, Performance Analysis and Optimization), and Robustness of ML Systems.
 ```
 
 Prior to joining the faculty at the University of South Carolina, I was a post-doc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/). I received my Ph.D. from the School of Computing at [Dublin City University](https://www.dcu.ie/) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/).
 
-* I have an ``open office`` policy (even after the pandemic!) You can book an appointment with me [here](https://meet-with-pooyan-jamshidi.appointlet.com/s/15-minute-intro/pooyan-jamshidi).
+<!-- * I have an ``open office`` policy (even after the pandemic!) You can book an appointment with me [here](https://meet-with-pooyan-jamshidi.appointlet.com/s/15-minute-intro/pooyan-jamshidi). -->
+
+* I serve as the co-area chair at [JSys](http://jsys.org/)---a new diamond open-access journal for the systems community. Please consider submiting your research work to JSys, in particular, to Computer Architecture and Configuration Management Areas!
 
 * Want to ``work with us``? Read about [AISys Lab](/AISys/).
 
