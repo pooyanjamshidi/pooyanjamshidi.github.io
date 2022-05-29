@@ -1,3 +1,20 @@
+- id: flexibo-automl22
+  title: "Getting the Best Bang For Your Buck: Choosing What to Evaluate for Faster Bayesian Optimization"
+  authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
+  venue: International Conference on Automated Machine Learning
+  venue_abb: AutoML 2022
+  acc_rate: 25
+  year: 2022
+  url: https://www.researchgate.net/publication/360627855_Getting_the_Best_Bang_For_Your_Buck_Choosing_What_to_Evaluate_for_Faster_Bayesian_Optimization
+  code: https://github.com/softsys4ai/FlexiBO
+  video: 
+  slide:
+  important:
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Machine learning system design frequently necessitates balancing multiple objectives, such as prediction error and energy consumption for deep neural networks (DNNs). Typically,  no single design performs well across all objectives; thus, finding Pareto-optimal designs is of interest. Measuring different objectives frequently incurs different costs; for example, measuring the prediction error of DNNs is significantly more expensive than measuring the energy consumption of a pre-trained DNN because it requires re-training the DNN. Current state-of-the-art methods do not account for this difference in objective evaluation cost, potentially wasting costly evaluations of objective functions for little information gain. To address this issue, we propose a novel cost-aware decoupled approach that weights the improvement of the hypervolume of the Pareto region by the measurement cost of each objective. We perform experiments on a of range of DNN applications for comprehensive evaluation of our approach."
+  
 - id: unicorn-eurosys22
   title: "Unicorn: Reasoning about Configurable System Performance through the lens of Causality"
   authors: Shahriar Iqbal, Rahul Krishna, M.A. Javidian, Baishakhi Ray, Pooyan Jamshidi
@@ -8,6 +25,7 @@
   url: https://arxiv.org/abs/2201.08413
   code: https://github.com/softsys4ai/unicorn
   video: https://www.youtube.com/watch?v=0QGph1bd8Ck&ab_channel=ShahriarIqbal
+  slide: https://speakerdeck.com/pjamshidi/on-debugging-the-performance-of-configurable-software-systems-developer-needs-and-tailored-tool-support
   important: 1    
   badge-available: 1
   badge-functional: 1
