@@ -35,8 +35,13 @@ Prior to joining the faculty at the University of South Carolina, I was a post-d
 <table class="table table-sm">
 <tbody>
     <tr>
+        <td> <span class="label success">06/01/22</span></td>
+        <td> Thanks, Megan, for writing <a href="https://www.sc.edu/uofsc/posts/2022/06/breakthrough_star_pooyan_jamshidi.php">a piece</a> about the UofSC breakthrough award.
+        </td>
+    </tr>
+    <tr>
         <td> <span class="label success">03/15/22</span></td>
-        <td> <a href="https://dl.acm.org/doi/10.1145/3492321.3519575">Unicorn</a>  was awarded the Available, Functional, and Reproducible badges from EuroSys'22, thanks to dedicated work by Shahriar as well as excellent collaborators, Rahul Krishna, Mohammad Ali Javidian, and Baishakhi Ray. Since we benefited a lot by learning from previous rejections of this work, and therefore, to help other awesome researchers in our community, we release all <a href="https://github.com/softsys4ai/unicorn">reviews and rebuttal</a>.
+        <td> <a href="https://dl.acm.org/doi/10.1145/3492321.3519575">Unicorn</a>  was awarded the <strong>Available, Functional, and Reproducible badges</strong> from EuroSys'22, thanks to dedicated work by Shahriar as well as excellent collaborators, Rahul Krishna, Mohammad Ali Javidian, and Baishakhi Ray. Since we benefited a lot by learning from previous rejections of this work, and therefore, to help other awesome researchers in our community, we release all <a href="https://github.com/softsys4ai/unicorn">reviews and rebuttal</a>.
         </td>
     </tr>
     <tr>
