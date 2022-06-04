@@ -61,7 +61,7 @@ group: news
 
     <tr>
         <td> <span class="label success">08/09/21</span></td>
-        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">Causal Performance Debugging for Highly-Configurable Systems</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative project on <a href="https://arxiv.org/abs/2010.06061">Causal AI for Systems</a> with <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kaestner</a> (CMU) and <a href="https://www.rayb.info/">Baishakhi Ray</a> (Columbia) with total funding of $1,200,000.
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">Causal Performance Debugging for Highly-Configurable Systems</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative project on <a href="https://arxiv.org/abs/2201.08413">Causal AI for Systems</a> with <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kaestner</a> (CMU) and <a href="https://www.rayb.info/">Baishakhi Ray</a> (Columbia) with total funding of $1,200,000.
         </td>
     </tr>
 
