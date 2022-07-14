@@ -1,3 +1,20 @@
+- id: felare-cloud22
+  title: "FELARE: Fair Scheduling of Machine Learning Applications on Heterogeneous Edge Systems"
+  authors: Ali Mokhtari, Abir Hossen, Pooyan Jamshidi, Mohsen Amini Salehi
+  venue: International Conference on Cloud Computing
+  venue_abb: IEEE CLOUD
+  acc_rate: 20
+  year: 2022
+  url: https://arxiv.org/abs/2206.00065
+  code: https://github.com/NSF-SmartSight/felare
+  video:
+  slide:
+  important:
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Edge computing enables smart IoT-based systems via concurrent and continuous execution of latency-sensitive machine learning (ML) applications. These edge-based machine learning systems are often battery-powered (i.e., energy-limited). They use heterogeneous resources with diverse computing performance (e.g., CPU, GPU, and/or FPGAs) to fulfill the latency constraints of ML applications. The challenge is to allocate user requests for different ML applications on the Heterogeneous Edge Computing Systems (HEC) with respect to both the energy and latency constraints of these systems. To this end, we study and analyze resource allocation solutions that can increase the on-time task completion rate while considering the energy constraint. Importantly, we investigate edge-friendly (lightweight) multi-objective mapping heuristics that do not become biased toward a particular application type to achieve the objectives; instead, the heuristics consider fairness across the concurrent ML applications in their mapping decisions. Performance evaluations demonstrate that the proposed heuristic outperforms widely-used heuristics in heterogeneous systems in terms of the latency and energy objectives, particularly, at low to moderate request arrival rates. We observed 8.9% improvement in on-time task completion rate and 12.6% in energy-saving without imposing any significant overhead on the edge system."
+
 - id: flexibo-automl22
   title: "Getting the Best Bang For Your Buck: Choosing What to Evaluate for Faster Bayesian Optimization"
   authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
