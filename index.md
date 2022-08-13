@@ -45,13 +45,13 @@ Prior to joining the faculty at the University of South Carolina, I was a postdo
 <table class="table table-sm">
 <tbody>
     <tr>
-        <td> <span class="label success">08/11/22</span></td>
-        <td> <a href="https://gamecockrobotics.github.io/">Gamecock Robotics</a> is now!
+        <td> <span class="label success">08/01/22</span></td>
+        <td> Three members of AISys lab at UofSC (<a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a>, <a href="https://cse.sc.edu/~mhossen/">Abir Hossen</a>, and I) will be at NASA JPL in Pasadena, CA from August 1st - August 21st. We are hosted in the Robotic Surface Mobility Group (Hari Nayar). We will be testing and evaluating the AI-based Autonomy, developed by the <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY-SI</a>, with <a href="https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/ocean-world-lander-autonomy-testbed-owlat/">Ocean World Lander Autonomy Testbed</a>. 
         </td>
     </tr>
-    <tr>
+        <tr>
         <td> <span class="label success">08/01/22</span></td>
-        <td> <a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a>, <a href="https://cse.sc.edu/~mhossen/">Abir Hossen</a>, and I will be at NASA JPL in Pasadena, CA from August 1st - August 21st. We will be testing the AI-based Autonomy that the <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY-SI</a> team has developed in the past two years. Stay tuned!
+        <td> <a href="https://gamecockrobotics.github.io/">Gamecock Robotics</a> has now a <a href="https://gamecockrobotics.github.io/">website</a>, stay tuned!
         </td>
     </tr>
     <tr>
