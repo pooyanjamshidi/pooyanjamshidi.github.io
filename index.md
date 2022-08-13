@@ -11,18 +11,18 @@ I am the director of AISys lab and an assistant professor in the computer scienc
 ``` -->
 
 ```inline
-Hey there! I am an assistant professor in computer science at UofSC. My research involves contributing to the theory of AI/ML and applying them for solving problems in:
+Hey there! I am an assistant professor in computer science at UofSC. My research involves contributing to the theory of AI/ML and applying them for solving some outstanding problems in:
 
-- Autonomous Systems and Robotics: e.g., Our work on Autonomy for Europa Space Lander in RASPBERRY-SI project, in collaboration with NASA JPL and NASA Ames.
+- Autonomous Systems and Robotics: e.g., Our work on Autonomy for space lander missions to ocean worlds, such as Europa and Enceladus. Our project,  RASPBERRY-SI, is collaboration with CMU, UArk, York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS).
 
-- Computer Systems: e.g., My work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representationas in deep neural networks via causal features for large-scale systems that rely on such represaentations for automated decision making.
+- Computer Systems (distributed, hardware-software, data-intensive pipelines): e.g., Our collaborative effors on causal reasoning for performance debugging and optimizations in systems. My work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representationas in deep neural networks via causal features for large-scale systems that rely on such represaentations for automated decision making.
 
 - Sciences and Engineering: e.g., Our work on causal learning for cancer research (collaboration with UofSC's College of Pharmacy) and optimal vaccine promotion for COVID-19 (collaboration with UofSC's College of Education). 
 
 I am, in particular, interested in the theoretical foundations of Causal Representation Learning, Adversarial ML, AutoML, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML.
 ```
 
-Prior to joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/). I received my Ph.D. from the School of Computing at [Dublin City University](https://www.dcu.ie/) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/).
+Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. (research-based) in Systems Engineering at Amirkabir University of Technology (Iran) in 2006, and my thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. (Math & Computer Science) from the same university in 2003. 
 
 <!-- * I have an ``open office`` policy (even after the pandemic!) You can book an appointment with me [here](https://meet-with-pooyan-jamshidi.appointlet.com/s/15-minute-intro/pooyan-jamshidi). -->
 
