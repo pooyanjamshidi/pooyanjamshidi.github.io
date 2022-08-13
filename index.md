@@ -24,7 +24,10 @@ I am, in particular, interested in the theoretical foundations of Causal Represe
 
 Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. (research-based) in Systems Engineering at Amirkabir University of Technology (Iran) in 2006, and my thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. (Math & Computer Science) from the same university in 2003. 
 
+### Important Links
+
 <!-- * I have an ``open office`` policy (even after the pandemic!) You can book an appointment with me [here](https://meet-with-pooyan-jamshidi.appointlet.com/s/15-minute-intro/pooyan-jamshidi). -->
+
 
 * With Valerie Issarny, I serve as program co-chair of [SEAMS'23](https://conf.researchr.org/home/seams-2023) in Melbourne, Australia. Please consider submitting your work on either [research](https://conf.researchr.org/track/seams-2023/seams-2023-research-track) or [artifact](https://conf.researchr.org/track/seams-2023/seams-2023-artifact-track) tracks. SEAMS is one of those awesome communities where you meet fascinating people doing great work to make systems of any kind autonomous and self-adaptive!
 
@@ -32,11 +35,15 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 * Want to ``work with us``? Read about [AISys Lab](/AISys/).
 
+
 * Want to ``know about AISys and our collaborators``? Here you can find all info in [one slide](/resources/docs/AISys.pdf).
 
 * Want to ``know more about our research``? Please check out our [Core](/research/) Research Areas](/research/) and [Publications](/publications/).
 
 * Want to join our weekly ``reading group``? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group).
+
+* Want to ``join our student-led robotic team at UofSC``? Read about [Gamecock Robotics](https://gamecockrobotics.github.io/).
+
 
 * Want to ``know whether I am available for AI consultancy``? Please check out our [Consultancy Services](/consultancy/).
 
