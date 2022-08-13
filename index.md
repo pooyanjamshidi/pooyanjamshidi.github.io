@@ -11,7 +11,15 @@ I am the director of AISys lab and an assistant professor in the computer scienc
 ``` -->
 
 ```inline
-Hey there! I am an assistant professor in computer science at UofSC and a visiting researcher at Google. My research involves contributing theoretical works in Causal AI and Statistical ML and applying them for solving problems in Computer Systems and a few interdisciplinary areas in sciences and engineering. I am, in particular, interested in the theoretical foundations of Causal AI, Representation Learning, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML. In particular, I am interested in Autonomous Systems, Robotics (Robot Learning), Software Systems (Highly-Configurable, Data Analytics Pipelines, Cloud-Native, Microservices, Serverless, Performance Analysis and Optimization), and Robustness of ML Systems.
+Hey there! I am an assistant professor in computer science at UofSC. My research involves contributing to the theory of AI/ML and applying them for solving problems in:
+
+- Autonomous Systems and Robotics: e.g., Our work on Autonomy for Europa Space Lander in RASPBERRY-SI project, in collaboration with NASA JPL and NASA Ames.
+
+- Computer Systems: e.g., My work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representationas in deep neural networks via causal features for large-scale systems that rely on such represaentations for automated decision making.
+
+- Sciences and Engineering: e.g., Our work on causal learning for cancer research (collaboration with UofSC's College of Pharmacy) and optimal vaccine promotion for COVID-19 (collaboration with UofSC's College of Education). 
+
+I am, in particular, interested in the theoretical foundations of Causal Representation Learning, Adversarial ML, AutoML, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML.
 ```
 
 Prior to joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/). I received my Ph.D. from the School of Computing at [Dublin City University](https://www.dcu.ie/) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/).
@@ -26,16 +34,26 @@ Prior to joining the faculty at the University of South Carolina, I was a postdo
 
 * Want to ``know about AISys and our collaborators``? Here you can find all info in [one slide](/resources/docs/AISys.pdf).
 
-* Want to ``know more about our research``? Please checkout our [Core Research Areas](/research/) and [Publications](/publications/).
+* Want to ``know more about our research``? Please check out our [Core](/research/) Research Areas](/research/) and [Publications](/publications/).
 
-* Want to joint our weekly ``reading group``? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group). 
+* Want to join our weekly ``reading group``? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group).
 
-* Want to ``know whether I am available for AI consultancy``? Please checkout our [Consultancy Services](/consultancy/).
+* Want to ``know whether I am available for AI consultancy``? Please check out our [Consultancy Services](/consultancy/).
 
-###  News
+### News
 
 <table class="table table-sm">
 <tbody>
+    <tr>
+        <td> <span class="label success">08/11/22</span></td>
+        <td> <a href="https://gamecockrobotics.github.io/">Gamecock Robotics</a> is now!
+        </td>
+    </tr>
+    <tr>
+        <td> <span class="label success">08/01/22</span></td>
+        <td> <a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a>, <a href="https://cse.sc.edu/~mhossen/">Abir Hossen</a>, and I will be at NASA JPL in Pasadena, CA from August 1st - August 21st. We will be testing the AI-based Autonomy that the <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY-SI</a> team has developed in the past two years. Stay tuned!
+        </td>
+    </tr>
     <tr>
         <td> <span class="label success">06/01/22</span></td>
         <td> Thanks, Megan, for writing <a href="https://www.sc.edu/uofsc/posts/2022/06/breakthrough_star_pooyan_jamshidi.php">a piece</a> about the UofSC breakthrough award.
@@ -63,7 +81,7 @@ Prior to joining the faculty at the University of South Carolina, I was a postdo
     </tr>
     <tr>
         <td> <span class="label success">01/10/22</span></td>
-        <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 <strong>Breakthrough Stars Award</strong></a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these was even imaginable.
+        <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 <strong>Breakthrough Stars Award</strong></a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these were even imaginable.
         </td>
     </tr>
 
@@ -126,6 +144,7 @@ Prior to joining the faculty at the University of South Carolina, I was a postdo
 <a href="/news">Older News...</a>
 
 ### Current Projects
+
 {% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
 {% include projects.html data=current %}
 
