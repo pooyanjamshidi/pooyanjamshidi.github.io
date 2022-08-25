@@ -53,40 +53,53 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <table class="table table-sm">
 <tbody>
     <tr>
+        <td> <span class="label success">08/09/21</span></td>
+        <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you! (♡). 
+        </td>
+    </tr>
+
+    <tr>
         <td> <span class="label success">08/01/22</span></td>
         <td> Three members of AISys lab at UofSC (<a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a>, <a href="https://cse.sc.edu/~mhossen/">Abir Hossen</a>, and I) will be at NASA JPL in Pasadena, CA from August 1st - August 21st. We are hosted in the Robotic Surface Mobility Group (Hari Nayar). We will be testing and evaluating the AI-based Autonomy, developed by the <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY-SI</a>, with <a href="https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/ocean-world-lander-autonomy-testbed-owlat/">Ocean World Lander Autonomy Testbed</a>. 
-        </td>
+    </td>
+
     </tr>
         <tr>
         <td> <span class="label success">08/01/22</span></td>
         <td> <a href="https://gamecockrobotics.github.io/">Gamecock Robotics</a> has now a <a href="https://gamecockrobotics.github.io/">website</a>, stay tuned!
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">06/01/22</span></td>
         <td> Thanks, Megan, for writing <a href="https://www.sc.edu/uofsc/posts/2022/06/breakthrough_star_pooyan_jamshidi.php">a piece</a> about the UofSC breakthrough award.
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">03/15/22</span></td>
         <td> <a href="https://dl.acm.org/doi/10.1145/3492321.3519575">Unicorn</a>  was awarded the <strong>Available, Functional, and Reproducible badges</strong> from EuroSys'22, thanks to dedicated work by Shahriar as well as excellent collaborators, Rahul Krishna, Mohammad Ali Javidian, and Baishakhi Ray. Since we benefited a lot by learning from previous rejections of this work, and therefore, to help other awesome researchers in our community, we release all <a href="https://github.com/softsys4ai/unicorn">reviews and rebuttal</a>.
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">01/30/22</span></td>
         <td> I am so delighted that <a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a> has joined AISys as a <strong>postdoc</strong>; She will be working on Causal AI for Autonomous Systems. Welcome, Sonam!
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">01/22/22</span></td>
         <td> UofSC's College of Engineering and Computing <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/research_intends_to_develop_a_shift_in_testing_and_debugging_for_modern_machine_learning_systems.php">published an <strong>interview</strong></a> about our <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">NSF project on Causal AI for Systems</a>.
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">01/10/22</span></td>
         <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been accepted <strong>EuroSys'22</strong>; We are grateful to all who provided feedback on this work, including Christian Kaestner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius Durschmied, and the anonymous Eurosys'21&22 reviewers.
         </td>
     </tr>
+    
     <tr>
         <td> <span class="label success">01/10/22</span></td>
         <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 <strong>Breakthrough Stars Award</strong></a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these were even imaginable.

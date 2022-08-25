@@ -10,26 +10,49 @@ group: news
 
 <table class="table table-sm">
 <tbody>
+    
+    <tr>
+        <td> <span class="label success">08/09/21</span></td>
+        <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you! (♡). 
+        </td>
+    </tr>
+
+    <tr>
+        <td> <span class="label success">08/01/22</span></td>
+        <td> Three members of AISys lab at UofSC (<a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a>, <a href="https://cse.sc.edu/~mhossen/">Abir Hossen</a>, and I) will be at NASA JPL in Pasadena, CA from August 1st - August 21st. We are hosted in the Robotic Surface Mobility Group (Hari Nayar). We will be testing and evaluating the AI-based Autonomy, developed by the <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY-SI</a>, with <a href="https://www-robotics.jpl.nasa.gov/how-we-do-it/systems/ocean-world-lander-autonomy-testbed-owlat/">Ocean World Lander Autonomy Testbed</a>. 
+        </td>
+    </tr>
+    
+    <tr>
+        <td> <span class="label success">08/01/22</span></td>
+        <td> <a href="https://gamecockrobotics.github.io/">Gamecock Robotics</a> has now a <a href="https://gamecockrobotics.github.io/">website</a>, stay tuned!
+        </td>
+    </tr>
+
     <tr>
         <td> <span class="label success">06/01/22</span></td>
         <td> Thanks, Megan, for writing <a href="https://www.sc.edu/uofsc/posts/2022/06/breakthrough_star_pooyan_jamshidi.php">a piece</a> about the UofSC breakthrough award.
         </td>
     </tr>
+    
     <tr>
         <td> <span class="label success">03/15/22</span></td>
         <td> <a href="https://dl.acm.org/doi/10.1145/3492321.3519575">Unicorn</a>  was awarded the Available, Functional, and Reproducible badges from EuroSys'22, thanks to dedicated work by Shahriar as well as excellent collaborators, Rahul Krishna, Mohammad Ali Javidian, and Baishakhi Ray. Since we benefited a lot by learning from previous rejections of this work, and therefore, to help other awesome researchers in our community, we release all <a href="https://github.com/softsys4ai/unicorn">reviews and rebuttal</a>.
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">01/30/22</span></td>
         <td> I am so delighted that <a href="https://sites.google.com/ee.vjti.ac.in/kharadesonam/home">Sonam Kharde</a> has joined AISys as a <strong>postdoc</strong>; She will be working on Causal AI for Autonomous Systems. Welcome, Sonam!
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">01/22/22</span></td>
         <td> UofSC's College of Engineering and Computing <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/research_intends_to_develop_a_shift_in_testing_and_debugging_for_modern_machine_learning_systems.php">published an <strong>interview</strong></a> about our <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">NSF project on Causal AI for Systems</a>.
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">01/10/22</span></td>
         <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been accepted <strong>EuroSys'22</strong>; We are grateful to all who provided feedback on this work, including Christian Kaestner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius Durschmied, and the anonymous Eurosys'21&22 reviewers.
@@ -113,6 +136,7 @@ group: news
         <td> We have a website for <a href="https://pooyanjamshidi.github.io/csce212/">CSCE 212: Introduction to Computer Architecture</a> that I teach this semester.
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">01/15/21</span></td>
         <td> <a href="https://arxiv.org/abs/2101.05362">White-Box Analysis over Machine Learning: Modeling Performance of Configurable Systems</a> will appear at <a href="https://conf.researchr.org/details/icse-2021/icse-2021-papers/33/White-Box-Analysis-over-Machine-Learning-Modeling-Performance-of-Configurable-System">ICSE'21</a>. Congratulations <a href="http://www.cs.cmu.edu/~mvelezce/">Miguel Velez</a>!
@@ -136,6 +160,7 @@ group: news
         <td> Vijay Chidambaram (UT Austin), Neeraja Yadwadkar (Stanford), Ivo Jimenez (UC Santa Cruz), and Romain Jacob (ETH Zurich), and I launched  <a href="http://jsys.org/">JSys (Journal of Systems Research)</a>&mdash;a new diamond open-access journal for the systems community.
         </td>
     </tr>
+
     <tr>
         <td> <span class="label success">11/06/20</span></td>
         <td> An interview on <a href="http://uofsccec.com/AI_in_Space">AI in Space</a> about our recent NASA <a href="https://nasa-raspberry-si.github.io/raspberry-si/">RASPBERRY SI</a> project.
@@ -162,6 +187,7 @@ group: news
         <td> <span class="label success">08/20/20</span></td>
         <td>I am so honored to join the <strong>ACM TOSEM Board of Distinguished Reviewers</strong>, I am so thankful to the anonymous associate editor(s) who nominated me for this exciting role!</td>
     </tr>
+    
     <tr>
         <td> <span class="label success">08/04/20</span></td>
         <td>I am thrilled that our project, <strong>Autonomous Robotics Research for Ocean Worlds (ARROW)</strong>, has been awarded by <strong>NASA</strong>. This exciting project is lead by UofSC, in collaboration with CMU, York, Arkansas, and NASA.</td>
