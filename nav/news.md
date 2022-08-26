@@ -13,7 +13,7 @@ group: news
     
     <tr>
         <td> <span class="label success">08/09/21</span></td>
-        <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you! (♡). 
+        <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you! ♡. 
         </td>
     </tr>
 
@@ -85,19 +85,19 @@ group: news
 
     <tr>
         <td> <span class="label success">08/09/21</span></td>
-        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">Causal Performance Debugging for Highly-Configurable Systems</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative project on <a href="https://arxiv.org/abs/2201.08413">Causal AI for Systems</a> with <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kaestner</a> (CMU) and <a href="https://www.rayb.info/">Baishakhi Ray</a> (Columbia) with total funding of $1,200,000.
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">Causal Performance Debugging for Highly-Configurable Systems</a> has been funded by <strong>NSF</strong> ♡. This is a collaborative project on <a href="https://arxiv.org/abs/2201.08413">Causal AI for Systems</a> with <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kaestner</a> (CMU) and <a href="https://www.rayb.info/">Baishakhi Ray</a> (Columbia) with total funding of $1,200,000.
         </td>
     </tr>
 
     <tr>
         <td> <span class="label success">07/29/21</span></td>
-        <td> We have released a <a href="https://youtu.be/gQo65RXnOqs">demo</a> about our <a href="https://nasa-raspberry-si.github.io/raspberry-si/">NASA RASPBERRY-SI</a> project on AI-based autonomy for Europa Lander to find life in Jupiter's moon Europa; thanks, <strong>NASA</strong> (♡). 
+        <td> We have released a <a href="https://youtu.be/gQo65RXnOqs">demo</a> about our <a href="https://nasa-raspberry-si.github.io/raspberry-si/">NASA RASPBERRY-SI</a> project on AI-based autonomy for Europa Lander to find life in Jupiter's moon Europa; thanks, <strong>NASA</strong> ♡. 
         </td>
     </tr>
     
     <tr>
         <td> <span class="label success">06/22/21</span></td>
-        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative training project with my genious colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and ML</strong>.
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> ♡. This is a collaborative training project with my genious colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and ML</strong>.
         </td>
     </tr>
 
@@ -187,10 +187,10 @@ group: news
         <td> <span class="label success">08/20/20</span></td>
         <td>I am so honored to join the <strong>ACM TOSEM Board of Distinguished Reviewers</strong>, I am so thankful to the anonymous associate editor(s) who nominated me for this exciting role!</td>
     </tr>
-    
+
     <tr>
         <td> <span class="label success">08/04/20</span></td>
-        <td>I am thrilled that our project, <strong>Autonomous Robotics Research for Ocean Worlds (ARROW)</strong>, has been awarded by <strong>NASA</strong>. This exciting project is lead by UofSC, in collaboration with CMU, York, Arkansas, and NASA.</td>
+        <td>I am thrilled that our project, <strong>Autonomous Robotics Research for Ocean Worlds (ARROW)</strong>, has been awarded by <strong>NASA</strong>. This exciting project is led by UofSC, in collaboration with CMU, York, Arkansas, and NASA.</td>
     </tr>
 
     <tr>
@@ -201,11 +201,6 @@ group: news
     <tr>
         <td> <span class="label success">05/14/20</span></td>
         <td>"Learning LWF Chain Graphs: A Markov Blanket Discovery Approach" was accepted at <strong>UAI 2020</strong>. Congratulations <a href="/AISys/#javidian">Mohammad Ali Javidian</a>! </td>
-    </tr>
-
-    <tr>
-        <td> <span class="label success">05/13/20</span></td>
-        <td>I was invited to serve on a <strong>NSF panel</strong> (CISE/IIS). Thanks NSF! </td>
     </tr>
 
     <tr>

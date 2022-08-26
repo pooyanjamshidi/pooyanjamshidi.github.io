@@ -7,23 +7,23 @@ group: research
 
 
 <!-- ```inline
-I am the director of AISys lab and an assistant professor in the computer science and engineering department at UofSC and a visiting researcher at Google. My research involves designing novel algorithmic, theoretically principled, and trustworthy artificial intelligence and machine learning methods and applying the theories to problems in computer systems, software engineering, robotics, self-adaptive and autonomous systems, on-device machine learning, cloud-based and serverless systems, big data analytics pipelines, and healthcare. I am, in particular, interested in transfer learning, optimization, causal/deep representation learning, security and explainability, reinforcement learning, causal AI, as well as several areas in computer systems research, including performance, configuration, computer architecture. I teach a variety of courses, including machine learning systems, artificial intelligence, and computer architecture.
+I am the director of the AISys lab and an assistant professor in the computer science and engineering department at UofSC and a visiting researcher at Google. My research involves designing novel algorithmic, theoretically principled, and trustworthy artificial intelligence and machine learning methods and applying the theories to problems in computer systems, software engineering, robotics, self-adaptive and autonomous systems, on-device machine learning, cloud-based and serverless systems, big data analytics pipelines, and healthcare. I am, in particular, interested in transfer learning, optimization, causal/deep representation learning, security and explainability, reinforcement learning, causal AI, as well as several areas in computer systems research, including performance, configuration, and computer architecture. I teach a variety of courses, including machine learning systems, artificial intelligence, and computer architecture.
 ``` -->
 
 ```inline
-Hey there! I am an assistant professor in computer science at UofSC. My research involves contributing to the theory of AI/ML and applying them for solving some outstanding problems in:
+Hey there! I am an assistant professor in computer science at UofSC. My research involves advancing the state-of-the-art in AI/ML by developing novel algorithms and methods for solving some outstanding problems in:
 
-- Autonomous Systems and Robotics: e.g., (i) Our work on Autonomy for space lander missions to ocean worlds, such as Europa and Enceladus. Our project,  RASPBERRY-SI, is collaboration with CMU, UArk, York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS). (ii) our recent project on developing a framework for designing Modular Autonomy on ROS (MARS).
+- Autonomous Systems and Robotics: e.g., (i) Our work on Autonomy for space lander missions to the Ocean Worlds, such as Europa and Enceladus. Our project,  RASPBERRY-SI, is collaboration with CMU, UArk, York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS). (ii) our recent project on developing a framework for designing Modular Autonomy on ROS (MARS).
 
 
-- Computer Systems (Distributed, Hardware-Software, Data-intensive Pipelines): e.g., (i) Our work on causal reasoning for performance debugging and optimizations in systems in collaboration with CMU and Columbia University. (ii) my work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representationas in deep neural networks via causal features for large-scale systems that rely on such represaentations for automated decision making.
+- Computer Systems (Distributed, Hardware-Software, Data-intensive Pipelines): e.g., (i) Our work on causal reasoning for performance debugging and optimizations in systems in collaboration with Christian Kaestner (CMU) and Baishakhi Ray (Columbia). (ii) my work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representationas in deep neural networks via causal features for large-scale systems that rely on such represaentations for automated decision making.
 
-- Sciences and Engineering: e.g., (i) Our work on causal learning for cancer research (collaboration with UofSC's College of Pharmacy) and (ii) Optimal vaccine promotion for COVID-19 (collaboration with UofSC's College of Education). 
+- Sciences and Engineering: e.g., (i) Our collaborative work on causal learning for cancer research in collaboration with Phillip Buckhaults (UofSC's College of Pharmacy) and Optimal vaccine promotion for COVID-19 in collaboration with Gregory Trevors (UofSC's College of Education). (ii) Our collaborative work on deep learning for symbolic mathematics in collaboration with Kallol Roy (University of Estonia).
 
 I am, in particular, interested in the theoretical foundations of Causal Representation Learning, Adversarial ML, AutoML, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML.
 ```
 
-Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. (research-based) in Systems Engineering at [Amirkabir University of Technology](https://aut.ac.ir/en/) (Iran) in 2006, and my master's thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. (Math & Computer Science) from the same university in 2003. 
+Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. degree (research-based) in Systems Engineering from [Amirkabir University of Technology](https://aut.ac.ir/en/) (Iran) in 2006, and my master's thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. degree in Math & Computer Science from Amirkabir University of Technology in 2003. 
 
 ### Important Links
 
@@ -54,7 +54,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
     <tr>
         <td> <span class="label success">08/09/21</span></td>
-        <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you! (♡). 
+        <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded. Thank you, NSF! ♡. 
         </td>
     </tr>
 
@@ -99,7 +99,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
         <td> <a href="https://pooyanjamshidi.github.io/resources/papers/unicorn-eurosys22.pdf">Unicorn</a> has been accepted <strong>EuroSys'22</strong>; We are grateful to all who provided feedback on this work, including Christian Kaestner, Sven Apel, Yuriy Brun, Emery Berger, Tianyin Xu, Vivek Nair, Jianhai Su, Miguel Velez, Tobius Durschmied, and the anonymous Eurosys'21&22 reviewers.
         </td>
     </tr>
-    
+
     <tr>
         <td> <span class="label success">01/10/22</span></td>
         <td> I am honored and humbled to be among the recipient of <a href="https://www.sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2022/2022_Breakthrough_Awards_Announcement.php">UofSC's 2022 <strong>Breakthrough Stars Award</strong></a>. I owe this recognition to so many people, including brilliant graduate students and postdocs at AISys, my colleagues at UofSC, my collaborators around the globe, and my dear family without their support none of these were even imaginable.
@@ -126,19 +126,19 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
         <tr>
         <td> <span class="label success">08/09/21</span></td>
-        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">Causal Performance Debugging for Highly-Configurable Systems</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative project on <a href="https://arxiv.org/abs/2201.08413">Causal AI for Systems</a> with <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kaestner</a> (CMU) and <a href="https://www.rayb.info/">Baishakhi Ray</a> (Columbia) with total funding of $1,200,000.
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107463">Causal Performance Debugging for Highly-Configurable Systems</a> has been funded by <strong>NSF</strong> ♡. This is a collaborative project on <a href="https://arxiv.org/abs/2201.08413">Causal AI for Systems</a> with <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kaestner</a> (CMU) and <a href="https://www.rayb.info/">Baishakhi Ray</a> (Columbia) with total funding of $1,200,000.
         </td>
     </tr>
 
     <tr>
         <td> <span class="label success">07/29/21</span></td>
-        <td> We have released a <a href="https://youtu.be/gQo65RXnOqs">demo</a> about our <a href="https://nasa-raspberry-si.github.io/raspberry-si/">NASA RASPBERRY-SI</a> project on AI-based autonomy for Europa Lander to find life in Jupiter's moon Europa; thanks, <strong>NASA</strong> (♡). 
+        <td> We have released a <a href="https://youtu.be/gQo65RXnOqs">demo</a> about our <a href="https://nasa-raspberry-si.github.io/raspberry-si/">NASA RASPBERRY-SI</a> project on AI-based autonomy for Europa Lander to find life in Jupiter's moon Europa; thanks, <strong>NASA</strong> ♡. 
         </td>
     </tr>
     
     <tr>
         <td> <span class="label success">06/22/21</span></td>
-        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> (♡). This is a collaborative training project with my genius colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and ML</strong>.
+        <td> I am thrilled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2038080">RTG: Mathematical Foundation of Data Science at University of South Carolina</a> has been funded by <strong>NSF</strong> ♡. This is a collaborative training project with my genius colleagues in mathematics, <a href="https://scholar.google.com/citations?user=nzJx8JEAAAAJ&hl=en">Wolfgang Dahmen</a>, <a href="https://people.math.sc.edu/lu/">Linyuan  Lu (PI)</a> <a href="https://people.math.sc.edu/wuchen/index.html">Wuchen  Li</a>, and <a href="https://people.math.sc.edu/wangq/">Qi Wang</a>, on the <strong>Mathematical Foundation of AI and ML</strong>.
         </td>
     </tr>
 
