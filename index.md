@@ -15,7 +15,6 @@ Hey there! I am an assistant professor in computer science at UofSC. My research
 
 - Autonomous Systems and Robotics: e.g., (i) Our work on Autonomy for space lander missions to the Ocean Worlds, such as Europa and Enceladus. Our project,  RASPBERRY-SI, is collaboration with CMU, UArk, York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS). (ii) our recent project on developing a framework for designing Modular Autonomy on ROS (MARS).
 
-
 - Computer Systems (Distributed, Hardware-Software, Data-intensive Pipelines): e.g., (i) Our work on causal reasoning for performance debugging and optimizations in systems in collaboration with Christian Kaestner (CMU) and Baishakhi Ray (Columbia). (ii) my work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representationas in deep neural networks via causal features for large-scale systems that rely on such represaentations for automated decision making.
 
 - Sciences and Engineering: e.g., (i) Our collaborative work on causal learning for cancer research in collaboration with Phillip Buckhaults (UofSC's College of Pharmacy) and Optimal vaccine promotion for COVID-19 in collaboration with Gregory Trevors (UofSC's College of Education). (ii) Our collaborative work on deep learning for symbolic mathematics in collaboration with Kallol Roy (University of Estonia).
