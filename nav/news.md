@@ -10,9 +10,13 @@ group: news
 
 <table class="table table-sm">
 <tbody>
-    
     <tr>
-        <td> <span class="label success">08/09/21</span></td>
+        <td> <span class="label success">08/30/22</span></td>
+        <td> A new version of <a href="https://arxiv.org/pdf/2001.06588.pdf">FlexiBO</a>, a Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks, with some new proofs and connections with multi-objective optimization theory is on ArXiv! Well done, Shahriar! 
+        </td>
+    </tr>
+    <tr>
+        <td> <span class="label success">08/09/22</span></td>
         <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you! ♡. 
         </td>
     </tr>
