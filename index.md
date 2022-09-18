@@ -53,7 +53,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
     <tr>
         <td> <span class="label success">08/30/22</span></td>
-        <td> A new version of <a href="https://arxiv.org/pdf/2001.06588.pdf">FlexiBO</a>, a <strong>Decoupled Cost-Aware Multi-Objective Optimization</strong> Approach for Deep Neural Networks, with some new proofs and connections with multi-objective optimization theory is on ArXiv! Well done, Shahriar! 
+        <td> A new version of <a href="https://arxiv.org/pdf/2001.06588.pdf">FlexiBO</a>, a <strong>Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks</strong>, with some new proofs is on ArXiv! Well done, Shahriar! 
         </td>
     </tr>
     <tr>
