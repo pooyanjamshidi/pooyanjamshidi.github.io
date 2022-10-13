@@ -1,3 +1,11 @@
+- id: causal-ai-jpl
+  title: "Understanding and Explaining the Root Causes of Performance Faults with Causal AI: A Path towards Building Dependable Computer Systems"
+  where: "NASA JPL"
+  year: 2022
+  month: July
+  url: https://speakerdeck.com/pjamshidi/understanding-and-explaining-the-root-causes-of-performance-faults-with-causal-ai-a-path-towards-building-dependable-computer-systems
+  video: 
+
 - id: explore-csr
   title: "Causal AI for Systems"
   where: "exploreCSR: Democratizing AI"
