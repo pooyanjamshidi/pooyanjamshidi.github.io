@@ -1,3 +1,11 @@
+- id: oktoberbest
+  title: "Experiential Learning by Building Real-World AI Systems"
+  where: "UofSC"
+  year: 2022
+  month: October
+  url: https://speakerdeck.com/pjamshidi/experiential-learning-by-building-real-world-ai-systems
+  video: 
+
 - id: causal-ai-jpl
   title: "Understanding and Explaining the Root Causes of Performance Faults with Causal AI: A Path towards Building Dependable Computer Systems"
   where: "NASA JPL"
