@@ -11,39 +11,37 @@ I am the director of the AISys lab and an assistant professor in the computer sc
 ``` -->
 
 ```inline
-Hey there! I am an assistant professor in computer science at UofSC. My research involves advancing the state-of-the-art in AI/ML by developing novel algorithms and methods for solving some outstanding problems in:
+Hey there! Thanks for being here! I am an assistant professor in computer science at UofSC. My research involves advancing the state-of-the-art in AI/ML by developing novel algorithms and methods for solving some outstanding problems in:
 
-- Autonomous Systems and Robotics: e.g., (i) Our work on Autonomy for space lander missions to the Ocean Worlds, such as Europa and Enceladus. Our project,  RASPBERRY-SI, is collaboration with CMU, UArk, York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS). (ii) our recent project on developing a framework for designing Modular Autonomy on ROS (MARS).
+- Autonomous Systems and Robotics: e.g., (i) Our work on Autonomy for space lander missions to the Ocean Worlds, such as Europa and Enceladus. Our project,  RASPBERRY-SI, in collaboration with CMU, UArk,  the University of York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS). (ii) our recent project on developing a framework for designing Modular Autonomy on ROS (MARS).
 
-- Computer Systems (Distributed, Hardware-Software, Data-intensive Pipelines): e.g., (i) Our work on causal reasoning for performance debugging and optimizations in systems in collaboration with Christian Kaestner (CMU) and Baishakhi Ray (Columbia). (ii) my work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representationas in deep neural networks via causal features for large-scale systems that rely on such represaentations for automated decision making.
+- Computer Systems (Distributed, Hardware-Software, Data-intensive Pipelines): e.g., (i) Our work on causal reasoning for performance debugging and optimizations in systems in collaboration with Christian Kaestner (CMU) and Baishakhi Ray (Columbia). (ii) my work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representation in deep neural networks via causal features for large-scale systems that rely on such representations for automated decision-making.
 
 - Sciences and Engineering: e.g., (i) Our collaborative work on causal learning for cancer research in collaboration with Phillip Buckhaults (UofSC's College of Pharmacy) and Optimal vaccine promotion for COVID-19 in collaboration with Gregory Trevors (UofSC's College of Education). (ii) Our collaborative work on deep learning for symbolic mathematics in collaboration with Kallol Roy (University of Estonia).
 
-I am, in particular, interested in the theoretical foundations of Causal Representation Learning, Adversarial ML, AutoML, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML.
+I am particularly interested in the theoretical foundations of Causal Representation Learning, Adversarial ML, AutoML, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML.
 ```
 
-Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA) working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a post-doc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland) and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. degree (research-based) in Systems Engineering from [Amirkabir University of Technology](https://aut.ac.ir/en/) (Iran) in 2006, and my master's thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. degree in Math & Computer Science from Amirkabir University of Technology in 2003. 
+Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA), working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a postdoc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland), and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. degree (research-based) in Systems Engineering from [Amirkabir University of Technology](https://aut.ac.ir/en/) (Iran) in 2006, and my master's thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. degree in Math & Computer Science from the Amirkabir University of Technology in 2003. 
 
 ### Important Links
 
 <!-- * I have an ``open office`` policy (even after the pandemic!) You can book an appointment with me [here](https://meet-with-pooyan-jamshidi.appointlet.com/s/15-minute-intro/pooyan-jamshidi). -->
 
 
-* With Valerie Issarny, I serve as program co-chair of [SEAMS'23](https://conf.researchr.org/home/seams-2023) in Melbourne, Australia. Please consider submitting your work on either [research](https://conf.researchr.org/track/seams-2023/seams-2023-research-track) or [artifact](https://conf.researchr.org/track/seams-2023/seams-2023-artifact-track) tracks. SEAMS is one of those awesome communities where you meet fascinating people doing great work to make systems of any kind autonomous and self-adaptive!
+* With Valerie Issarny, I serve as program co-chair of [SEAMS'23](https://conf.researchr.org/home/seams-2023) in Melbourne, Australia. Please consider submitting your work on either [research](https://conf.researchr.org/track/seams-2023/seams-2023-research-track) or [artifact](https://conf.researchr.org/track/seams-2023/seams-2023-artifact-track) tracks. SEAMS is one of those incredible communities where you meet fascinating people doing great work to make systems of any kind autonomous and self-adaptive!
 
 * With Vijay Chidambaram, Romain Jacob, Neeraja J. Yadwadkar, and Ivo Jimenez, we co-founded [JSys](http://jsys.org/)---a new diamond open-access journal for the systems community. I also co-chair two areas at JSys: Computer Architecture (with Devashree Tripathy) and Configuration Management (with Tianyin Xu). So please consider submitting your research work to JSys!
 
 * Want to ``work with us``? Read about [AISys Lab](/AISys/).
 
-
 * Want to ``know about AISys and our collaborators``? Here you can find all info in [one slide](/resources/docs/AISys.pdf).
 
 * Want to ``know more about our research``? Please check out our [Core](/research/) Research Areas](/research/) and [Publications](/publications/).
 
-* Want to join our weekly ``reading group``? Read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group).
+* Want to join our weekly ``reading group``? Please read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group).
 
 * Want to ``join our student-led robotic team at UofSC``? Read about [Gamecock Robotics](https://gamecockrobotics.github.io/).
-
 
 * Want to ``know whether I am available for AI consultancy``? Please check out our [Consultancy Services](/consultancy/).
 
