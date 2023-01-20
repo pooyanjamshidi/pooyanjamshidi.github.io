@@ -49,6 +49,11 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 <table class="table table-sm">
 <tbody>
+        <tr>
+        <td> <span class="label success">01/19/23</span></td>
+        <td> <a href="https://arxiv.org/pdf/2301.07690.pdf">CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots</a> is on ArXiv. Well done, Abir and Sonam! so proud of this work ♡.
+        </td>
+    </tr>
     <tr>
         <td> <span class="label success">08/30/22</span></td>
         <td> A new version of <a href="https://arxiv.org/pdf/2001.06588.pdf">FlexiBO</a>, a <strong>Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks</strong>, with some new proofs is on ArXiv! Well done, Shahriar! 
