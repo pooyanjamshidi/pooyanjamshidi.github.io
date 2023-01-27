@@ -5,6 +5,14 @@
 #   papers:
 #   description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
 
+- name: "Sustainable ML Pipelines"
+  id: sustainable-ml-pipeline
+  start: 2022
+  members: ghafouri
+  papers: 
+  description:  "In this collaborative project, we develop infrastructure, runtime methods, and tools to enable performance optimization of ML inference pipelines by structure reconfiguration, resource adaptations, model switching, and configuration optimization. This project is in collaboration with USC (US), Queens Marry (UK), Roblox (US), Telefonica Research (Spain), and Seldon Technologies (UK). It is one of the projects in my group related to Design for Sustainability in Computing."
+  webpage: https://github.com/reconfigurable-ml-pipeline 
+
 - name: "AI for Symbolic Math"
   id: ai-math
   start: 2021
