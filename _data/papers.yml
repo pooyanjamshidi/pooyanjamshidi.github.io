@@ -1,3 +1,20 @@
+- id: contrastive-empirical
+  title: "On the Role of Contrastive Representation Learning in Adversarial Robustness: An Empirical Study"
+  authors: Fatemeh Ghofrani, Mehdi Yaghouti, Pooyan Jamshidi
+  venue: Arxiv
+  venue_abb:
+  acc_rate:
+  year: 2023
+  url: https://arxiv.org/abs/2302.02502v1
+  code: https://github.com/softsys4ai/cl-robustness
+  video:
+  slide:
+  important: 
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Self-supervised contrastive learning has solved one of the significant obstacles in deep learning by alleviating the annotation cost. This advantage comes with the price of false negative-pair selection without any label information. Supervised contrastive learning has emerged as an extension of contrastive learning to eliminate this issue. However, aside from accuracy, there is a lack of understanding about the impacts of adversarial training on the representations learned by these learning schemes. In this work, we utilize supervised learning as a baseline to comprehensively study the robustness of contrastive and supervised contrastive learning under different adversarial training scenarios. Then, we begin by looking at how adversarial training affects the learned representations in hidden layers, discovering more redundant representations between layers of the model. Our results on CIFAR-10 and CIFAR-100 image classification benchmarks demonstrate that this redundancy is highly reduced by adversarial fine-tuning applied to the contrastive learning scheme, leading to more robust representations. However, adversarial fine-tuning is not very effective for supervised contrastive learning and supervised learning schemes."
+
 - id: care
   title: "CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots"
   authors: Md Abir Hossen, Sonam Kharade, Bradley Schmerl, Javier Cámara, Jason M. O'Kane, Ellen C. Czaplinski, Katherine A. Dzurilla, David Garlan, and Pooyan Jamshidi
