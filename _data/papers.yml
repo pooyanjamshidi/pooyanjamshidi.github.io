@@ -1,3 +1,14 @@
+- id: flexibo-jair
+  title: "FlexiBO: A Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks"
+  authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
+  venue: Journal of Artificial Intelligence Research
+  venue_abb: JAIR
+  year: 2023
+  code: https://github.com/softsys4ai/FlexiBO
+  url: https://arxiv.org/abs/2001.06588
+  important: 1
+  abstract: "The design of machine learning systems often requires trading off different objectives, for example, prediction error and energy consumption for deep neural networks (DNNs). Typically, no single design performs well in all objectives; therefore, finding Pareto-optimal designs is of interest. The search for Pareto-optimal designs involves evaluating designs in an iterative process, and the measurements are used to evaluate an acquisition function that guides the search process. However, measuring different objectives incurs different costs. For example, the cost of measuring the prediction error of DNNs is orders of magnitude higher than that of measuring the energy consumption of a pre-trained DNN, as it requires re-training the DNN. Current state-of-the-art methods do not consider this difference in objective evaluation cost, potentially incurring expensive evaluations of objective functions in the optimization process. In this paper, we develop a novel decoupled and cost-aware multi-objective optimization algorithm, we call Flexible Multi-Objective Bayesian Optimization (FlexiBO) to address this issue. FlexiBO weights the improvement of the hypervolume of the Pareto region by the measurement cost of each objective to balance the expense of collecting new information with the knowledge gained through objective evaluations, preventing us from performing expensive measurements for little to no gain. We evaluate FlexiBO on seven state-of-the-art DNNs for image recognition, natural language processing (NLP), and speech-to-text translation. Our results indicate that, given the same total experimental budget, FlexiBO discovers designs with 4.8% to 12.4% lower hypervolume error than the best method in state-of-the-art multi-objective optimization."
+
 - id: contrastive-empirical
   title: "On the Role of Contrastive Representation Learning in Adversarial Robustness: An Empirical Study"
   authors: Fatemeh Ghofrani, Mehdi Yaghouti, Pooyan Jamshidi
@@ -244,15 +255,15 @@
   url: https://doi.org/10.1039/D0CP00972E
   abstract: "High throughput experimentation in heterogeneous catalysis provides an efficient solution to the generation of large datasets under reproducible conditions. Knowledge extraction from these datasets has mostly been performed using statistical methods, targeting the optimization of catalyst formulations. The combination of advanced machine learning methodologies with high-throughput experimentation has enormous potential to accelerate the predictive discovery of novel catalyst formulations that do not exist with current statistical design of experiments. This perspective describes selective examples ranging from statistical design of experiments for catalyst synthesis to genetic algorithms applied to catalyst optimization, and finally random forest machine learning using experimental data for the discovery of novel catalysts. Lastly, this perspective also provides an outlook on advanced machine learning methodologies as applied to experimental data for materials discovery."
 
-- id: flexibo
-  title: "FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks"
-  authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
-  venue: Arxiv
-  year: 2020
-  code: https://github.com/softsys4ai/FlexiBO
-  url: https://arxiv.org/abs/2001.06588
-  important: 1
-  abstract: "One of the key challenges in designing machine learning systems is to determine the right balance amongst several objectives, which also oftentimes are incommensurable and conflicting. For example, when designing deep neural networks (DNNs), one often has to trade-off between multiple objectives, such as accuracy, energy consumption, and inference time. Typically, there is no single configuration that performs equally well for all objectives. Consequently, one is interested in identifying Pareto-optimal designs. Although different multi-objective optimization algorithms have been developed to identify Pareto-optimal configurations, state-of-the-art multi-objective optimization methods do not consider the different evaluation costs attending the objectives under consideration. This is particularly important for optimizing DNNs: the cost arising on account of assessing the accuracy of DNNs is orders of magnitude higher than that of measuring the energy consumption of pre-trained DNNs. We propose FlexiBO, a flexible Bayesian optimization method, to address this issue. We formulate a new acquisition function based on the improvement of the Pareto hyper-volume weighted by the measurement cost of each objective. Our acquisition function selects the next sample and objective that provides maximum information gain per unit of cost. We evaluated FlexiBO on 7 state-of-the-art DNNs for object detection, natural language processing, and speech recognition. Our results indicate that, when compared to other state-of-the-art methods across the 7 architectures we tested, the Pareto front obtained using FlexiBO has, on average, a 28.44% higher contribution to the true Pareto front and achieves 25.64% better diversity."
+# - id: flexibo
+#   title: "FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks"
+#   authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
+#   venue: Arxiv
+#   year: 2020
+#   code: https://github.com/softsys4ai/FlexiBO
+#   url: https://arxiv.org/abs/2001.06588
+#   important: 1
+#   abstract: "One of the key challenges in designing machine learning systems is to determine the right balance amongst several objectives, which also oftentimes are incommensurable and conflicting. For example, when designing deep neural networks (DNNs), one often has to trade-off between multiple objectives, such as accuracy, energy consumption, and inference time. Typically, there is no single configuration that performs equally well for all objectives. Consequently, one is interested in identifying Pareto-optimal designs. Although different multi-objective optimization algorithms have been developed to identify Pareto-optimal configurations, state-of-the-art multi-objective optimization methods do not consider the different evaluation costs attending the objectives under consideration. This is particularly important for optimizing DNNs: the cost arising on account of assessing the accuracy of DNNs is orders of magnitude higher than that of measuring the energy consumption of pre-trained DNNs. We propose FlexiBO, a flexible Bayesian optimization method, to address this issue. We formulate a new acquisition function based on the improvement of the Pareto hyper-volume weighted by the measurement cost of each objective. Our acquisition function selects the next sample and objective that provides maximum information gain per unit of cost. We evaluated FlexiBO on 7 state-of-the-art DNNs for object detection, natural language processing, and speech recognition. Our results indicate that, when compared to other state-of-the-art methods across the 7 architectures we tested, the Pareto front obtained using FlexiBO has, on average, a 28.44% higher contribution to the true Pareto front and achieves 25.64% better diversity."
 
 - id: self-adaptive-microservices
   title: "Developing Self-Adaptive Microservice Systems: Challenges and Directions"
