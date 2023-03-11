@@ -49,12 +49,16 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 <table class="table table-sm">
 <tbody>
+    <tr>
+        <td> <span class="label success">03/11/23</span></td>
+        <td> <a href="https://arxiv.org/pdf/2001.06588.pdf">FlexiBO</a>, a <strong>Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks</strong>, has been accepted for publication in the Journal of Artificial Intelligence Research (JAIR)! Well done, Shahriar! 
+        </td>
+    </tr>
         <tr>
         <td> <span class="label success">01/20/23</span></td>
         <td> Shahriar Iqbal successfully defended his Ph.D. proposal, entitled Performance Modeling, Debugging, and Optimization of Highly Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective. Well done, Shahriar ♡.
         </td>
     </tr>
-
         <tr>
         <td> <span class="label success">01/19/23</span></td>
         <td> <a href="https://arxiv.org/pdf/2301.07690.pdf">CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots</a> is on ArXiv. Well done, Abir and Sonam! so proud of this work ♡.
