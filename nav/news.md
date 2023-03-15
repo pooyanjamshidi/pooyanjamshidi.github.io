@@ -11,16 +11,20 @@ group: news
 <table class="table table-sm">
 <tbody>
     <tr>
-        <td> <span class="label success">03/11/23</span></td>
-        <td> <a href="https://arxiv.org/pdf/2001.06588.pdf">FlexiBO</a>, a <strong>Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks</strong>, has been accepted for publication in the Journal of Artificial Intelligence Research (JAIR)! Well done, Shahriar! 
+        <td> <span class="label success">03/15/23</span></td>
+        <td> A new version of <a href="https://arxiv.org/abs/2110.03501">Pretrained Language Models are Symbolic Mathematics Solvers too!</a>, with some new experimental results and theory is on ArXiv! Thanks for the great work led by Kimia Noorbakhsh and Kallol Roy!
         </td>
     </tr>
     <tr>
-        <td> <span class="label success">01/20/23</span></td>
-        <td> Shahriar Iqbal successfully defended his Ph.D. proposal, entitled Performance Modeling, Debugging, and Optimization of Highly Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective. Well done, Shahriar ♡.
+        <td> <span class="label success">03/11/23</span></td>
+        <td> <a href="https://arxiv.org/pdf/2001.06588.pdf">FlexiBO: a Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks</a>, has been accepted for publication in the <strong>Journal of Artificial Intelligence Research (JAIR)</strong>! Well done, Shahriar! 
         </td>
     </tr>
-
+        <tr>
+        <td> <span class="label success">01/20/23</span></td>
+        <td> Shahriar Iqbal successfully defended his Ph.D. proposal, entitled <strong>Performance Modeling, Debugging, and Optimization of Highly Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective</strong>. Well done, Shahriar ♡.
+        </td>
+    </tr>
         <tr>
         <td> <span class="label success">01/19/23</span></td>
         <td> <a href="https://arxiv.org/pdf/2301.07690.pdf">CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots</a> is on ArXiv. Well done, Abir and Sonam! so proud of this work ♡.
