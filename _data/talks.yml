@@ -1,3 +1,11 @@
+- id: cse-research-symposium
+  title: "Artificial Intelligence and Systems Laboratory (AISys): A Research Overview"
+  where: "CSE Research Symposium"
+  year: 2023
+  month: April
+  url: https://speakerdeck.com/pjamshidi/artificial-intelligence-and-systems-laboratory-aisys-a-research-overview
+  video: 
+
 - id: oktoberbest
   title: "Experiential Learning by Building Real-World AI Systems"
   where: "Oktoberbest: A Symposium On Teaching"

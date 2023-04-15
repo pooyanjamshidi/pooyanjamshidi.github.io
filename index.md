@@ -29,13 +29,15 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <!-- * I have an ``open office`` policy (even after the pandemic!) You can book an appointment with me [here](https://meet-with-pooyan-jamshidi.appointlet.com/s/15-minute-intro/pooyan-jamshidi). -->
 
 
-* With Valerie Issarny, I serve as program co-chair of [SEAMS'23](https://conf.researchr.org/home/seams-2023) in Melbourne, Australia. Please consider submitting your work on either [research](https://conf.researchr.org/track/seams-2023/seams-2023-research-track) or [artifact](https://conf.researchr.org/track/seams-2023/seams-2023-artifact-track) tracks. SEAMS is one of those incredible communities where you meet fascinating people doing great work to make systems of any kind autonomous and self-adaptive!
+<!-- * With Valerie Issarny, I serve as program co-chair of [SEAMS'23](https://conf.researchr.org/home/seams-2023) in Melbourne, Australia. Please consider submitting your work on either [research](https://conf.researchr.org/track/seams-2023/seams-2023-research-track) or [artifact](https://conf.researchr.org/track/seams-2023/seams-2023-artifact-track) tracks. SEAMS is one of those incredible communities where you meet fascinating people doing great work to make systems of any kind autonomous and self-adaptive! -->
+
+* I was so fortunate that I got the opportunity to co-chair SEAMS'23; please check out the conference [program](https://conf.researchr.org/program/seams-2023/program-seams-2023/) and consider attending SEAMS'23 collocated with ICSE'23 in Melbourne, Australia! SEAMS is one of those incredible communities where you meet fascinating people doing great work to build autonomous and self-adaptive systems! 
 
 * With Vijay Chidambaram, Romain Jacob, Neeraja J. Yadwadkar, and Ivo Jimenez, we co-founded [JSys](http://jsys.org/)---a new diamond open-access journal for the systems community. I also co-chair two areas at JSys: Computer Architecture (with Devashree Tripathy) and Configuration Management (with Tianyin Xu). So please consider submitting your research work to JSys!
 
 * Want to ``work with us``? Read about [AISys Lab](/AISys/).
 
-* Want to ``know about AISys and our collaborators``? Here you can find all info in [one slide](/resources/docs/AISys.pdf).
+* Want to ``know about AISys and our collaborators``? Here you can find [an overview of AISys lab members and their research](https://speakerdeck.com/pjamshidi/artificial-intelligence-and-systems-laboratory-aisys-a-research-overview).
 
 * Want to ``know more about our research``? Please check out our [Core](/research/) Research Areas](/research/) and [Publications](/publications/).
 
