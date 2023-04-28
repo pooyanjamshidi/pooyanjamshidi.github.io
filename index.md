@@ -52,6 +52,11 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <table class="table table-sm">
 <tbody>
     <tr>
+        <td> <span class="label success">04/28/23</span></td>
+        <td> Our recent collaborative work, <a href="https://arxiv.org/abs/2304.10892">Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems</a>, has been accepted at EuroMLSys'23! <a href="https://github.com/reconfigurable-ml-pipeline/InfAdapter">InfAdapter</a> code is also available on GitHub.
+        </td>
+    </tr>
+    <tr>
         <td> <span class="label success">03/15/23</span></td>
         <td> A new version of <a href="https://arxiv.org/abs/2110.03501">Pretrained Language Models are Symbolic Mathematics Solvers too!</a>, with some new experimental results and theory is on ArXiv! Thanks for the great work led by Kimia Noorbakhsh and Kallol Roy!
         </td>

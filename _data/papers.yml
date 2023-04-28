@@ -1,3 +1,14 @@
+- id: euromlsys
+  title: "Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems"
+  authors: Mehran Salmani, Saeid Ghafouri, Alireza Sanaee, Kamran Razavi, Max Mühlhäuser, Joseph Doyle, Pooyan Jamshidi, Mohsen Sharifi
+  venue: The 3rd Workshop on Machine Learning and Systems
+  venue_abb: EuroMLSys
+  year: 2023
+  code: https://github.com/reconfigurable-ml-pipeline/InfAdapter
+  url: https://arxiv.org/abs/2304.10892
+  important: 1
+  abstract: "The use of machine learning (ML) inference for various applications is growing drastically. ML inference services engage with users directly, requiring fast and accurate responses. Moreover, these services face dynamic workloads of requests, imposing changes in their computing resources. Failing to right-size computing resources results in either latency service level objectives (SLOs) violations or wasted computing resources. Adapting to dynamic workloads considering all the pillars of accuracy, latency, and resource cost is challenging. In response to these challenges, we propose InfAdapter, which proactively selects a set of ML model variants with their resource allocations to meet latency SLO while maximizing an objective function composed of accuracy and cost. InfAdapter decreases SLO violation and costs up to 65% and 33%, respectively, compared to a popular industry autoscaler (Kubernetes Vertical Pod Autoscaler)."
+
 - id: flexibo-jair
   title: "FlexiBO: A Decoupled Cost-Aware Multi-Objective Optimization Approach for Deep Neural Networks"
   authors: Shahriar Iqbal, Jianhai Su, Lars Kotthoff, Pooyan Jamshidi
