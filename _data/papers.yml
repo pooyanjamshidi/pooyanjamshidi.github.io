@@ -1,3 +1,20 @@
+- id: care
+  title: "CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots"
+  authors: Md Abir Hossen, Sonam Kharade, Bradley Schmerl, Javier Cámara, Jason M. O'Kane, Ellen C. Czaplinski, Katherine A. Dzurilla, David Garlan, and Pooyan Jamshidi
+  venue: IEEE Robotics and Automation Letters
+  venue_abb: RA-L -> IROS'23
+  acc_rate:
+  year: 2023
+  url: https://arxiv.org/abs/2301.07690
+  code: https://github.com/softsys4ai/care
+  video:
+  slide:
+  important: 1
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Robotic systems have several subsystems that possess a huge combinatorial configuration space and hundreds or even thousands of possible software and hardware configuration options interacting non-trivially. The configurable parameters can be tailored to target specific objectives, but when incorrectly configured, can cause functional faults. Finding the root cause of such faults is challenging due to the exponentially large configuration space and the dependencies between the robot's configuration settings and performance. This paper proposes CaRE, a method for diagnosing the root cause of functional faults through the lens of causality, which abstracts the causal relationships between various configuration options and the robot's performance objectives. We demonstrate CaRE's efficacy by finding the root cause of the observed functional faults via CaRE and validating the diagnosed root cause, conducting experiments in both physical robots (Husky and Turtlebot 3) and in simulation (Gazebo). Furthermore, we demonstrate that the causal models learned from robots in simulation (simulating Husky in Gazebo) are transferable to physical robots across different platforms (Turtlebot 3)."
+  
 - id: euromlsys
   title: "Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems"
   authors: Mehran Salmani, Saeid Ghafouri, Alireza Sanaee, Kamran Razavi, Max Mühlhäuser, Joseph Doyle, Pooyan Jamshidi, Mohsen Sharifi
@@ -36,23 +53,6 @@
   badge-functional:
   badge-reproduced:
   abstract: "Self-supervised contrastive learning has solved one of the significant obstacles in deep learning by alleviating the annotation cost. This advantage comes with the price of false negative-pair selection without any label information. Supervised contrastive learning has emerged as an extension of contrastive learning to eliminate this issue. However, aside from accuracy, there is a lack of understanding about the impacts of adversarial training on the representations learned by these learning schemes. In this work, we utilize supervised learning as a baseline to comprehensively study the robustness of contrastive and supervised contrastive learning under different adversarial training scenarios. Then, we begin by looking at how adversarial training affects the learned representations in hidden layers, discovering more redundant representations between layers of the model. Our results on CIFAR-10 and CIFAR-100 image classification benchmarks demonstrate that this redundancy is highly reduced by adversarial fine-tuning applied to the contrastive learning scheme, leading to more robust representations. However, adversarial fine-tuning is not very effective for supervised contrastive learning and supervised learning schemes."
-
-- id: care
-  title: "CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots"
-  authors: Md Abir Hossen, Sonam Kharade, Bradley Schmerl, Javier Cámara, Jason M. O'Kane, Ellen C. Czaplinski, Katherine A. Dzurilla, David Garlan, and Pooyan Jamshidi
-  venue: Arxiv
-  venue_abb:
-  acc_rate:
-  year: 2023
-  url: https://arxiv.org/abs/2301.07690
-  code: https://github.com/softsys4ai/care
-  video:
-  slide:
-  important: 1
-  badge-available:
-  badge-functional:
-  badge-reproduced:
-  abstract: "Robotic systems have several subsystems that possess a huge combinatorial configuration space and hundreds or even thousands of possible software and hardware configuration options interacting non-trivially. The configurable parameters can be tailored to target specific objectives, but when incorrectly configured, can cause functional faults. Finding the root cause of such faults is challenging due to the exponentially large configuration space and the dependencies between the robot's configuration settings and performance. This paper proposes CaRE, a method for diagnosing the root cause of functional faults through the lens of causality, which abstracts the causal relationships between various configuration options and the robot's performance objectives. We demonstrate CaRE's efficacy by finding the root cause of the observed functional faults via CaRE and validating the diagnosed root cause, conducting experiments in both physical robots (Husky and Turtlebot 3) and in simulation (Gazebo). Furthermore, we demonstrate that the causal models learned from robots in simulation (simulating Husky in Gazebo) are transferable to physical robots across different platforms (Turtlebot 3)."
 
 - id: dnn-caching
   title: "Improving the Performance of DNN-based Software Services using Automated Layer Caching"

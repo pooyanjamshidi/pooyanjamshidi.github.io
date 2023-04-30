@@ -11,6 +11,11 @@ group: news
 <table class="table table-sm">
 <tbody>
     <tr>
+        <td> <span class="label success">01/19/23</span></td>
+        <td> <a href="https://arxiv.org/abs/2301.07690">CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots</a> has been accepted for publication in the <strong>IEEE Robotics and Automation Letters (RA-L)</strong>. Well done, Abir and Sonam! I am thrilled to have the opportunity to be a part of the fantastic collaboration with Bradley Schmerl, Javier Cámara, David Garlan, Jason M. O’Kane, Ellen Czaplinski, and Katherine Dzurilla!
+        </td>
+    </tr>
+    <tr>
         <td> <span class="label success">04/28/23</span></td>
         <td> Our recent collaborative work, <a href="https://arxiv.org/abs/2304.10892">Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems</a>, has been accepted at EuroMLSys'23! <a href="https://github.com/reconfigurable-ml-pipeline/InfAdapter">InfAdapter</a> code is also available on GitHub.
         </td>
