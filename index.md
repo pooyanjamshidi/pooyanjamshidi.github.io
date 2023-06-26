@@ -53,6 +53,11 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
     <tr>
         <td> <span class="label success">04/30/23</span></td>
+        <td> <a href="https://arxiv.org/abs/2302.02502">Rethinking Robust Contrastive Learning from the Adversarial Perspective</a> has been accepted at <strong>New Frontiers in Adversarial Machine Learning at ICML'23 (AdvML-Frontiers'23)</strong>. Well done, Fatemeh and Mehdi!
+        </td>
+    </tr>
+    <tr>
+        <td> <span class="label success">04/30/23</span></td>
         <td> <a href="https://arxiv.org/abs/2301.07690">CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots</a> has been accepted for publication in the <strong>IEEE Robotics and Automation Letters (RA-L)</strong>. Well done, Abir and Sonam! I am thrilled to have the opportunity to be a part of the fantastic collaboration with Bradley Schmerl, Javier Cámara, David Garlan, Jason M. O’Kane, Ellen Czaplinski, and Katherine Dzurilla!
         </td>
     </tr>

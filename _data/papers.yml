@@ -1,3 +1,20 @@
+- id: contrastive-empirical
+  title: "Rethinking Robust Contrastive Learning from the Adversarial Perspective"
+  authors: Fatemeh Ghofrani, Mehdi Yaghouti, Pooyan Jamshidi
+  venue: New Frontiers in Adversarial Machine Learning at ICML'23
+  venue_abb: AdvML-Frontiers'23
+  acc_rate:
+  year: 2023
+  url: https://arxiv.org/abs/2302.02502
+  code: https://github.com/softsys4ai/cl-robustness
+  video:
+  slide:
+  important: 
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "To advance the understanding of robust deep learning, we delve into the effects of adversarial training on self-supervised and supervised contrastive learning alongside supervised learning. Our analysis uncovers significant disparities between adversarial and clean representations in standard-trained networks across various learning algorithms. Remarkably, adversarial training mitigates these disparities and fosters the convergence of representations toward a universal set, regardless of the learning scheme used. Additionally, increasing the similarity between adversarial and clean representations, particularly near the end of the network, enhances network robustness. These findings offer valuable insights for designing and training effective and robust deep learning networks."
+
 - id: cameo
   title: "CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems"
   authors: Shahriar Iqbal, Ziyuan Zhong, Iftakhar Ahmad, Baishakhi Ray, Pooyan Jamshidi
@@ -18,8 +35,8 @@
 - id: care
   title: "CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots"
   authors: Md Abir Hossen, Sonam Kharade, Bradley Schmerl, Javier Cámara, Jason M. O'Kane, Ellen C. Czaplinski, Katherine A. Dzurilla, David Garlan, and Pooyan Jamshidi
-  venue: IEEE Robotics and Automation Letters
-  venue_abb: RA-L -> IROS'23
+  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  venue_abb: iROS'23 & RA-L
   acc_rate:
   year: 2023
   url: https://arxiv.org/abs/2301.07690
@@ -53,23 +70,6 @@
   url: https://arxiv.org/abs/2001.06588
   important: 1
   abstract: "The design of machine learning systems often requires trading off different objectives, for example, prediction error and energy consumption for deep neural networks (DNNs). Typically, no single design performs well in all objectives; therefore, finding Pareto-optimal designs is of interest. The search for Pareto-optimal designs involves evaluating designs in an iterative process, and the measurements are used to evaluate an acquisition function that guides the search process. However, measuring different objectives incurs different costs. For example, the cost of measuring the prediction error of DNNs is orders of magnitude higher than that of measuring the energy consumption of a pre-trained DNN, as it requires re-training the DNN. Current state-of-the-art methods do not consider this difference in objective evaluation cost, potentially incurring expensive evaluations of objective functions in the optimization process. In this paper, we develop a novel decoupled and cost-aware multi-objective optimization algorithm, we call Flexible Multi-Objective Bayesian Optimization (FlexiBO) to address this issue. FlexiBO weights the improvement of the hypervolume of the Pareto region by the measurement cost of each objective to balance the expense of collecting new information with the knowledge gained through objective evaluations, preventing us from performing expensive measurements for little to no gain. We evaluate FlexiBO on seven state-of-the-art DNNs for image recognition, natural language processing (NLP), and speech-to-text translation. Our results indicate that, given the same total experimental budget, FlexiBO discovers designs with 4.8% to 12.4% lower hypervolume error than the best method in state-of-the-art multi-objective optimization."
-
-- id: contrastive-empirical
-  title: "Rethinking Robust Contrastive Learning from the Adversarial Perspective"
-  authors: Fatemeh Ghofrani, Mehdi Yaghouti, Pooyan Jamshidi
-  venue: New Frontiers in Adversarial Machine Learning at ICML'23
-  venue_abb: AdvML-Frontiers'23
-  acc_rate:
-  year: 2023
-  url: https://arxiv.org/abs/2302.02502
-  code: https://github.com/softsys4ai/cl-robustness
-  video:
-  slide:
-  important: 
-  badge-available:
-  badge-functional:
-  badge-reproduced:
-  abstract: "To advance the understanding of robust deep learning, we delve into the effects of adversarial training on self-supervised and supervised contrastive learning alongside supervised learning. Our analysis uncovers significant disparities between adversarial and clean representations in standard-trained networks across various learning algorithms. Remarkably, adversarial training mitigates these disparities and fosters the convergence of representations toward a universal set, regardless of the learning scheme used. Additionally, increasing the similarity between adversarial and clean representations, particularly near the end of the network, enhances network robustness. These findings offer valuable insights for designing and training effective and robust deep learning networks."
 
 - id: dnn-caching
   title: "Improving the Performance of DNN-based Software Services using Automated Layer Caching"
