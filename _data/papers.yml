@@ -15,6 +15,23 @@
   badge-reproduced:
   abstract: "To advance the understanding of robust deep learning, we delve into the effects of adversarial training on self-supervised and supervised contrastive learning alongside supervised learning. Our analysis uncovers significant disparities between adversarial and clean representations in standard-trained networks across various learning algorithms. Remarkably, adversarial training mitigates these disparities and fosters the convergence of representations toward a universal set, regardless of the learning scheme used. Additionally, increasing the similarity between adversarial and clean representations, particularly near the end of the network, enhances network robustness. These findings offer valuable insights for designing and training effective and robust deep learning networks."
 
+- id: independent-modular-networks
+  title: "Independent Modular Networks"
+  authors: Hamed Damirchi, Forest Agostinelli, Pooyan Jamshidi
+  venue: Workshop on Effective Representations, Abstractions, and Priors for Robot Learning
+  venue_abb: RAP4Robots at ICRA’23
+  acc_rate:
+  year: 2023
+  url: https://arxiv.org/abs/2306.01316
+  code: 
+  video: 
+  slide: 
+  important:    
+  badge-available: 
+  badge-functional: 
+  badge-reproduced: 
+  abstract: "Monolithic neural networks that make use of a single set of weights to learn useful representations for downstream tasks explicitly dismiss the compositional nature of data generation processes. This characteristic exists in data where every instance can be regarded as the combination of an identity concept, such as the shape of an object, combined with modifying concepts, such as orientation, color, and size. The dismissal of compositionality is especially detrimental in robotics, where state estimation relies heavily on the compositional nature of physical mechanisms (e.g., rotations and transformations) to model interactions. To accommodate this data characteristic, modular networks have been proposed. However, a lack of structure in each module's role, and modular network-specific issues such as module collapse have restricted their usability. We propose a modular network architecture that accommodates the mentioned decompositional concept by proposing a unique structure that splits the modules into predetermined roles. Additionally, we provide regularizations that improve the resiliency of the modular network to the problem of module collapse while improving the decomposition accuracy of the model."
+
 - id: cameo
   title: "CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems"
   authors: Shahriar Iqbal, Ziyuan Zhong, Iftakhar Ahmad, Baishakhi Ray, Pooyan Jamshidi
@@ -35,7 +52,7 @@
 - id: care
   title: "CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots"
   authors: Md Abir Hossen, Sonam Kharade, Bradley Schmerl, Javier Cámara, Jason M. O'Kane, Ellen C. Czaplinski, Katherine A. Dzurilla, David Garlan, and Pooyan Jamshidi
-  venue: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  venue: International Conference on Intelligent Robots and Systems
   venue_abb: iROS'23 & RA-L
   acc_rate:
   year: 2023
