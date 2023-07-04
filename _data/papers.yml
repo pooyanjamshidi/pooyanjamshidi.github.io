@@ -52,8 +52,8 @@
 - id: care
   title: "CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots"
   authors: Md Abir Hossen, Sonam Kharade, Bradley Schmerl, Javier Cámara, Jason M. O'Kane, Ellen C. Czaplinski, Katherine A. Dzurilla, David Garlan, and Pooyan Jamshidi
-  venue: International Conference on Intelligent Robots and Systems
-  venue_abb: iROS'23 & RA-L
+  venue: IEEE Robotics and Automation Letters
+  venue_abb: RA-L -> iROS'23
   acc_rate:
   year: 2023
   url: https://arxiv.org/abs/2301.07690
