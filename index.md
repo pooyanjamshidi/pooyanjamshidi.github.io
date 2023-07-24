@@ -11,18 +11,20 @@ I am the director of the AISys lab and an assistant professor in the computer sc
 ``` -->
 
 ```inline
-Hey there! Thanks for being here! I am an assistant professor in computer science at UofSC. My research involves advancing the state-of-the-art in AI/ML by developing novel algorithms and methods for solving some outstanding problems in:
+Hey there! Thanks for being here! I am an assistant professor in the computer science and engineering department at the University of South Carolina (USC). My research involves advancing the state-of-the-art in AI/ML by developing novel algorithms and methods for solving some outstanding problems in:
 
-- Autonomous Systems and Robotics: e.g., (i) Our work on Autonomy for space lander missions to the Ocean Worlds, such as Europa and Enceladus. Our project,  RASPBERRY-SI, in collaboration with CMU, UArk,  the University of York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS). (ii) our recent project on developing a framework for designing Modular Autonomy on ROS (MARS).
+- Sustainable AI [funded by NSF]: We have several ongoing projects on sustainable AI, including ML Inference Pipeline Adaptation, to find the right tradeoff between High Accuracy, Cost-Efficiency, and Sustainability. We also develop design strategies and patterns that developers can use to build sustainability into their system as an explicit goal.
 
-- Computer Systems (Distributed, Hardware-Software, Data-intensive Pipelines): e.g., (i) Our work on causal reasoning for performance debugging and optimizations in systems in collaboration with Christian Kaestner (CMU) and Baishakhi Ray (Columbia). (ii) my work on causal representation learning in the AdsAI team at Google as a visiting researcher, enhancing the explainability of learned representation in deep neural networks via causal features for large-scale systems that rely on such representations for automated decision-making.
+- Autonomous Systems and Robotics [funded by NASA]: e.g. (i) Our work on Autonomy for space lander missions to the Ocean Worlds, such as Europa and Enceladus. Our project, RASPBERRY-SI, in collaboration with CMU, UArk, the University of York, as well as testbed providers: NASA JPL (physical testbed, called OWLAT) and NASA Ames (virtual testbed, called OceanWATERS). (ii) our recent project on developing a framework for designing Modular Autonomy on ROS (MARS).
 
-- Sciences and Engineering: e.g., (i) Our collaborative work on causal learning for cancer research in collaboration with Phillip Buckhaults (UofSC's College of Pharmacy) and Optimal vaccine promotion for COVID-19 in collaboration with Gregory Trevors (UofSC's College of Education). (ii) Our collaborative work on deep learning for symbolic mathematics in collaboration with Kallol Roy (University of Estonia).
+- Causal Reasoning [funded by NSF and Google]: e.g., (i) Our work on causal reasoning for performance debugging and optimizations in computer systems (Distributed, Hardware-Software, ML Pipelines), in collaboration with Christian Kaestner (CMU) and Baishakhi Ray (Columbia). (ii) As a visiting researcher, I worked on causal representation learning at Google, enhancing the explainability of learned representation in deep neural networks via causal features for large-scale systems that rely on such representations for automated decision-making.
+
+- Sciences and Engineering [looking for funding!]: e.g., (i) Our collaborative work on causal learning for cancer research in collaboration with Phillip Buckhaults (USC's College of Pharmacy) and Optimal vaccine promotion for COVID-19 in collaboration with Gregory Trevors (USC's College of Education). (ii) Our collaborative work on deep learning for symbolic mathematics in collaboration with Kallol Roy (University of Estonia).
 
 I am particularly interested in the theoretical foundations of Causal Representation Learning, Adversarial ML, AutoML, and Transfer Learning. In addition to theory, I am excited about several directions in ML for Systems and Systems for ML.
 ```
 
-Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA), working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a postdoc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland), and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. degree (research-based) in Systems Engineering from [Amirkabir University of Technology](https://aut.ac.ir/en/) (Iran) in 2006, and my master's thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. degree in Math & Computer Science from the Amirkabir University of Technology in 2003. 
+Before joining the faculty at the University of South Carolina, I was a postdoc in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) (USA), working with [Christian Kaestner](https://www.cs.cmu.edu/~ckaestne/), and, before that, I was a postdoc in the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/) (UK). I received my Ph.D. in Computer Science at [Dublin City University](https://www.dcu.ie/) (Ireland), and my advisor was [Claus Pahl](http://www.inf.unibz.it/~cpahl/). I received an M.S. degree (research-based) in Systems Engineering from [Amirkabir University of Technology](https://aut.ac.ir/en/) (Iran) in 2006, and my master's thesis was on symbolic reasoning and multi-objective optimizations for intelligent product design support systems under the supervision of [Saeed Mansour](https://scholar.google.com/citations?user=9fm4eAYAAAAJ&hl=en). I also received a B.S. in Math & Computer Science from the Amirkabir University of Technology in 2003.
 
 ### Important Links
 
@@ -31,7 +33,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 <!-- * With Valerie Issarny, I serve as program co-chair of [SEAMS'23](https://conf.researchr.org/home/seams-2023) in Melbourne, Australia. Please consider submitting your work on either [research](https://conf.researchr.org/track/seams-2023/seams-2023-research-track) or [artifact](https://conf.researchr.org/track/seams-2023/seams-2023-artifact-track) tracks. SEAMS is one of those incredible communities where you meet fascinating people doing great work to make systems of any kind autonomous and self-adaptive! -->
 
-* I was so fortunate that I got the opportunity to co-chair SEAMS'23; please check out the conference [program](https://conf.researchr.org/program/seams-2023/program-seams-2023/) and consider attending SEAMS'23 collocated with ICSE'23 in Melbourne, Australia! SEAMS is one of those incredible communities where you meet fascinating people doing great work to build autonomous and self-adaptive systems! 
+<!-- * I was so fortunate that I got the opportunity to co-chair SEAMS'23; please check out the conference [program](https://conf.researchr.org/program/seams-2023/program-seams-2023/) and consider attending SEAMS'23, collocated with ICSE'23 in Melbourne, Australia! SEAMS is one of those incredible communities where you meet fascinating people doing great work to build autonomous and self-adaptive systems!  -->
 
 * With Vijay Chidambaram, Romain Jacob, Neeraja J. Yadwadkar, and Ivo Jimenez, we co-founded [JSys](http://jsys.org/)---a new diamond open-access journal for the systems community. I also co-chair two areas at JSys: Computer Architecture (with Devashree Tripathy) and Configuration Management (with Tianyin Xu). So please consider submitting your research work to JSys!
 
@@ -43,7 +45,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 * Want to join our weekly ``reading group``? Please read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group).
 
-* Want to ``join our student-led robotic team at UofSC``? Read about [Gamecock Robotics](https://gamecockrobotics.github.io/).
+* Want to ``join our student-led robotic team at USC``? Read about [Gamecock Robotics](https://gamecockrobotics.github.io/).
 
 * Want to ``know whether I am available for AI consultancy``? Please check out our [Consultancy Services](/consultancy/).
 
@@ -98,7 +100,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
     </tr>
     <tr>
         <td> <span class="label success">08/09/22</span></td>
-        <td> I am thrilled that our collaborative efforts with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you, NSF, for funding research on <strong>Sustainability in Computing</strong>! ♡. 
+        <td> I am thrilled that our collaborative effort with Eunsuk Kang (Carnegie Mellon University), Mehdi Mirakhorli, and Callie Babbitt (Rochester Institute of Technology) on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2233873">Software-Driven Sustainability</a> has been funded by NSF; Thank you, NSF, for funding research on <strong>Sustainability in Computing</strong>! ♡. 
         </td>
     </tr>
 
