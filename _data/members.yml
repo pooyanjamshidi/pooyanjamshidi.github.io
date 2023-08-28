@@ -51,6 +51,15 @@
   finished: present
   bio: Fatemeh is a PhD student in computer science. She is interested in self-supervised learning, contrastive learning, and model robustness against adversarial attacks.
 
+- name: Rasool Sharifi
+  prog: phd
+  id: sharifi
+  website: https://rasool-sharifi.github.io/
+  status: current
+  started: 2023
+  finished: present
+  bio: Rasool is a PhD student in computer science. He is interested in ML for Systems, Domain-Specific AI Accelerators, and Compilers.
+
 - name: Nasrin Imanpour
   prog: phd
   id: imanpour
@@ -107,7 +116,7 @@
   status: current
   started: 2022
   finished: present
-  bio: Saeid is a PhD student in Queen Mary University of London vising AISys. He is interested in Cloud Autoscaling.
+  bio: Saeid is a PhD student in Queen Mary University of London and he has visited AISys as an intern in 2022 and 2023. He is interested in Systems for ML and cloud auto-scaling.
 
 - name: Jianhai Su
   prog: phd
