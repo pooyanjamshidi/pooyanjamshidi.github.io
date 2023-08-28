@@ -10,6 +10,9 @@
       <!-- {% include /functions/getmaplerthesis.html mapler=mapler %} -->
     </p>
     <p>{{ mapler.bio }}</p>
+    {% if mapler.status == "former" %}
+    <p>Current Status: {{ mapler.current }}</p> 
+    {% endif %}
 	</div>
 </div>
 {% endfor %}

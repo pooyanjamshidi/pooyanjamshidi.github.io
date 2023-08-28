@@ -20,7 +20,8 @@
   status: former
   started: 2018
   finished: 2022
-  bio: Mohammad Ali was a postdoc at AISys, interested in causal AI and transfer learning. He is now an assistant professor at Appalachian State University (ASU).
+  bio: Mohammad Ali was a PhD research assistant and then a postdoc at AISys, interested in Causal Structure Learning. 
+  current: Assistant Professor at Appalachian State University (ASU)
 
 - name: Mehdi Yaghouti
   prog: postdoc
@@ -29,7 +30,7 @@
   status: current
   started: 2022
   finished: present
-  bio: Mehdi Yaghouti is a postdoc interested in theoretical foundations of machine learning. 
+  bio: Mehdi is a postdoc interested in theoretical foundations of machine learning. 
 
 - name: Ying Meng
   prog: phd
@@ -39,6 +40,7 @@
   started: 2019
   finished: 2022
   bio: Ying was a PhD student at AISys, interested in security of machine learning and software testing.
+  current: PhD student at George Mason University
 
 - name: Fatemeh Ghofrani
   prog: phd
@@ -47,7 +49,7 @@
   status: current
   started: 2021
   finished: present
-  bio: Fatemeh is a PhD student in computer science. She is interested in causal representation learning and explainability.
+  bio: Fatemeh is a PhD student in computer science. She is interested in self-supervised learning, contrastive learning, and model robustness against adversarial attacks.
 
 - name: Nasrin Imanpour
   prog: phd
@@ -57,15 +59,17 @@
   started: 2022
   finished: 2022
   bio: Nasrin is doing her PhD in computer science and is interested in neural representation learning.
+  current: PhD student at USC (working with Song Wang)
 
 - name: Hamed Damirchi
   prog: phd
   id: damirchi
   website: https://github.com/hamed-d
-  status: current
+  status: former
   started: 2022
-  finished: present
-  bio: Hamed is a PhD student in computer science, interested in representation learning and robotics. Hamed is co-advised by my collaborator, Prof. Forest Agostinelli.
+  finished: 2023
+  bio: Hamed was a PhD student in computer science, interested in representation learning and robotics. Hamed is co-advised by my collaborator, Prof. Forest Agostinelli.
+  current: PhD student at University of Adelaide
 
 - name: Md Abir Hossen
   prog: phd
@@ -80,10 +84,11 @@
   prog: visitor
   id: noorbakhsh
   website: https://github.com/kimianoorbakhsh/
-  status: current
+  status: former
   started: 2020
-  finished: present
-  bio: Kimia is undergraduate student in Computer Engineering and Math (Sharif University). She is interested in theoretical AI/ML and symbolic mathematics.
+  finished: 2023
+  bio: Kimia was an undergraduate student in Computer Engineering and Math (Sharif University). She is interested in theoretical AI/ML and symbolic mathematics.
+  current: PhD student at MIT
 
 - name: Shuge Lei
   prog: phd
@@ -93,6 +98,7 @@
   started: 2020
   finished: 2021
   bio: Shuge is PhD student in computer science. She is interested in applied machine learning.
+  current: PhD student at USC (working with Biplav Srivastava)
 
 - name: Saeid Ghafouri
   prog: visitor
@@ -111,6 +117,7 @@
   started: 2018
   finished: 2022
   bio: Jianhai was a PhD student at AISys, interested in transfer learning, autonomic computing, and reinforcement learning.
+  current: PhD student at USC (working with Qi Zhang)
 
 - name: Md Shahriar Iqbal
   prog: phd
@@ -120,15 +127,17 @@
   started: 2018
   finished: present
   bio: Shahriar is a PhD student in computer science. He is interested in ML for Systems.
+  # current: Synopsys Research
 
 - name: Morteza Maleki
   prog: researcher
   id: maleki
   website: https://www.mortezamaleki.com/
-  status: current
+  status: former
   started: 2021
-  finished: present
-  bio: Morteza is a research assistance at AISys. He is interested in Causal AI and structure learning.
+  finished: 2023
+  bio: Morteza was a research assistance at AISys. He is interested in Causal AI and structure learning.
+  current: Senior Associate at PwC
 
 - name: Hung-Tien Huang
   prog: undergrad
@@ -137,15 +146,16 @@
   status: former
   started: 2022
   finished: 2023
-  bio: Hung-Tien is an undergraduate student in computer science and math. He is interested in explainable AI.
+  bio: Hung-Tien was an undergraduate student in computer science and math. He is interested in explainable AI.
+  current: PhD student at UNC Chapel Hill
 
 - name: Samuel Whidden
   prog: undergrad
   id: whidden
   website: https://gitea.com/LittleCube
-  status: current
+  status: former
   started: 2022
-  finished: present
+  finished: 2023
   bio: Sam is an undergraduate student in computer science. He is interested in computer architecture.
 
 - name: Peter Mourfield
@@ -155,7 +165,8 @@
   status: former
   started: 2019
   finished: 2020
-  bio: Peter is a PhD student in computer science. He is interested in autonomic systems and reinforcement learning.
+  bio: Peter was a PhD student in computer science. He is interested in autonomic systems and reinforcement learning.
+  current: Chief Technology Officer at TaxSlayer
 
 - name: Cody Shearer
   prog: undergrad
@@ -164,7 +175,8 @@
   status: former
   started: 2020
   finished: 2021
-  bio: Cody is an undergraduate student in computer science and math. He is interested in causal AI and transfer learning for systems performance.
+  bio: Cody was an undergraduate student in computer science and math. He is interested in causal AI and transfer learning for systems performance.
+  current: Software Developer at Krumware
 
 - name: Blake Edwards
   prog: undergrad
@@ -173,7 +185,8 @@
   status: former
   started: 2019
   finished: 2020
-  bio: Blake is a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
+  bio: Blake was an honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
+  current: AI Technologist at Boeing Research & Technology
 
 - name: Stephen Baione
   prog: undergrad
@@ -182,7 +195,8 @@
   status: former
   started: 2019
   finished: 2020
-  bio: Stephen is a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
+  bio: Stephen was a honors college undergraduate student in computer science and math. He is interested in deep neural network model compression and distillation.
+  current: Systems Design Engineer at AMD
 
 # Affiliated
 
