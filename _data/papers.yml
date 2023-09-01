@@ -52,9 +52,9 @@
 - id: cameo
   title: "CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems"
   authors: Shahriar Iqbal, Ziyuan Zhong, Iftakhar Ahmad, Baishakhi Ray, Pooyan Jamshidi
-  venue: Arxiv
-  venue_abb: Arxiv
-  acc_rate:
+  venue: ACM Symposium on Cloud Computing
+  venue_abb: SoCC
+  acc_rate: 29
   year: 2023
   url: https://arxiv.org/abs/2306.07888
   code: https://github.com/softsys4ai/cameo
