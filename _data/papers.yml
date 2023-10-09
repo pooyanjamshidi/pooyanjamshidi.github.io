@@ -1,8 +1,8 @@
 - id: ipa
   title: "IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency"
   authors: Saeid Ghafouri, Kamran Razavi, Mehran Salmani, Alireza Sanaee, Tania Lorido-Botran, Lin Wang, Joseph Doyle, Pooyan Jamshidi
-  venue: Arxiv
-  venue_abb: Arxiv
+  venue: Journal of Systems Research
+  venue_abb: JSys
   acc_rate:
   year: 2023
   url: https://arxiv.org/abs/2308.12871
@@ -287,6 +287,7 @@
   title: "AMP Chain Graphs: Minimal Separators and Structure Learning Algorithms"
   authors: Mohammad Ali Javidian, Marco Valtorta, Pooyan Jamshidi
   venue: Journal of Artificial Intelligence Research
+  venue_abb: JAIR
   year: 2020
   url: https://arxiv.org/abs/2002.10870
   code: https://github.com/majavid/AMPCGs2019
@@ -314,6 +315,7 @@
   title: "ConfigCrusher: White-Box Performance Analysis for Configurable Systems"
   authors: Miguel Velez, Pooyan Jamshidi, Florian Sattler, Norbert Siegmund, Sven Apel, Christian Kaestner
   venue: Springer Automated Software Engineering
+  venue_abb: AuSE
   year: 2020
   url: https://arxiv.org/abs/1905.02066
   abstract: "In configurable software systems, stakeholders are often interested in knowing how configuration options influence the performance of a system to facilitate, for example, the debugging and optimization processes of these systems. There are several black-box approaches to obtain this information, but they usually require a large number of samples to make accurate predictions, whereas the few existing white-box approaches impose limitations on the systems that they can analyze. This paper proposes ConfigCrusher, a white-box performance analysis that exploits several insights of configurable systems. ConfigCrusher employs a static data-flow analysis to identify how configuration options may influence control-flow decisions and instruments code regions corresponding to these decisions to dynamically analyze the influence of configuration options on the regions' performance. Our evaluation using 10 real-world configurable systems shows that ConfigCrusher is more efficient at building performance models that are similar to or more accurate than current state-of-the-art black-box and white-box approaches. Overall, this paper showcases the benefits and potential of white-box performance analyses to outperform black-box approaches and provide additional information for analyzing configurable systems."
@@ -357,6 +359,7 @@
   title: "Whence to Learn? Transferring Knowledge in Configurable Systems using BEETLE"
   authors: Rahul Krishna, Vivek Nair, Pooyan Jamshidi, Tim Menzies
   venue: IEEE Transactions on Software Engineering
+  venue_abb: TSE
   year: 2020
   video: https://www.youtube.com/watch?v=5SluCBOJn4w&ab_channel=ICSE2021Conference
   url: https://arxiv.org/abs/1911.01817
@@ -488,15 +491,16 @@
   title: "An Efficient Method for Uncertainty Propagation in Robust Software Performance Estimation"
   authors: Aldeida Aleti, Catia Trubiani, Andre van Hoorn, Pooyan Jamshidi
   venue: Journal of Systems and Software
+  venue_abb: JSS
   year: 2018
   url: https://arxiv.org/abs/1801.04644
-  abstract: "Software engineers often have to estimate the performance of a software system before having full knowledge of the system parameters, such as workload and operational profile. These uncertain parameters inevitably affect the accuracy of quality evaluations, and the ability to judge if the system can continue to fulfil performance requirements if parameter results are different from expected. Previous work has addressed this problem by modelling the potential values of uncertain parameters as probability distribution functions, and estimating the robustness of the system using Monte Carlo-based methods. These approaches require a large number of samples, which results in high computational cost and long waiting times.
-  To address the computational inefficiency of existing approaches, we employ Polynomial Chaos Expansion (PCE) as a rigorous method for uncertainty propagation and further extend its use to robust performance estimation. The aim is to assess if the software system is robust, i.e., it can withstand possible changes in parameter values, and continue to meet performance requirements. PCE is a very efficient technique, and requires significantly less computations to accurately estimate the distribution of performance indices. Through three very different case studies from different phases of software development and heterogeneous application domains, we show that PCE can accurately estimate the robustness of various performance indices, and saves up to 225 hours of performance evaluation time when compared to Monte Carlo Simulation."
+  abstract: "Software engineers often have to estimate the performance of a software system before having full knowledge of the system parameters, such as workload and operational profile. These uncertain parameters inevitably affect the accuracy of quality evaluations, and the ability to judge if the system can continue to fulfil performance requirements if parameter results are different from expected. Previous work has addressed this problem by modelling the potential values of uncertain parameters as probability distribution functions, and estimating the robustness of the system using Monte Carlo-based methods. These approaches require a large number of samples, which results in high computational cost and long waiting times. To address the computational inefficiency of existing approaches, we employ Polynomial Chaos Expansion (PCE) as a rigorous method for uncertainty propagation and further extend its use to robust performance estimation. The aim is to assess if the software system is robust, i.e., it can withstand possible changes in parameter values, and continue to meet performance requirements. PCE is a very efficient technique, and requires significantly less computations to accurately estimate the distribution of performance indices. Through three very different case studies from different phases of software development and heterogeneous application domains, we show that PCE can accurately estimate the robustness of various performance indices, and saves up to 225 hours of performance evaluation time when compared to Monte Carlo Simulation."
 
 - id: microservices-migration-patterns
   title: "Microservices Migration Patterns"
   authors: Armin Balalaie, A. Heydarnoori, Pooyan Jamshidi, Damian Tamburri, Theo Lynn
   venue: Software Practice and Experience
+  venue_abb: SPE
   year: 2018
   url: https://www.researchgate.net/publication/326601142_Microservices_migration_patterns
   abstract: "Microservices architectures are becoming the defacto standard for building continuously deployed systems. At the same time, there is a substantial growth in the demand for migrating on‐premise legacy applications to the cloud. In this context, organizations tend to migrate their traditional architectures into cloud‐native architectures using microservices. This article reports a set of migration and rearchitecting design patterns that we have empirically identified and collected from industrial‐scale software migration projects. These migration patterns can help information technology organizations plan their migration projects toward microservices more efficiently and effectively. In addition, the proposed patterns facilitate the definition of migration plans by pattern composition. Qualitative empirical research is used to evaluate the validity of the proposed patterns. Our findings suggest that the proposed patterns are evident in other architectural refactoring and migration projects and strong candidates for effective patterns in system migrations."
@@ -505,6 +509,7 @@
   title: "Architectural Principles for Cloud Software"
   authors: Claus Pahl, Pooyan Jamshidi, Olaf Zimmermann
   venue: ACM Transactions on Internet Technology
+  venue_abb: TOIT
   year: 2018
   url: https://www.researchgate.net/publication/317348634_Architectural_Principles_for_Cloud_Software
   abstract: "A cloud is a distributed Internet-based software system providing resources as tiered services. Through service-orientation and virtualization for resource provisioning, cloud applications can be deployed and managed dynamically. We discuss the building blocks of an architectural style for cloud-based software systems. We capture style-defining architectural principles and patterns for control-theoretic, model-based architectures for cloud software. While service orientation is agreed on in the form of service-oriented architecture and microservices, challenges resulting from multi-tiered, distributed and heterogeneous cloud architectures cause uncertainty that has not been sufficiently addressed. We define principles and patterns needed for effective development and operation of adaptive cloud-native systems."
@@ -513,6 +518,7 @@
   title: "Cloud container technologies: a state-of-the-art review"
   authors: Claus Pahl, Antonio Brogi, Jacopo Soldani, Pooyan Jamshidi
   venue: IEEE Transactions on Cloud Computing
+  venue_abb: TCC
   year: 2017
   url: https://www.researchgate.net/publication/316903410_Cloud_Container_Technologies_a_State-of-the-Art_Review
   abstract: "Containers as a lightweight technology to virtualise applications have recently been successful, particularly to manage applications in the cloud. Often, the management of clusters of containers becomes essential and the orchestration of the construction and deployment becomes a central problem. This emerging topic has been taken up by researchers, but there is currently no secondary study to consolidate this research. We aim to identify, taxonomically classify and systematically compare the existing research body on containers and their orchestration and specifically the application of this technology in the cloud. We have conducted a systematic mapping study of 46 selected studies. We classified and compared the selected studies based on a characterisation framework. This results in a discussion of agreed and emerging concerns in the container orchestration space, positioning it within the cloud context, but also moving it closer to current concerns in cloud platforms, microservices and continuous development."
@@ -547,6 +553,7 @@
   title: "Cloud architecture continuity: Change models and change rules for sustainable cloud software architectures"
   authors: Claus Pahl, Pooyan Jamshidi, Danny Weyns
   venue: "Journal of Software: Evolution and Process"
+  venue_abb: JSEP
   year: 2017
   url: https://www.researchgate.net/publication/313456143_Cloud_architecture_continuity_Change_models_and_change_rules_for_sustainable_cloud_software_architectures
   abstract: "Cloud systems provide elastic execution environments of resources that link application and infrastructure/platform components, which are both exposed to uncertainties and change. Change appears in 2 forms: the evolution of architectural components under changing requirements and the adaptation of the infrastructure running applications. Cloud architecture continuity refers to the ability of a cloud system to change its architecture and maintain the validity of the goals that determine the architecture. Goal validity implies the satisfaction of goals in adapting or evolving systems. Architecture continuity aids technical sustainability, that is, the longevity of information, systems, and infrastructure and their adequate evolution with changing conditions. In a cloud setting that requires both steady alignment with technological evolution and availability, architecture continuity directly impacts economic sustainability. We investigate change models and change rules for managing change to support cloud architecture continuity. These models and rules define transformations of architectures to maintain system goals: Evolution is about unanticipated change of structural aspects of architectures, and adaptation is about anticipated change of architecture configurations. Both are driven by quality and cost, and both represent multidimensional decision problems under uncertainty. We have applied the models and rules for adaptation and evolution in research and industry consultancy projects."
@@ -555,6 +562,7 @@
   title: "Pattern-based Multi-cloud Architecture Migration"
   authors: Pooyan Jamshidi, Claus Pahl, Nabor C. Mendonca
   venue: "Software: Practice and Experience"
+  venue_abb: JSEP
   year: 2017
   url: https://www.researchgate.net/publication/307856340_Pattern-based_Multi-Cloud_Architecture_Migration
   slide: https://www.slideshare.net/pooyanjamshidi/cloud-migrationpatterns
@@ -564,6 +572,7 @@
   title: "Control Strategies for Self-Adaptive Software Systems"
   authors: A. Filieri, M. Maggio, K. Angelopoulos, N. D'Ippolito, I. Gerostathopoulos, A. Hempel, H. Hoffmann, P. Jamshidi, E. Kalyvianaki, C. Klein, F. Krikava, S. Misailovic, A. Papadopoulos, S. Ray, A. M. Sharifloo, S. Shevtsov, M. Ujma, T. Vogel
   venue: ACM Transactions on Autonomous and Adaptive Systems
+  venue_abb: TAAS
   year: 2017
   url: https://www.researchgate.net/publication/313323991_Control_Strategies_for_Self-Adaptive_Software_Systems
   abstract: "The pervasiveness and growing complexity of software systems are challenging software engineering to design systems that can adapt their behavior to withstand unpredictable, uncertain, and continuously changing execution environments. Control theoretical adaptation mechanisms have received growing interest from the software engineering community in the last few years for their mathematical grounding, allowing formal guarantees on the behavior of the controlled systems. However, most of these mechanisms are tailored to specific applications and can hardly be generalized into broadly applicable software design and development processes. This article discusses a reference control design process, from goal identification to the verification and validation of the controlled system. A taxonomy of the main control strategies is introduced, analyzing their applicability to software adaptation for both functional and nonfunctional goals. A brief extract on how to deal with uncertainty complements the discussion. Finally, the article highlights a set of open challenges, both for the software engineering and the control theory research communities."
@@ -605,6 +614,7 @@
   title: "A Hybrid Cloud Controller for Vertical Memory Elasticity: A Control-Theoretic Approach"
   authors: Soodeh Farokhi, Pooyan Jamshidi, Ewnetu Bayuh Lakew, Ivona Brandic, Erik Elmroth
   venue: Future Generation Computer Systems
+  venue_abb: FGCS
   year: 2016
   url: https://www.researchgate.net/publication/303407410_A_Hybrid_Cloud_Controller_for_Vertical_Memory_Elasticity_A_Control-Theoretic_Approach
   code: https://gitlab.com/soodeh/monitoring-scripts
@@ -634,6 +644,17 @@
   important: 1
   abstract: "Cloud controllers support the operation and quality management of dynamic cloud architectures by automatically scaling the compute resources to meet performance guarantees and minimize resource costs. Existing cloud controllers often resort to scaling strategies that are codified as a set of architecture adaptation rules. However, for a cloud provider, deployed application architectures are black-boxes, making it difficult at design time to define optimal or pre-emptive adaptation rules. Thus, the burden of taking adaptation decisions often is delegated to the cloud application. We propose the dynamic learning of adaptation rules for deployed application architectures in the cloud. We introduce FQL4KE, a self-learning fuzzy controller that learns and modifies fuzzy rules at runtime. The benefit is that we do not have to rely solely on precise design-time knowledge, which may be difficult to acquire. FQL4KE empowers users to configure cloud controllers by simply adjusting weights representing priorities for architecture quality instead of defining complex rules. FQL4KE has been experimentally validated using the cloud application framework ElasticBench in Azure and OpenStack. The experimental results demonstrate that FQL4KE outperforms both a fuzzy controller without learning and the native Azure auto-scaling."
 
+- id: cloud-brokerage
+  title: "A Classification and Comparison Framework for Cloud Service Brokerage Architectures"
+  authors: Frank Fowley, Claus Pahl, Pooyan Jamshidi, Daren Fang, Xiaodong Liu
+  venue: IEEE Transactions on Cloud Computing
+  venue_abb: TCC
+  year: 2016
+  url: https://www.researchgate.net/publication/296684553_A_Classification_and_Comparison_Framework_for_Cloud_Service_Brokerage_Architectures
+  slide: 
+  important: 
+  abstract: "Cloud service brokerage and related management and marketplace concepts have been identified as key concerns for future cloud technology development and research. Cloud service management is an important building block of cloud architectures that can be extended to act as a broker service layer between consumers and providers, and even to form marketplace services. We present a three-pronged classification and comparison framework for broker platforms and applications. A range of specific broker development concerns like architecture, programming and quality are investigated. Based on this framework, selected management, brokerage and marketplace solutions will be compared, not only to demonstrate the utility of the framework, but also to identify challenges and wider research objectives based on an identification of cloud broker architecture concerns and technical requirements for service brokerage solutions. We also discuss emerging cloud architecture concerns such as commoditisation and federation of integrated, vertical cloud stacks."
+
 - id: control-self-adaptive-seams
   title: "Software Engineering Meets Control Theory"
   authors: A. Filieri, M. Maggio, K. Angelopoulos, N. D'Ippolito, I. Gerostathopoulos, A. Hempel, H. Hoffmann, P. Jamshidi, E. Kalyvianaki, C. Klein, F. Krikava, S. Misailovic, A. Papadopoulos, S. Ray, A. M. Sharifloo, S. Shevtsov, M. Ujma, T. Vogel
@@ -650,8 +671,7 @@
   venue: Technical Report
   year: 2015
   url: http://arxiv.org/abs/1508.04752
-  abstract: "DevOps is a trend towards a tighter integration between development (Dev) and operations (Ops) teams. The need for such an integration is driven by the requirement to continuously adapt enterprise applications (EAs) to changes in the business environment. As of today, DevOps concepts have been primarily introduced to ensure a constant flow of features and bug fixes into new releases from a functional perspective. In order to integrate a non-functional perspective into these DevOps concepts this report focuses on tools, activities, and processes to ensure one of the most important quality attributes of a software system, namely performance.
-  Performance describes system properties concerning its timeliness and use of resources. Common metrics are response time, throughput, and resource utilization. Performance goals for EAs are typically defined by setting upper and/or lower bounds for these metrics and specific business transactions. In order to ensure that such performance goals can be met, several activities are required during development and operation of these systems as well as during the transition from Dev to Ops. Activities during development are typically summarized by the term Software Performance Engineering (SPE), whereas activities during operations are called Application Performance Management (APM). SPE and APM were historically tackled independently from each other, but the newly emerging DevOps concepts require and enable a tighter integration between both activity streams. This report presents existing solutions to support this integration as well as open research challenges in this area."
+  abstract: "DevOps is a trend towards a tighter integration between development (Dev) and operations (Ops) teams. The need for such an integration is driven by the requirement to continuously adapt enterprise applications (EAs) to changes in the business environment. As of today, DevOps concepts have been primarily introduced to ensure a constant flow of features and bug fixes into new releases from a functional perspective. In order to integrate a non-functional perspective into these DevOps concepts this report focuses on tools, activities, and processes to ensure one of the most important quality attributes of a software system, namely performance. Performance describes system properties concerning its timeliness and use of resources. Common metrics are response time, throughput, and resource utilization. Performance goals for EAs are typically defined by setting upper and/or lower bounds for these metrics and specific business transactions. In order to ensure that such performance goals can be met, several activities are required during development and operation of these systems as well as during the transition from Dev to Ops. Activities during development are typically summarized by the term Software Performance Engineering (SPE), whereas activities during operations are called Application Performance Management (APM). SPE and APM were historically tackled independently from each other, but the newly emerging DevOps concepts require and enable a tighter integration between both activity streams. This report presents existing solutions to support this integration as well as open research challenges in this area."
 
 - id: self-adaptation-challenges
   title: "Self-adaptation Challenges for Cloud-based Applications : A Control Theoretic Perspective"
@@ -676,6 +696,7 @@
   title: "Enhancing the OPEN Process Framework with Service-Oriented Method Fragments"
   authors: Mahdi Fahmideh Gholami, Mohsen Sharifi, Pooyan Jamshidi
   venue: Software and Systems Modeling
+  venue_abb: SoSym
   year: 2014
   url: https://pooyanjamshidi.wordpress.com/2011/11/26/enhancing-the-open-process-framework-with-service-oriented-method-fragments/
   abstract: "Service orientation is a promising paradigm that enables the engineering of large-scale distributed software systems using rigorous software development processes. The existing problem is that every service-oriented software development project often requires a customized development process that provides specific service-oriented software engineering tasks in support of requirements unique to that project. To resolve this problem and allow situational method engineering, we have defined a set of method fragments in support of the engineering of the project-specific service-oriented software development processes. We have derived the proposed method fragments from the recurring features of 11 prominent service-oriented software development methodologies using a systematic mining approach. We have added these new fragments to the repository of OPEN Process Framework to make them available to software engineers as reusable fragments using this well-known method repository."
@@ -684,6 +705,7 @@
   title: "Classification and comparison of architecture evolution reuse knowledge––a systematic review"
   authors: Aakash Ahmad, Pooyan Jamshidi, Claus Pahl
   venue: Wiley Journal of Software––Evolution and Process
+  venue_abb: JSEP
   year: 2014
   url: https://www.researchgate.net/publication/260342580_Classification_and_comparison_of_architecture_evolution_reuse_knowledge_-_A_systematic_review
   abstract: "Architecture‐centric software evolution (ACSE) enables changes in system's structure and behaviour while maintaining a global view of the software to address evolution‐centric trade‐offs. The existing research and practices for ACSE primarily focus on design‐time evolution and runtime adaptations to accommodate changing requirements in existing architectures. We aim to identify, taxonomically classify and systematically compare the existing research focused on enabling or enhancing change reuse to support ACSE. We conducted a systematic literature review of 32 qualitatively selected studies and taxonomically classified these studies based on solutions that enable (i) empirical acquisition and (ii) systematic application of architecture evolution reuse knowledge (AERK) to guide ACSE. We identified six distinct research themes that support acquisition and application of AERK. We investigated (i) how evolution reuse knowledge is defined, classified and represented in the existing research to support ACSE and (ii) what are the existing methods, techniques and solutions to support empirical acquisition and systematic application of AERK. Change patterns (34% of selected studies) represent a predominant solution, followed by evolution styles (25%) and adaptation strategies and policies (22%) to enable application of reuse knowledge. Empirical methods for acquisition of reuse knowledge represent 19% including pattern discovery, configuration analysis, evolution and maintenance prediction techniques (approximately 6% each). A lack of focus on empirical acquisition of reuse knowledge suggests the need of solutions with architecture change mining as a complementary and integrated phase for architecture change execution."
@@ -704,6 +726,7 @@
   title: "Cloud Migration Research: A Systematic Review"
   authors: Pooyan Jamshidi, Aakash Ahmad, Claus Pahl
   venue: IEEE Transactions on Cloud Computing
+  venue_abb: TCC
   year: 2013
   url: https://www.researchgate.net/publication/260420072_Cloud_Migration_Research_A_Systematic_Review
   link: http://www.computing.dcu.ie/~pjamshidi/SLR/SLR-CM.html
