@@ -59,7 +59,6 @@ Core technical areas: Transfer learning, representation learning, deep learning,
 <!-- Currently, a major theme in our lab is to develop secure, robust, reliable, and performant machine learning systems. -->
 
 ### For prospective AISys members
-* **Update:** As of January 2023, I do not plan to hire any Ph.D. student until further notice; Please feel free to apply for our graduate school and contact my colleagues and collaborators; I am so sorry that I may not be able to answer prospective student emails asking for available positions at AISys.
 
 * Are you a **current Ph.D. student** at UofSC interested in working with me or brainstorming about research ideas? My office door is always open, and I love discussing research with students; please stop by and let's chat about your interests.
 
