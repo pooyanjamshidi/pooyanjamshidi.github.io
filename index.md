@@ -57,6 +57,12 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
 
     <tr>
+        <td> <span class="label success">11/10/23</span></td>
+        <td> Shahriar Iqbal has successfully defended his PhD on <strong>Performance Modeling, Debugging, and Optimization of Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective</strong>. Well done, Shahriar! 
+        </td>
+    </tr>   
+
+    <tr>
         <td> <span class="label success">09/1/23</span></td>
         <td> <a href="https://arxiv.org/abs/2306.07888">CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems</a>, has been accepted for publication in the <strong>ACM Symposium on Cloud Computing (SoCC)</strong>! Well done, Shahriar! 
         </td>
