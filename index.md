@@ -58,7 +58,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
     <tr>
         <td> <span class="label success">11/10/23</span></td>
-        <td> Shahriar Iqbal has successfully defended his PhD on <strong>Performance Modeling, Debugging, and Optimization of Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective</strong>. Well done, Shahriar! 
+        <td> Shahriar Iqbal has successfully defended his PhD on <strong>Performance Modeling, Debugging, and Optimization of Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective</strong>. With 3 A* publications at EuroSys, SoCC, and JAIR, he is among a few exceptional PhD graduates at UofSC. Not to mention that Shahriar is officially the first Ph.D. graduate out of my group, and I am so proud of his achievements. Well done, Shahriar! 
         </td>
     </tr>   
 
