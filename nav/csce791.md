@@ -22,13 +22,13 @@ This is a seminar series that will cover a wide breadth of current research topi
 
 * **Attendance** for the entire talk, from beginning to end, is worth one point. It is your responsibility to ensure that you have signed in.
 
-* **Review** listen carefully to the talk and submit a hardcopy of review report to the instructor at the end of the talk fter Q&A. Each review is worth one point. Reviews of talks that you did not attend are NOT accepted.
+* **Review** listen carefully to the talk and submit a hard copy of the review report to the instructor at the end of the talk after the Q&A. Each review is worth one point. Reviews of talks that you did not attend are NOT accepted.
 
 * **Grades** will be assigned on the following scale:
 A >= 24, B+ = 22, B = 20, C+ = 18, C = 16, D+ = 14, D = 12, F <= 10.
 
 ## Review
-Each review report should simply include bullet points of what you took away from the talk, the things you liked and you did not, as well as the questions that you have asked from the speaker in Q&A\; you are required to interact with the speaker. You need to submit the review by the end of the talk in **electronically in dropbox** (the report will not be accepted after an hour when the talk has been finished). For **online students**, the cut off time is 3 hours after the talk and the review is considered as an attendance.
+Each review report should simply include bullet points of what you took away from the talk, the things you liked and did not, as well as the questions that you have asked from the speaker in the Q&A you are required to interact with the speaker. You need to submit the review by the end of the talk **electronically in** dropbox** (the report will not be accepted after an hour when the talk has been finished). For **online students**, the cut-off time is 3 hours after the talk and the review is considered as attendance.
 
 # Policies
 
