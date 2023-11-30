@@ -92,8 +92,8 @@
   year: 2023
   url: https://arxiv.org/abs/2301.07690
   code: https://github.com/softsys4ai/care
-  video:
-  slide:
+  video: https://www.youtube.com/watch?v=OomZr99hEKI&ab_channel=Abirhossen
+  slide: https://speakerdeck.com/abirhossen/care-finding-root-causes-of-configuration-issues-in-highly-configurable-robots
   important: 1
   badge-available:
   badge-functional:

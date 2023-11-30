@@ -8,7 +8,7 @@ group: publications
 ---
 
 These are my ``notable`` academic publications.
-* A more comprehensive list of my publications can be found in [Google](http://scholar.google.com/citations?hl=en&user=Jre2RUQAAAAJ&view_op=list_works&sortby=pubdate) Scholar](http://scholar.google.com/citations?hl=en&user=Jre2RUQAAAAJ&view_op=list_works&sortby=pubdate)
+* A more comprehensive list of my publications can be found in [Google Scholar](http://scholar.google.com/citations?hl=en&user=Jre2RUQAAAAJ&view_op=list_works&sortby=pubdate)
 * I regularly upload all PDF versions of my publications to [Research Gate](https://www.researchgate.net/profile/Pooyan_Jamshidi)](https://www.researchgate.net/profile/Pooyan_Jamshidi)
 * I upload my presentations in [SlideShare](https://www.slideshare.net/pooyanjamshidi) or [SpeakerDeck](https://speakerdeck.com/pjamshidi).
 * Selected publications are indicated with <span style="color: red">&#9733;</span>
