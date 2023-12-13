@@ -10,6 +10,37 @@ group: news
 
 <table class="table table-sm">
 <tbody>
+
+    <tr>
+        <td> <span class="label success">12/13/23</span></td>
+        <td> <a href="https://www.jair.org/index.php/jair/article/view/14139">FlexiBO</a>, will be presented at <strong>AAAI'24</strong> in Vancouver, Canada!  
+        </td>
+    </tr>   
+
+    <tr>
+        <td> <span class="label success">11/28/23</span></td>
+        <td> I had the honor to <a href="https://speakerdeck.com/pjamshidi/reconciling-high-accuracy-cost-efficiency-and-low-latency-of-inference-serving-systems">present</a> our recent work on <a href="https://arxiv.org/abs/2304.10892">InfAdapter</a> and <a href="https://arxiv.org/abs/2308.12871">IPA</a> in the Engineering Self-Adaptive Software Systems class at the <strong>University of Waterloo</strong> remotely. Thanks, Prof. Ladan Tahvildari!
+        </td>
+    </tr> 
+
+    <tr>
+        <td> <span class="label success">11/10/23</span></td>
+        <td> <strong>Shahriar Iqbal</strong> has successfully defended his PhD on Performance Modeling, Debugging, and Optimization of Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective. With 3 A* publications at EuroSys, SoCC, and JAIR, he is among a few exceptional Ph.D. graduates at UofSC. Not to mention that Shahriar is officially the first Ph.D. graduate out of my group, and I am so proud of his achievements. Well done, Shahriar! 
+        </td>
+    </tr>   
+
+    <tr>
+        <td> <span class="label success">09/1/23</span></td>
+        <td> <a href="https://arxiv.org/abs/2306.07888">CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems</a>, has been accepted for publication in the <strong>ACM Symposium on Cloud Computing (SoCC)</strong>! Well done, Shahriar! 
+        </td>
+    </tr>
+
+    <tr>
+        <td> <span class="label success">04/30/23</span></td>
+        <td> <a href="https://arxiv.org/abs/2302.02502">Rethinking Robust Contrastive Learning from the Adversarial Perspective</a> has been accepted at <strong>New Frontiers in Adversarial Machine Learning at ICML'23 (AdvML-Frontiers'23)</strong>. Well done, Fatemeh and Mehdi!
+        </td>
+    </tr>
+
     <tr>
         <td> <span class="label success">01/19/23</span></td>
         <td> <a href="https://arxiv.org/abs/2301.07690">CaRE: Finding Root Causes of Configuration Issues in Highly-Configurable Robots</a> has been accepted for publication in the <strong>IEEE Robotics and Automation Letters (RA-L)</strong>. Well done, Abir and Sonam! I am thrilled to have the opportunity to be a part of the fantastic collaboration with Bradley Schmerl, Javier Cámara, David Garlan, Jason M. O’Kane, Ellen Czaplinski, and Katherine Dzurilla!

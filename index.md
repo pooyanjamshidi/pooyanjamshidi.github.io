@@ -57,6 +57,18 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
 
     <tr>
+        <td> <span class="label success">12/13/23</span></td>
+        <td> <a href="https://www.jair.org/index.php/jair/article/view/14139">FlexiBO</a>, will be presented at <strong>AAAI'24</strong> in Vancouver, Canada!  
+        </td>
+    </tr>   
+
+    <tr>
+        <td> <span class="label success">11/28/23</span></td>
+        <td> I had the honor to <a href="https://speakerdeck.com/pjamshidi/reconciling-high-accuracy-cost-efficiency-and-low-latency-of-inference-serving-systems">present</a> our recent work on <a href="https://arxiv.org/abs/2304.10892">InfAdapter</a> and <a href="https://arxiv.org/abs/2308.12871">IPA</a> in the Engineering Self-Adaptive Software Systems class at the <strong>University of Waterloo</strong> remotely. Thanks, Prof. Ladan Tahvildari!
+        </td>
+    </tr> 
+
+    <tr>
         <td> <span class="label success">11/10/23</span></td>
         <td> <strong>Shahriar Iqbal</strong> has successfully defended his PhD on Performance Modeling, Debugging, and Optimization of Configurable Computer Systems: A Causal and Statistical Machine Learning Perspective. With 3 A* publications at EuroSys, SoCC, and JAIR, he is among a few exceptional Ph.D. graduates at UofSC. Not to mention that Shahriar is officially the first Ph.D. graduate out of my group, and I am so proud of his achievements. Well done, Shahriar! 
         </td>

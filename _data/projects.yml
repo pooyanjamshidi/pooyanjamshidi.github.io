@@ -2,7 +2,7 @@
   id: sustainable-ml-pipeline
   start: 2022
   members: ghafouri
-  papers: ipa
+  papers: ipa,infadapter
   description:  "In this collaborative project, we develop infrastructure, runtime methods, and tools to enable performance optimization of ML inference pipelines by runtime dataflow restructuring, resource adaptations, model switching, and configuration tuning of model server knobs, such as batch sizes. This project is led by the University of South Carolina (US) and in collaborations with Queens Marry (UK), Technical University of Darmstadt (Germany), Vrije Universiteit Amsterdam (Netherlands), and industrial partners, including Roblox (US). It is one of the projects in my group related to Design for Sustainability in Computing."
   webpage: https://github.com/reconfigurable-ml-pipeline 
 
