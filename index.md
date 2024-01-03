@@ -57,6 +57,12 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
 
     <tr>
+        <td> <span class="label success">01/03/24</span></td>
+        <td> I am delighted to serve as an Associate Editor of ACM Transactions on Software Engineering and Methodology (TOSEM)!   
+        </td>
+    </tr>
+    
+    <tr>
         <td> <span class="label success">12/13/23</span></td>
         <td> <a href="https://www.jair.org/index.php/jair/article/view/14139">FlexiBO</a>, will be presented at <strong>AAAI'24</strong> in Vancouver, Canada!  
         </td>
