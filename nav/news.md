@@ -13,6 +13,12 @@ group: news
 
     <tr>
         <td> <span class="label success">01/03/24</span></td>
+        <td> I am delighted to serve as an Associate Editor of ACM Transactions on Software Engineering and Methodology (<strong>TOSEM</strong>) and as a PC member at European Conference of Artificial Intelligence (<strong>ECAI'24</strong>). Please consider submitting to these venues!
+        </td>
+    </tr>
+    
+    <tr>
+        <td> <span class="label success">01/03/24</span></td>
         <td> I am delighted to serve as an Associate Editor of ACM Transactions on Software Engineering and Methodology (TOSEM)!   
         </td>
     </tr>
