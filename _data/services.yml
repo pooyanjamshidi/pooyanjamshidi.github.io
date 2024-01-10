@@ -1,7 +1,17 @@
+- name: ECAI
+  role: PC Member
+  year: 2024
+  website: https://www.ecai2024.eu/
+
+- name: ICSE
+  role: PC Member
+  year: 2024
+  website: https://2014.icse-conferences.org/
+
 - name: SEAMS
   role: PC Co-Chair
   year: 2023
-  website: 
+  website: https://conf.researchr.org/home/seams-2023
 
 - name: ICSE/NIER
   role: PC Member
