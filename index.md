@@ -43,7 +43,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 * Want to ``know about AISys and our collaborators``? Here you can find [an overview of AISys lab members and their research](https://speakerdeck.com/pjamshidi/artificial-intelligence-and-systems-laboratory-aisys-a-research-overview).
 
-* Want to ``know more about our research``? Please check out our [Core](/research/) Research Areas](/research/) and [Publications](/publications/).
+* Want to ``know more about our research``? Please check out our [Core Research Areas](/research/) and [Publications](/publications/).
 
 * Want to join our weekly ``reading group``? Please read about our [AISys Reading Group](https://github.com/softsys4ai/readingroup/wiki/AISys-Reading-Group).
 
