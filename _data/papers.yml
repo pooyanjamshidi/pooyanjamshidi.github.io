@@ -1,3 +1,20 @@
+- id: cure
+  title: "CURE: Simulation-Augmented Auto-Tuning in Robotics"
+  authors: Md Abir Hossen, Sonam Kharade, Jason M. O'Kane, Bradley Schmerl, David Garlan, Pooyan Jamshidi
+  venue: Arxiv
+  venue_abb: T-RO
+  acc_rate:
+  year: 2024
+  url: https://arxiv.org/abs/2402.05399
+  code: https://github.com/softsys4ai/cure
+  video: 
+  slide: 
+  important: 1
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Robotic systems are typically composed of various subsystems, such as localization and navigation, each encompassing numerous configurable components (e.g., selecting different planning algorithms). Once an algorithm has been selected for a component, its associated configuration options must be set to the appropriate values. Configuration options across the system stack interact non-trivially. Finding optimal configurations for highly configurable robots to achieve desired performance poses a significant challenge due to the interactions between configuration options across software and hardware that result in an exponentially large and complex configuration space. These challenges are further compounded by the need for transferability between different environments and robotic platforms. Data efficient optimization algorithms (e.g., Bayesian optimization) have been increasingly employed to automate the tuning of configurable parameters in cyber-physical systems. However, such optimization algorithms converge at later stages, often after exhausting the allocated budget (e.g., optimization steps, allotted time) and lacking transferability. This paper proposes CURE -- a method that identifies causally relevant configuration options, enabling the optimization process to operate in a reduced search space, thereby enabling faster optimization of robot performance. CURE abstracts the causal relationships between various configuration options and robot performance objectives by learning a causal model in the source (a low-cost environment such as the Gazebo simulator) and applying the learned knowledge to perform optimization in the target (e.g., Turtlebot 3 physical robot). We demonstrate the effectiveness and transferability of CURE by conducting experiments that involve varying degrees of deployment changes in both physical robots and simulation."
+  
 - id: se4robotics
   title: "Software Engineering for Robotics: Future Research Directions"
   authors: Claire Le Goues, Sebastian Elbaum, David Anthony, Celik Berkay, Mauricio Castillo-Effen, Nikolaus Correll, Pooyan Jamshidi, Morgan Quigley, Trenton Tabor, and Qi Zhu
