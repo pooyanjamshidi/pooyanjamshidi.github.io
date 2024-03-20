@@ -18,7 +18,7 @@
   id: raspberry-si
   start: 2020
   members: su
-  papers: care
+  papers: care,cure
   description: "In this collaborative project (USC, CMU, York, UArk, NASA JPL/Ames/GRC), we develop technologies that enable learning-based autonomous planning and adaptation of space landers."
   webpage: https://nasa-raspberry-si.github.io/raspberry-si/
 
