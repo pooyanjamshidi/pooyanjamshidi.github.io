@@ -57,7 +57,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
     <tr>
         <td> <span class="label success">03/28/24</span></td>
-        <td> I am honored to receive the <strong>Most Influential Award</strong> for our paper entitiled "Pooyan Jamshidi, Aakash Ahmad, Claus Pahl: Autonomic Resource Provisioning for Cloud-based Software. SEAMS 2014" from my beloved community---SEAMS! This would have not been possible without having an amazing advisor such as Claus and an awesome collaborator such as Aakash! 
+        <td> I am honored to receive the SEAMS's <strong>Most Influential Award</strong> for our paper entitiled "Pooyan Jamshidi, Aakash Ahmad, Claus Pahl: Autonomic Resource Provisioning for Cloud-based Software. SEAMS 2014" from my beloved community! This would have not been possible without having an amazing advisor such as Claus and an awesome collaborator such as Aakash! 
         </td>
     </tr>
 
