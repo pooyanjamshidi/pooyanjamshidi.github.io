@@ -1,3 +1,20 @@
+- id: sponge
+  title: "Sponge: Inference Serving with Dynamic SLOs Using In-Place Vertical Scaling"
+  authors: Kamran Razavi, Saeid Ghafouri, Max Mühlhäuser, Pooyan Jamshidi, Lin Wang
+  venue: ACM EuroMLSys@EuroSys
+  venue_abb: EuroMLSys
+  acc_rate:
+  year: 2024
+  url: https://fileserver.tk.informatik.tu-darmstadt.de/Publications/2024/razavi2024sponge.pdf
+  code: https://github.com/saeid93/sponge
+  video:
+  slide: 
+  important: 
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Mobile and IoT applications increasingly adopt deep learning inference to provide intelligence. Inference requests are typically sent to a cloud infrastructure over a wireless network that is highly variable, leading to the challenge of dynamic Service Level Objectives (SLOs) at the request level. This paper presents Sponge, a novel deep learning inference serving system that maximizes resource efficiency while guaranteeing dynamic SLOs. Sponge achieves its goal by applying in-place vertical scaling, dynamic batching, and request reordering. Specifically, we introduce an Integer Programming formulation to capture the resource allocation problem, providing a mathematical model of the relationship between latency, batch size, and resources. We demonstrate the potential of Sponge through a prototype implementation and preliminary experiments and discuss future works."
+
 - id: cure
   title: "CURE: Simulation-Augmented Auto-Tuning in Robotics"
   authors: Md Abir Hossen, Sonam Kharade, Jason M. O'Kane, Bradley Schmerl, David Garlan, Pooyan Jamshidi
