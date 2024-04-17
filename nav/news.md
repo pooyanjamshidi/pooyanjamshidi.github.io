@@ -12,6 +12,17 @@ group: news
 <tbody>
 
     <tr>
+        <td> <span class="label success">04/15/24</span></td>
+        <td> <a href="https://arxiv.org/abs/2308.12871">IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency</a>, has been accepted for publication in the <strong>Journal of Systems Research (JSys) </strong>! The <a href="https://github.com/reconfigurable-ml-pipeline/ipa">artifact</a> was fully reproduced by the JSys artifact team. I am so proud of this work with amazing collaborators. Well done, Saeid!
+        </td>
+    </tr>
+    <tr>
+        <td> <span class="label success">03/28/24</span></td>
+        <td> I am honored to receive the SEAMS's <a href="https://pooyanjamshidi.github.io/resources/docs/SEAMS-2024-MIP-Certificate.pdf">Most Influential Award</a> for our paper entitiled "Pooyan Jamshidi, Aakash Ahmad, Claus Pahl: Autonomic Resource Provisioning for Cloud-based Software. SEAMS 2014" from my beloved community! This would have not been possible without having an amazing advisor such as Claus and an awesome collaborator such as Aakash! 
+        </td>
+    </tr>
+
+    <tr>
         <td> <span class="label success">01/03/24</span></td>
         <td> I am delighted to serve as an Associate Editor of ACM Transactions on Software Engineering and Methodology (<strong>TOSEM</strong>) and as a PC member at European Conference of Artificial Intelligence (<strong>ECAI'24</strong>). Please consider submitting to these venues!
         </td>
