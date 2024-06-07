@@ -55,6 +55,11 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 <table class="table table-sm">
 <tbody>
+    <tr>
+        <td> <span class="label success">05/07/24</span></td>
+        <td> Saeid Ghafouri wrote a blog post about his amazing project at AISys, in particular, about how he has done extensive experiments using Chameleon cloud resources: <a href="https://www.chameleoncloud.org/blog/2024/05/28/optimizing-production-ml-inference-for-accuracy-and-cost-efficiency/">Optimizing Production ML Inference for Accuracy and Cost Efficiency</a>. 
+        </td>
+    </tr>
 
     <tr>
         <td> <span class="label success">04/15/24</span></td>
