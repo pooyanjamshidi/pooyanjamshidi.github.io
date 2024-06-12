@@ -12,13 +12,20 @@ group: news
 <tbody>
 
     <tr>
-        <td> <span class="label success">04/15/24</span></td>
-        <td> <a href="https://arxiv.org/abs/2308.12871">IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency</a>, has been accepted for publication in the <strong>Journal of Systems Research (JSys) </strong>! The <a href="https://github.com/reconfigurable-ml-pipeline/ipa">artifact</a> was fully reproduced by the JSys artifact team. I am so proud of this work with amazing collaborators. Well done, Saeid!
+        <td> <span class="label success">05/07/24</span></td>
+        <td> Saeid Ghafouri wrote a blog post about his amazing project at AISys, in particular, about how he has done extensive experiments using Chameleon cloud resources: <a href="https://www.chameleoncloud.org/blog/2024/05/28/optimizing-production-ml-inference-for-accuracy-and-cost-efficiency/">Optimizing Production ML Inference for Accuracy and Cost Efficiency</a>. 
         </td>
     </tr>
+
+    <tr>
+        <td> <span class="label success">04/15/24</span></td>
+        <td> <a href="https://arxiv.org/abs/2308.12871">IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency</a>, has been accepted for publication in the <strong>Journal of Systems Research (JSys)</strong>! The IPA <a href="https://github.com/reconfigurable-ml-pipeline/ipa">artifact</a> was fully reproduced by the JSys artifact team. I am so proud of this work with amazing collaborators. Well done, Saeid!
+        </td>
+    </tr>
+ 
     <tr>
         <td> <span class="label success">03/28/24</span></td>
-        <td> I am honored to receive the SEAMS's <a href="https://pooyanjamshidi.github.io/resources/docs/SEAMS-2024-MIP-Certificate.pdf">Most Influential Award</a> for our paper entitiled "Pooyan Jamshidi, Aakash Ahmad, Claus Pahl: Autonomic Resource Provisioning for Cloud-based Software. SEAMS 2014" from my beloved community! This would have not been possible without having an amazing advisor such as Claus and an awesome collaborator such as Aakash! 
+        <td> I am honored to receive the <strong>SEAMS's</strong> <a href="https://www.sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2024/jamshidi_most_influential_paper_award.php">Most Influential Award</a> for our paper entitiled "Pooyan Jamshidi, Aakash Ahmad, Claus Pahl: Autonomic Resource Provisioning for Cloud-based Software. SEAMS 2014" from my beloved community! This would have not been possible without having an amazing advisor such as Claus and an awesome collaborator such as Aakash! 
         </td>
     </tr>
 
