@@ -1,3 +1,11 @@
+- id: cloud-control
+  title: "Reconciling Accuracy, Cost, and Latency of Inference Serving Systems"
+  where: "Stockholm, Sweden"
+  year: 2024
+  month: June
+  url: https://speakerdeck.com/pjamshidi/reconciling-accuracy-cost-and-latency-of-inference-serving-systems
+  video: 
+
 - id: waterloo-talk
   title: "Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems"
   where: "Waterloo, Canada (Remote)"
