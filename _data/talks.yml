@@ -1,3 +1,11 @@
+- id: reconciling-uf-talk
+  title: "Reconciling Accuracy, Cost, and Latency of Inference Serving Systems"
+  where: "University of Florida, Gainesville, FL"
+  year: 2024
+  month: September
+  url: https://news.ece.ufl.edu/2024/08/14/seminar-pooyan-jamshidi/
+  video: https://mediasite.video.ufl.edu/Mediasite/Play/42f4b14d0a1d4e3d89eba1fc012139ff1d
+
 - id: cloud-control
   title: "Reconciling Accuracy, Cost, and Latency of Inference Serving Systems"
   where: "Stockholm, Sweden"
