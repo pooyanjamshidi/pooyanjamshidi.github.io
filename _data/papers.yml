@@ -1,3 +1,20 @@
+- id: SelfXit-TMLR
+  title: "An Unsupervised Early Exit Mechanism for Deep Neural Networks"
+  authors: Hossein KhademSohi, Mohammadamin Abedi, Yani Ioannou, Steve Drew, Pooyan Jamshidi, and Hadi Hemmati
+  venue: Transactions on Machine Learning Research
+  venue_abb: TMLR
+  acc_rate:
+  year: 2024
+  url: https://openreview.net/forum?id=h4rUKKfl5S&noteId=F65jaXhZPN
+  code: https://github.com/hoseinkhs/AutoCacheLayer/
+  video:
+  slide:
+  important:
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Deep Neural Networks (DNNs) have become an essential component in many application domains, including web-based services. A variety of these services require high throughput and (close to) real-time features, for instance, to respond or react to users’ requests or to process a stream of incoming data on time. However, the trend in DNN design is towards larger models with many layers and parameters to achieve more accurate results. Although these models are often pre-trained, the computational complexity in such large models can still be relatively significant, hindering low inference latency. In this paper, we propose an end-to-end automated early exiting solution to improve the performance of DNN-based vision services in terms of computational complexity and inference latency. Our method adopts the ideas of self-distillation of DNN models and early exits specifically for vision applications. The proposed solution is an automated unsupervised early exiting mechanism that allows early exiting of a large model during inference time if the early exit model in one of the early exits is confident enough for final prediction. One of the main contributions of this paper is that we have implemented the idea as an unsupervised early exiting, meaning that the early exit models do not need access to training data and perform solely based on the incoming data at run-time, making it suitable for applications using pre-trained models. The results of our experiments on two vision tasks (image classification and object detection) show that, on average, early exiting can reduce the computational complexity of these services up to 58% (in terms of FLOP count) and improve their inference latency up to 46% with a low to zero reduction in accuracy. Our approach also outperforms existing methods, particularly on complex models and larger datasets. It achieves a notable reduction in latency of 51.6% and 30.4% on CIFAR100-Resnet50, with an accompanying increase in accuracy of 2.31% and 0.72%, on average, compared to GATI and BranchyNet."
+
 - id: sponge
   title: "Sponge: Inference Serving with Dynamic SLOs Using In-Place Vertical Scaling"
   authors: Kamran Razavi, Saeid Ghafouri, Max Mühlhäuser, Pooyan Jamshidi, Lin Wang
