@@ -1,5 +1,22 @@
+- id: robust-emp-ssl
+  title: "An Empirical Study of Accuracy-Robustness Tradeoff and Training Efficiency in Self-Supervised Learning"
+  authors: Fatemeh Ghofrani, Mehdi Yaghouti, Pooyan Jamshidi
+  venue: Arxiv
+  venue_abb: TMLR
+  acc_rate:
+  year: 2025
+  url: https://arxiv.org/abs/2501.03507
+  code: https://github.com/softsys4ai/CF-AMC-SSL
+  video:
+  slide: 
+  important: 
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Self-supervised learning (SSL) has made significant strides in learning image representations, yet its principles remain partially understood, particularly in adversarial scenarios. This work explores the interplay between SSL and adversarial training (AT), focusing on whether this integration can yield robust representations that balance computational efficiency, clean accuracy, and robustness. A major challenge lies in the inherently high cost of AT, which combines an inner maximization problem (generating adversarial examples) with an outer minimization problem (training representations). This challenge is exacerbated by the extensive training epochs required for SSL convergence, which become even more demanding in adversarial settings. Recent advances in SSL, such as Extreme-Multi-Patch Self-Supervised Learning (EMP-SSL), have demonstrated that increasing the number of patches per image instance can significantly reduce the number of training epochs. Building on this, we introduce Robust-EMP-SSL, an extension of EMP-SSL specifically designed for adversarial training scenarios. Robust-EMP-SSL is a framework that leverages multiple crops per image to enhance data diversity, integrates invariance terms with regularization to prevent collapse, and optimizes adversarial training efficiency by reducing the required training epochs. By aligning these components, Robust-EMP-SSL enables the learning of robust representations while addressing the high computational costs and accuracy trade-offs inherent in adversarial training. This study poses a central question: How can multiple crops or diverse patches, combined with adversarial training strategies, achieve trade-offs between computational efficiency, clean accuracy, and robustness? Our empirical results show that Robust-EMP-SSL not only accelerates convergence, but also achieves a superior balance between clean accuracy and adversarial robustness, outperforming SimCLR, a widely used self-supervised baseline that, like other methods, relies on only two augmentations. Furthermore, we propose the Cost-Free Adversarial Multi-Crop Self-Supervised Learning (CF-AMC-SSL) method, which incorporates free adversarial training into the multi-crop SSL framework. CF-AMC-SSL demonstrates the potential to enhance both clean accuracy and adversarial robustness under reduced epoch conditions, further improving efficiency. These findings highlight the potential of Robust-EMP-SSL and CF-AMC-SSL to make SSL more practical in adversarial scenarios, paving the way for future empirical explorations and real-world applications."
+
 - id: SelfXit-TMLR
-  title: "An Unsupervised Early Exit Mechanism for Deep Neural Networks"
+  title: "SelfXit: An Unsupervised Early Exit Mechanism for Deep Neural Networks"
   authors: Hossein KhademSohi, Mohammadamin Abedi, Yani Ioannou, Steve Drew, Pooyan Jamshidi, and Hadi Hemmati
   venue: Transactions on Machine Learning Research
   venue_abb: TMLR
@@ -9,7 +26,7 @@
   code: https://github.com/hoseinkhs/AutoCacheLayer/
   video:
   slide:
-  important:
+  important: 1
   badge-available:
   badge-functional:
   badge-reproduced:
@@ -35,10 +52,10 @@
 - id: cure
   title: "CURE: Simulation-Augmented Auto-Tuning in Robotics"
   authors: Md Abir Hossen, Sonam Kharade, Jason M. O'Kane, Bradley Schmerl, David Garlan, Pooyan Jamshidi
-  venue: Arxiv
+  venue: IEEE Transactions on Robotics
   venue_abb: T-RO
   acc_rate:
-  year: 2024
+  year: 2025
   url: https://arxiv.org/abs/2402.05399
   code: https://github.com/softsys4ai/cure
   video: 
