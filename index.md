@@ -11,7 +11,7 @@ I am the director of the AISys lab and an assistant professor in the computer sc
 ``` -->
 
 ```inline
-Hey there! Thanks for being here! I am an assistant professor in the computer science and engineering department at the University of South Carolina (USC). My research involves advancing the state-of-the-art in AI/ML by developing novel algorithms and methods for solving some outstanding problems in:
+Hey there! Thanks for being here! I am an associate professor in the computer science and engineering department at the University of South Carolina (USC). My research involves advancing the state-of-the-art in AI/ML by developing novel algorithms and methods for solving some outstanding problems in:
 
 - Sustainable AI [funded by NSF]: We have several ongoing projects on sustainable AI, including ML Inference Pipeline Adaptation, to find the right tradeoff between High Accuracy, Cost-Efficiency, and Sustainability. We also develop design strategies and patterns that developers can use to build sustainability into their system as an explicit goal.
 

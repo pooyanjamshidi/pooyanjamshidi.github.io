@@ -4,7 +4,7 @@ url: https://pooyanjamshidi.github.io # the base hostname & protocol for your si
 
 # User settings
 title: Pooyan Jamshidi
-position: Assistant Professor
+position: Associate Professor
 description: Welcome to my homepage
 email: pjamshid@cse.sc.edu
 group: AISys Lab
@@ -14,7 +14,7 @@ deptweb: https://cse.sc.edu/
 institution: University of South Carolina
 institutionweb: https://www.sc.edu
 address: Storey Innovation Center
-office: 2207
+office: 2235
 lab: 2212
 twitter: pooyanjamshidi
 github: pooyanjamshidi
@@ -26,7 +26,7 @@ stackexchange: pjamshidi
 linkedin: pooyanjamshidi
 youtube: UCpWgqip1gn6P8JU_w3a1KCA
 
-# Build settings
+# Build settings 
 markdown: kramdown
 highlighter: rouge
 paginate: 3
