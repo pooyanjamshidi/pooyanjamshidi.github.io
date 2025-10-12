@@ -692,10 +692,6 @@ pre > code {
   float: left;
 }
 
-.row-pic {
-  width: 25%;
-  float: left;
-}
 .row-pic > img {
   width: 150px;
   height: auto;
@@ -705,6 +701,10 @@ pre > code {
   border: 0px solid rgba(102, 102, 102, 0.6);
   border-radius: 5%;
   box-sizing: border-box;
+}
+.row-pic {
+  width: 25%;
+  float: left;
 }
 
 .row-info {
