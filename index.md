@@ -57,9 +57,14 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 <table class="table table-sm">
 <tbody>
+        <tr>
+        <td> <span class="label success">03/28/25</span></td>
+        <td> I am honored to receive the <strong>SEAMS's</strong> <a href="https://pooyanjamshidi.github.io/resources/docs/SEAMS2025_MIPAward.pdf">Most Influential Paper Award</a> for our paper entitiled <a href="https://inria.hal.science/hal-01119461">Software Engineering Meets Control Theory</a>, co-authored with Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. 
+        </td>
+    </tr>
     <tr>
-        <td> <span class="label success">03/28/24</span></td>
-        <td> I am honored to receive the <strong>SEAMS's</strong> <a href="https://pooyanjamshidi.github.io/resources/docs/SEAMS2025_MIPAward.PDF">Most Influential Paper Award</a> for our paper entitiled <a href="https://inria.hal.science/hal-01119461">Software Engineering Meets Control Theory</a>, co-authored with Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. 
+        <td> <span class="label success">01/15/25</span></td>
+        <td> I’m thrilled and humbled to share that I’ve been recommended for <strong>tenure and promotion</strong> to the rank of <a href="https://pooyanjamshidi.github.io/resources/docs/tenure.pdf">Associate Professor</a> at the University of South Carolina! This achievement is not mine alone—it reflects the unwavering support, love, and encouragement I’ve received from my family, friends, mentors, colleagues, and students. My family’s strength and belief in me have been my foundation throughout this journey, and I couldn’t have reached this milestone without them. I’m deeply grateful for this opportunity to continue teaching, learning, and growing in my role. Here’s to the next chapter of pushing boundaries and exploring new possibilities together! 
         </td>
     </tr>
 
