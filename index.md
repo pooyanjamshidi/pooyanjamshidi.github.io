@@ -57,9 +57,9 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 
 <table class="table table-sm">
 <tbody>
-        <tr>
-        <td> <span class="label success">03/28/25</span></td>
-        <td> I am honored to receive the <strong>SEAMS's</strong> <a href="https://pooyanjamshidi.github.io/resources/docs/SEAMS2025_MIPAward.pdf">Most Influential Paper Award</a> for our paper entitiled <a href="https://inria.hal.science/hal-01119461">Software Engineering Meets Control Theory</a>, co-authored with Antonio Filieri, Martina Maggio, Konstantinos Angelopoulos, Nicolas D’Ippolito, Ilias Gerostathopoulos, Andreas Berndt Hempel, Henry Hoffmann, Pooyan Jamshidi, Evangelia Kalyvianaki, Cristian Klein, Filip Krikava, Sasa Misailovic, Alessandro Vittorio Papadopoulos, Suprio Ray, Amir M. Sharifloo, Stepan Shevtsov, Mateusz Ujma, and Thomas Vogel. 
+    <tr>
+        <td> <span class="label success">11/17/25</span></td>
+        <td> I am honored to be selected as one of the ACM Symposium on Cloud Computing 2025's distinguished reviewers. Thank you, SoCC'25! 
         </td>
     </tr>
     <tr>
