@@ -1,3 +1,18 @@
+- id: rescue
+  title: "Multi-Objective Multi-Fidelity Bayesian Optimization with Causal Priors"
+  authors: Abir Hossen, Mohammad Ali Javidian, Vignesh Narayanan, Jason M. O'Kane, Pooyan Jamshidi
+  venue: Arxiv
+  venue_abb: ICML
+  acc_rate:
+  year: 2026
+  url: https://www.arxiv.org/abs/2602.00788
+  code: https://github.com/softsys4ai/rescue
+  data:
+  video:
+  slide: 
+  important: 1
+  abstract: "Multi-fidelity Bayesian optimization (MFBO) accelerates the search for the global optimum of black-box functions by integrating inexpensive, low-fidelity approximations. The central task of an MFBO policy is to balance the cost-efficiency of low-fidelity proxies against their reduced accuracy to ensure effective progression toward the high-fidelity optimum. Existing MFBO methods primarily capture associational dependencies between inputs, fidelities, and objectives, rather than causal mechanisms, and can perform poorly when lower-fidelity proxies are poorly aligned with the target fidelity. We propose RESCUE (REducing Sampling cost with Causal Understanding and Estimation), a multi-objective MFBO method that incorporates causal calculus to systematically address this challenge. RESCUE learns a structural causal model capturing causal relationships between inputs, fidelities, and objectives, and uses it to construct a probabilistic multi-fidelity (MF) surrogate that encodes intervention effects. Exploiting the causal structure, we introduce a causal hypervolume knowledge-gradient acquisition strategy to select input-fidelity pairs that balance expected multi-objective improvement and cost. We show that RESCUE improves sample efficiency over state-of-the-art MF optimization methods on synthetic and real-world problems in robotics, machine learning (AutoML), and healthcare."
+
 - id: modular-perf
   title: "Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling"
   authors: Omid Gheibi, Christian Kaetner, Pooyan Jamshidi
