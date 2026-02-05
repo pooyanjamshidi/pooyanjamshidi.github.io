@@ -59,7 +59,7 @@ Before joining the faculty at the University of South Carolina, I was a postdoc 
 <tbody>
     <tr>
         <td> <span class="label success">11/17/25</span></td>
-        <td> I am honored to be selected as one of the ACM Symposium on Cloud Computing 2025's distinguished reviewers. Thank you, SoCC'25! 
+        <td> I am honored to be selected as one of the ACM Symposium on Cloud Computing 2025's <a href="https://acmsocc.org/2025/awards.html">distinguished reviewers</a>. Thank you, SoCC'25! 
         </td>
     </tr>
     <tr>
