@@ -31,6 +31,22 @@
   badge-reproduced:
   abstract: "Performance-influence models are beneficial for understanding how configurations affect system performance, but their creation is challenging due to the exponential growth of configuration spaces. While gray-box approaches leverage selective structural knowledge (like the module execution graph of the system) to improve modeling, the relationship between this knowledge, a system's characteristics (we call them structural aspects), and potential model improvements is not well understood. This paper addresses this gap by formally investigating how variations in structural aspects (e.g., the number of modules and options per module) and the level of structural knowledge impact the creation of opportunities for improved modular performance modeling. We introduce and quantify the concept of modeling hardness, defined as the inherent difficulty of performance modeling. Through controlled experiments with synthetic system models, we establish an analytical matrix to measure these concepts. Our findings show that modeling hardness is primarily driven by the number of modules and configuration options per module. More importantly, we demonstrate that both higher levels of structural knowledge and increased modeling hardness significantly enhance the opportunity for improvement. The impact of these factors varies by performance metric; for ranking accuracy (e.g., in debugging task), structural knowledge is more dominant, while for prediction accuracy (e.g., in resource management task), hardness plays a stronger role. These results provide actionable insights for system designers, guiding them to strategically allocate time and select appropriate modeling approaches based on a system's characteristics and a given task's objectives."
 
+- id: diff-perf-fuzz
+  title: "Differential Performance Fuzzing of Configuration Options"
+  authors: Haesue Baik, Chenyang Yang, Vasudev Vikram, Pooyan Jamshidi, Rohan Padhye, Christian Kaestner
+  venue: International Workshop on Search-Based and Fuzz Testing
+  venue_abb: SBFT
+  acc_rate:
+  year: 2025
+  url: https://www.cs.cmu.edu/~ckaestne/pdf/sbft25.pdf
+  video:
+  slide: 
+  important: 
+  badge-available:
+  badge-functional:
+  badge-reproduced:
+  abstract: "Highly-configurable software often includes performance-sensitive configuration options. There are performance expectations in different configurations, but these expectations may not hold due to inaccurate mental models, corner cases, or unanticipated interactions with other options. We propose differential performance fuzzing of configuration options, a fuzzing technique that uses differential performance feedback to automatically identify inputs that violate these expectations for specific configuration changes. By guiding fuzzing toward scenarios where a supposedly faster configuration performs worse, differential performance fuzzing reveals unexpected performance behavior effectively. In our preliminary evaluation, our method identified unexpected performance gains in configurations presumed slower for 4 configuration options in Closure, demonstrating the potential for detecting performance issues in real-world applications."
+
 - id: robust-emp-ssl
   title: "An Empirical Study of Accuracy-Robustness Tradeoff and Training Efficiency in Self-Supervised Learning"
   authors: Fatemeh Ghofrani, Mehdi Yaghouti, Pooyan Jamshidi
